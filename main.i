@@ -140,6 +140,54 @@ extern const unsigned short gbfLoseMap[1024];
 
 extern const unsigned short gbfLosePal[256];
 # 5 "main.c" 2
+# 1 "gbfGame.h" 1
+# 22 "gbfGame.h"
+extern const unsigned short gbfGameTiles[15488];
+
+
+extern const unsigned short gbfGameMap[1024];
+
+
+extern const unsigned short gbfGamePal[256];
+# 6 "main.c" 2
+# 1 "mordecaiHead.h" 1
+# 21 "mordecaiHead.h"
+extern const unsigned short mordecaiHeadTiles[16384];
+
+
+extern const unsigned short mordecaiHeadPal[16];
+# 7 "main.c" 2
+# 1 "mordSheet.h" 1
+# 21 "mordSheet.h"
+extern const unsigned short mordSheetTiles[16384];
+
+
+extern const unsigned short mordSheetPal[256];
+# 8 "main.c" 2
+# 1 "coinSheet.h" 1
+# 21 "coinSheet.h"
+extern const unsigned short coinSheetTiles[16384];
+
+
+extern const unsigned short coinSheetPal[256];
+# 9 "main.c" 2
+# 1 "gameSheet.h" 1
+# 21 "gameSheet.h"
+extern const unsigned short gameSheetTiles[16384];
+
+
+extern const unsigned short gameSheetPal[256];
+# 10 "main.c" 2
+# 1 "gbfInstr.h" 1
+# 22 "gbfInstr.h"
+extern const unsigned short gbfInstrTiles[19232];
+
+
+extern const unsigned short gbfInstrMap[1024];
+
+
+extern const unsigned short gbfInstrPal[256];
+# 11 "main.c" 2
 
 
 void initialize();
@@ -191,10 +239,10 @@ int main () {
                 game();
                 break;
             case INSTR:
-                game();
+                instructions();
                 break;
             case CREDS:
-                game();
+                credits();
                 break;
             case PAUSE:
                 pause();
@@ -218,59 +266,134 @@ void initialize() {
     goToStart();
 }
 
+int morCol = 60;
+int morRow = 110;
+
 
 void goToStart() {
     DMANow(3, GBFPal, ((unsigned short *)0x5000000), 256);
     DMANow(3, GBFTiles, &((charblock *)0x6000000)[0], 37312 / 2);
     DMANow(3, GBFMap, &((screenblock *)0x6000000)[28], 2048 / 2);
 
+    DMANow(3, mordecaiHeadPal, ((unsigned short *)0x5000200), 256);
+    DMANow(3, mordecaiHeadTiles, &((charblock *)0x6000000)[4], 32768 / 2);
+
     hideSprites();
     waitForVBlank();
     DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
 
+    hOff = 0;
+    morCol = 60;
+    morRow = 110;
     state = START;
 }
 
 
+
+
+void drawPointer() {
+    shadowOAM[0].attr0 = morRow | (0<<8) | (0<<14) | (0<<13);
+    shadowOAM[0].attr1 = morCol | (3<<14);
+    shadowOAM[0].attr2 = ((0)*32+(0));
+}
+
+
+
+
 void start() {
+
+
+    drawPointer();
+    waitForVBlank();
+    DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
+
+    if((!(~(oldButtons)&((1<<4))) && (~buttons & ((1<<4))))) {
+        if (morCol < 200) {
+            morCol += 70;
+        }
+    }
+    if((!(~(oldButtons)&((1<<5))) && (~buttons & ((1<<5))))) {
+        if (morCol > 60) {
+            morCol -= 70;
+        }
+    }
     if((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
-
-        goToGame();
+        if (morCol == 60) {
+            initGame();
+            goToGame();
+        } else if (morCol == 130) {
+            goToInstructions();
+        } else if (morCol == 200) {
+            goToCredits();
+        }
     }
-    if((!(~(oldButtons)&((1<<2))) && (~buttons & ((1<<2))))) {
-        goToInstructions();
-    }
-    if((!(~(oldButtons)&((1<<8))) && (~buttons & ((1<<8))))) {
-        goToCredits();
-    }
-
 }
 
 void goToGame() {
+
+    DMANow(3, gbfGamePal, ((unsigned short *)0x5000000), 512);
+    DMANow(3, gbfGameTiles, &((charblock *)0x6000000)[0], 30976 / 2);
+    DMANow(3, gbfGameMap, &((screenblock *)0x6000000)[28], 2048 / 2);
+
+    DMANow(3, gameSheetPal, ((unsigned short *)0x5000200), 16);
+    DMANow(3, gameSheetTiles, &((charblock *)0x6000000)[4], 32768 / 2);
+
+    hideSprites();
+    waitForVBlank();
+    DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
+
     state = GAME;
 
 }
 
 void game() {
+
+    drawGame();
+    waitForVBlank();
+    DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
+
     if((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
         goToPause();
     }
+    if((!(~(oldButtons)&((1<<2))) && (~buttons & ((1<<2))))) {
+        goToLose();
+    }
+
+    hOff++;
+    (*(volatile unsigned short *)0x04000014) = hOff;
 
 }
 
 void goToInstructions() {
 
+    DMANow(3, gbfInstrPal, ((unsigned short *)0x5000000), 256);
+    DMANow(3, gbfInstrTiles, &((charblock *)0x6000000)[0], 38464 / 2);
+    DMANow(3, gbfInstrMap, &((screenblock *)0x6000000)[28], 2048 / 2);
+
+    hideSprites();
+    waitForVBlank();
+    DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
+
+    hOff = 0;
+    state = INSTR;
+
 }
 
 void instructions() {
+    if ((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
+        goToStart();
+    }
 
 }
 
 void goToCredits() {
-# 143 "main.c"
+# 221 "main.c"
 }
 
 void credits() {
+    if ((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
+        goToStart();
+    }
 
 }
 
@@ -281,20 +404,45 @@ void goToPause() {
     DMANow(3, gbfPauseTiles, &((charblock *)0x6000000)[0], 36096 / 2);
     DMANow(3, gbfPauseMap, &((screenblock *)0x6000000)[28], 2048 / 2);
 
+    DMANow(3, mordecaiHeadPal, ((unsigned short *)0x5000200), 256);
+    DMANow(3, mordecaiHeadTiles, &((charblock *)0x6000000)[4], 32768 / 2);
+
     hideSprites();
     waitForVBlank();
     DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
 
+    hOff = 0;
+    morCol = 60;
+    morRow = 97;
     state = PAUSE;
 
 }
 
 void pause() {
-    if ((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
-        goToGame();
+
+    drawPointer();
+    waitForVBlank();
+    DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
+
+    if((!(~(oldButtons)&((1<<4))) && (~buttons & ((1<<4))))) {
+        if (morCol < 180) {
+            morCol += 70;
+        }
     }
-    if ((!(~(oldButtons)&((1<<2))) && (~buttons & ((1<<2))))) {
-        goToStart();
+    if((!(~(oldButtons)&((1<<5))) && (~buttons & ((1<<5))))) {
+        if (morCol > 60) {
+            morCol -= 70;
+        }
+    }
+    if((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
+        if (morCol == 60) {
+
+            goToGame();
+        } else if (morCol == 130) {
+            goToInstructions();
+        } else if (morCol == 200) {
+            goToStart();
+        }
     }
 
 }
@@ -305,15 +453,46 @@ void goToLose() {
     DMANow(3, gbfLoseTiles, &((charblock *)0x6000000)[0], 19904 / 2);
     DMANow(3, gbfLoseMap, &((screenblock *)0x6000000)[28], 2048 / 2);
 
+    DMANow(3, mordecaiHeadPal, ((unsigned short *)0x5000200), 256);
+    DMANow(3, mordecaiHeadTiles, &((charblock *)0x6000000)[4], 32768 / 2);
+
     hideSprites();
     waitForVBlank();
     DMANow(3, shadowOAM, ((OBJ_ATTR*)(0x7000000)), 128 * 4);
 
+    hOff = 0;
+    morCol = 60;
+    morRow = 97;
     state = LOSE;
 
 }
 
 void lose() {
+
+    if((!(~(oldButtons)&((1<<4))) && (~buttons & ((1<<4))))) {
+        if (morCol < 180) {
+            morCol += 70;
+        }
+    }
+    if((!(~(oldButtons)&((1<<5))) && (~buttons & ((1<<5))))) {
+        if (morCol > 60) {
+            morCol -= 70;
+
+        }
+    }
+    if((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
+        if (morCol == 60) {
+
+            goToGame();
+        } else if (morCol == 130) {
+            goToInstructions();
+        } else if (morCol == 200) {
+            goToStart();
+        }
+    }
+
+
+
     if ((!(~(oldButtons)&((1<<3))) && (~buttons & ((1<<3))))) {
   goToStart();
  }

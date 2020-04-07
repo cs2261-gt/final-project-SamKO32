@@ -75,9 +75,9 @@ GBFPal:
 	.short	3252
 	.short	10548
 	.short	220
-	.short	1104
 	.short	3231
 	.short	1096
+	.short	1104
 	.short	2235
 	.short	15
 	.short	1064
@@ -105,7 +105,6 @@ GBFPal:
 	.short	22
 	.short	16985
 	.short	3146
-	.short	17
 	.short	3176
 	.short	6428
 	.short	9393
@@ -113,10 +112,11 @@ GBFPal:
 	.short	22201
 	.short	3112
 	.short	2174
+	.short	17
 	.short	2156
 	.short	32767
-	.short	11774
 	.short	12
+	.short	11774
 	.short	1179
 	.short	10419
 	.short	9726
@@ -137,8 +137,8 @@ GBFPal:
 	.short	285
 	.short	6382
 	.short	118
-	.short	3420
 	.short	6384
+	.short	3420
 	.short	57
 	.short	23359
 	.short	10615
@@ -151,10 +151,10 @@ GBFPal:
 	.short	4269
 	.short	7547
 	.short	1181
+	.short	24383
 	.short	51
 	.short	1062
 	.short	8
-	.short	24383
 	.short	3115
 	.short	2155
 	.short	1115
@@ -172,8 +172,8 @@ GBFPal:
 	.short	9630
 	.short	3295
 	.short	3258
-	.short	5405
 	.short	5260
+	.short	5405
 	.short	14975
 	.short	2083
 	.short	20086
@@ -182,8 +182,8 @@ GBFPal:
 	.short	2239
 	.short	1182
 	.short	1145
-	.short	50
 	.short	185
+	.short	50
 	.short	5194
 	.short	10714
 	.short	9455
@@ -208,13 +208,13 @@ GBFPal:
 	.short	5
 	.short	119
 	.short	9588
-	.short	5367
 	.short	6462
+	.short	5367
 	.short	3179
 	.short	3292
+	.short	3357
 	.short	1030
 	.short	23326
-	.short	3357
 	.short	10687
 	.short	120
 	.short	7408
@@ -244,18 +244,18 @@ GBFPal:
 	.short	4234
 	.short	3113
 	.short	351
+	.short	49
 	.short	5290
 	.short	7340
 	.short	2207
 	.short	1071
-	.short	49
 	.short	150
 	.short	3
 	.short	24315
 	.short	7518
 	.short	21112
-	.short	23258
 	.short	9693
+	.short	23258
 	.short	56
 	.short	9521
 	.short	2120
@@ -1336,43 +1336,43 @@ GBFTiles:
 	.short	0
 	.short	0
 	.short	0
-	.short	22359
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	550
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	-730
 	.short	9730
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	765
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	9815
+	.short	9822
 	.short	9766
 	.short	9766
 	.short	9766
@@ -1455,15 +1455,15 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	9766
 	.short	9730
 	.short	9766
@@ -1484,191 +1484,191 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	9815
+	.short	9822
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22310
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24102
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9730
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22292
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24084
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24084
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	5140
-	.short	5140
-	.short	5140
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	5140
 	.short	5140
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	5140
-	.short	22292
-	.short	22359
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	5207
+	.short	5140
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	5140
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	5140
 	.short	5140
-	.short	22359
+	.short	24158
+	.short	5214
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	-23514
-	.short	22359
-	.short	22359
-	.short	-31324
-	.short	-23419
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	5140
+	.short	24158
+	.short	5140
+	.short	24084
+	.short	24158
+	.short	-23258
+	.short	24158
+	.short	24158
+	.short	-31067
+	.short	-23162
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	9766
 	.short	9766
-	.short	-31355
-	.short	9815
+	.short	-31098
+	.short	9822
 	.short	9766
 	.short	514
-	.short	-23388
+	.short	-23131
 	.short	9766
 	.short	514
 	.short	9730
-	.short	-23388
+	.short	-23131
 	.short	9766
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	-23419
+	.short	-23162
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22310
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24102
 	.short	15636
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
 	.short	15636
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	-31355
-	.short	-31355
-	.short	22436
+	.short	-31098
+	.short	-31098
+	.short	24229
 	.short	15636
-	.short	-31355
-	.short	9861
+	.short	-31098
+	.short	9862
 	.short	5158
 	.short	15677
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	15636
 	.short	15677
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	28221
 	.short	15677
@@ -1705,17 +1705,17 @@ GBFTiles:
 	.short	15677
 	.short	15677
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	24158
+	.short	24158
 	.short	15677
 	.short	5140
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	28221
 	.short	15726
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	28270
 	.short	28270
 	.short	15677
@@ -1740,12 +1740,12 @@ GBFTiles:
 	.short	15677
 	.short	15677
 	.short	878
-	.short	5207
+	.short	5214
 	.short	5140
 	.short	15636
 	.short	28221
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	5140
 	.short	15677
 	.short	15677
@@ -1755,19 +1755,19 @@ GBFTiles:
 	.short	771
 	.short	771
 	.short	28270
-	.short	25091
+	.short	24835
 	.short	771
 	.short	771
 	.short	771
-	.short	25186
+	.short	24929
 	.short	771
 	.short	28270
 	.short	878
-	.short	16738
+	.short	16737
 	.short	771
 	.short	28163
 	.short	878
-	.short	25186
+	.short	24929
 	.short	771
 	.short	771
 	.short	771
@@ -1787,7 +1787,7 @@ GBFTiles:
 	.short	16705
 	.short	16705
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	16705
 	.short	16705
 	.short	16705
@@ -1796,25 +1796,25 @@ GBFTiles:
 	.short	16705
 	.short	16705
 	.short	16705
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25091
-	.short	25186
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24835
+	.short	24929
+	.short	24929
+	.short	24929
 	.short	771
-	.short	25186
-	.short	25186
-	.short	866
+	.short	24929
+	.short	24929
+	.short	865
 	.short	771
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	28163
 	.short	771
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	28163
 	.short	16705
 	.short	18966
@@ -1824,42 +1824,42 @@ GBFTiles:
 	.short	5697
 	.short	18966
 	.short	19018
-	.short	25153
-	.short	16738
+	.short	24897
+	.short	16737
 	.short	5654
 	.short	18966
-	.short	25186
-	.short	25186
-	.short	16738
+	.short	24929
+	.short	24929
+	.short	16737
 	.short	5654
-	.short	866
+	.short	865
 	.short	771
-	.short	16738
+	.short	16737
 	.short	5654
 	.short	771
 	.short	771
-	.short	25186
+	.short	24929
 	.short	16705
 	.short	28270
 	.short	771
-	.short	25091
+	.short	24835
 	.short	16705
 	.short	15726
 	.short	878
-	.short	25091
-	.short	16738
+	.short	24835
+	.short	16737
 	.short	19018
 	.short	19018
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	19018
 	.short	19018
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	5654
 	.short	18966
 	.short	19018
@@ -1870,21 +1870,21 @@ GBFTiles:
 	.short	16705
 	.short	5654
 	.short	16662
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	5697
 	.short	5654
 	.short	16705
-	.short	25186
+	.short	24929
 	.short	5697
 	.short	5654
 	.short	16705
-	.short	25186
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	24929
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
+	.short	-30708
 	.short	3084
 	.short	3084
 	.short	3084
@@ -1893,51 +1893,51 @@ GBFTiles:
 	.short	3084
 	.short	3084
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	3207
+	.short	-30584
+	.short	-30584
+	.short	3208
 	.short	16705
 	.short	5697
 	.short	18966
-	.short	-30841
-	.short	25186
-	.short	25186
+	.short	-30584
+	.short	24929
+	.short	24929
 	.short	5697
-	.short	-30902
-	.short	25186
-	.short	16738
+	.short	-30646
+	.short	24929
+	.short	16737
 	.short	5697
 	.short	19018
 	.short	16705
 	.short	16705
 	.short	5654
 	.short	18966
-	.short	-30964
-	.short	-30841
-	.short	-30902
-	.short	-30841
-	.short	-30964
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30708
+	.short	-30584
+	.short	-30646
+	.short	-30584
+	.short	-30708
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	3084
-	.short	3084
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
 	.short	3084
-	.short	-30964
-	.short	-30841
-	.short	3207
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30841
-	.short	19079
-	.short	-30841
-	.short	-30841
+	.short	3084
+	.short	-30708
+	.short	-30584
+	.short	3208
+	.short	3084
+	.short	-30584
+	.short	19080
+	.short	-30584
+	.short	-30584
 	.short	5706
 	.short	18966
 	.short	19018
@@ -1960,94 +1960,94 @@ GBFTiles:
 	.short	19018
 	.short	19018
 	.short	19018
-	.short	19079
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	19080
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	5654
 	.short	19018
-	.short	-30902
-	.short	-30841
+	.short	-30646
+	.short	-30584
 	.short	5697
-	.short	-30902
-	.short	-30841
-	.short	3207
+	.short	-30646
+	.short	-30584
+	.short	3208
 	.short	5697
 	.short	19018
-	.short	-30841
-	.short	3207
+	.short	-30584
+	.short	3208
 	.short	5654
 	.short	19018
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	19018
-	.short	-30902
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	19079
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30646
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	19080
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	5654
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	5706
 	.short	16705
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30902
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30646
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30902
+	.short	-30584
+	.short	-30646
 	.short	16705
 	.short	5654
 	.short	18966
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30902
-	.short	-30841
-	.short	-30841
+	.short	-30646
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	5654
 	.short	5654
@@ -2056,7 +2056,7 @@ GBFTiles:
 	.short	16662
 	.short	16705
 	.short	16705
-	.short	19079
+	.short	19080
 	.short	5654
 	.short	5654
 	.short	16662
@@ -2067,22 +2067,22 @@ GBFTiles:
 	.short	19018
 	.short	18966
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	19018
-	.short	-30902
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30646
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
-	.short	-30902
-	.short	-30841
-	.short	19079
+	.short	-30646
+	.short	-30584
+	.short	19080
 	.short	19018
 	.short	18966
 	.short	19018
@@ -2092,18 +2092,18 @@ GBFTiles:
 	.short	19018
 	.short	5654
 	.short	18966
-	.short	-30902
+	.short	-30646
 	.short	5706
 	.short	5654
 	.short	18966
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	19080
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	5654
 	.short	5654
@@ -2128,43 +2128,43 @@ GBFTiles:
 	.short	19018
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
-	.short	19079
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	25153
+	.short	19080
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	24897
 	.short	771
 	.short	28270
 	.short	878
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	28163
 	.short	28270
 	.short	16662
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	28163
 	.short	5654
 	.short	16662
 	.short	16705
-	.short	25186
+	.short	24929
 	.short	5654
 	.short	5654
 	.short	16662
-	.short	25153
+	.short	24897
 	.short	19018
 	.short	5654
 	.short	5654
-	.short	25153
+	.short	24897
 	.short	19018
 	.short	19018
 	.short	5654
 	.short	16705
-	.short	19079
+	.short	19080
 	.short	19018
 	.short	5706
 	.short	16662
@@ -2184,34 +2184,34 @@ GBFTiles:
 	.short	15726
 	.short	28221
 	.short	771
-	.short	866
+	.short	865
 	.short	15726
 	.short	28221
 	.short	28270
-	.short	866
+	.short	865
 	.short	28270
 	.short	28270
 	.short	878
-	.short	866
+	.short	865
 	.short	28163
 	.short	28270
 	.short	878
-	.short	25186
+	.short	24929
 	.short	771
 	.short	771
 	.short	771
-	.short	-23322
-	.short	22359
-	.short	22359
+	.short	-23070
+	.short	24158
+	.short	24158
 	.short	9766
 	.short	5181
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	15619
 	.short	5181
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	28163
 	.short	28270
 	.short	15677
@@ -2235,72 +2235,72 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24102
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	5140
 	.short	5140
 	.short	5140
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	15677
-	.short	22292
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	24158
+	.short	24158
 	.short	15726
-	.short	22333
-	.short	22359
-	.short	22359
+	.short	24125
+	.short	24158
+	.short	24158
 	.short	28270
-	.short	22333
+	.short	24125
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	15726
 	.short	5181
-	.short	9815
+	.short	9822
 	.short	9766
-	.short	9815
+	.short	9822
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	9766
 	.short	550
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	514
 	.short	9730
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	514
 	.short	514
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	514
 	.short	514
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	550
 	.short	17922
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	9766
 	.short	17922
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
 	.short	514
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	514
 	.short	9730
-	.short	-681
+	.short	-674
 	.short	9981
 	.short	514
 	.short	9730
@@ -2356,9 +2356,9 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	9815
-	.short	9815
+	.short	24102
+	.short	9822
+	.short	9822
 	.short	9766
 	.short	9766
 	.short	9766
@@ -2379,51 +2379,51 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	5140
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22310
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22292
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24102
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24084
+	.short	24158
+	.short	5214
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
@@ -2434,71 +2434,71 @@ GBFTiles:
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	22292
-	.short	9815
-	.short	22292
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	9822
+	.short	24084
+	.short	24158
+	.short	24158
 	.short	550
-	.short	22359
-	.short	22359
-	.short	9815
-	.short	-32635
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	9822
+	.short	-32634
+	.short	24158
+	.short	24158
 	.short	550
 	.short	-12672
-	.short	22359
-	.short	9815
-	.short	-31450
+	.short	24158
+	.short	9822
+	.short	-31194
 	.short	-12672
 	.short	9766
 	.short	9766
-	.short	-32635
+	.short	-32634
 	.short	-32640
 	.short	5181
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	9766
-	.short	22310
-	.short	5207
+	.short	24102
+	.short	5214
 	.short	5140
-	.short	-31355
-	.short	9861
-	.short	5207
+	.short	-31098
+	.short	9862
+	.short	5214
 	.short	15636
 	.short	-32640
 	.short	-32640
-	.short	9861
-	.short	22359
+	.short	9862
+	.short	24158
 	.short	12336
 	.short	12336
-	.short	-31282
-	.short	9861
+	.short	-31026
+	.short	9862
 	.short	12336
 	.short	12432
 	.short	-12752
-	.short	-31360
+	.short	-31104
 	.short	-28544
 	.short	-28528
 	.short	-28528
 	.short	18048
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	5140
 	.short	15677
 	.short	5181
@@ -2508,91 +2508,91 @@ GBFTiles:
 	.short	15677
 	.short	5140
 	.short	5140
-	.short	22310
+	.short	24102
 	.short	5140
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	9730
-	.short	22310
+	.short	24102
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	582
-	.short	22274
-	.short	22359
-	.short	22359
-	.short	22292
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22292
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24066
+	.short	24158
+	.short	24158
+	.short	24084
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24084
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24084
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	5140
-	.short	22292
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	9815
-	.short	5284
-	.short	22359
+	.short	24084
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	9822
+	.short	5285
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	5207
-	.short	9815
+	.short	5214
+	.short	9822
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	-23419
-	.short	22359
-	.short	9815
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	-23162
+	.short	24158
+	.short	9822
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	15636
 	.short	5181
-	.short	22292
-	.short	5207
+	.short	24084
+	.short	5214
 	.short	15677
 	.short	5181
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	15636
 	.short	5140
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	5140
 	.short	5140
 	.short	5181
-	.short	22292
+	.short	24084
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	15636
 	.short	15677
 	.short	5140
@@ -2605,17 +2605,17 @@ GBFTiles:
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	9815
-	.short	-23388
-	.short	22310
-	.short	5207
-	.short	-23514
-	.short	-31355
-	.short	9892
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	9822
+	.short	-23131
+	.short	24102
+	.short	5214
+	.short	-23258
+	.short	-31098
+	.short	9893
+	.short	5214
 	.short	5140
 	.short	5140
 	.short	15636
@@ -2624,17 +2624,17 @@ GBFTiles:
 	.short	5140
 	.short	5140
 	.short	15636
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	15636
-	.short	22292
-	.short	22359
-	.short	5207
+	.short	24084
+	.short	24158
+	.short	5214
 	.short	15677
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
@@ -2643,11 +2643,11 @@ GBFTiles:
 	.short	15636
 	.short	15677
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	15636
 	.short	15677
 	.short	5181
-	.short	-6569
+	.short	-7586
 	.short	28270
 	.short	28270
 	.short	28270
@@ -2668,15 +2668,15 @@ GBFTiles:
 	.short	5140
 	.short	5140
 	.short	15677
-	.short	22292
-	.short	-23388
-	.short	22502
+	.short	24084
+	.short	-23131
+	.short	24290
 	.short	5140
-	.short	22502
-	.short	-6569
-	.short	5207
+	.short	24290
+	.short	-7586
+	.short	5214
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	15636
 	.short	5181
 	.short	5140
@@ -2708,8 +2708,8 @@ GBFTiles:
 	.short	28221
 	.short	28270
 	.short	5181
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	15677
 	.short	15677
 	.short	5140
@@ -2727,16 +2727,16 @@ GBFTiles:
 	.short	28270
 	.short	878
 	.short	771
-	.short	25186
+	.short	24929
 	.short	28270
 	.short	878
-	.short	25091
+	.short	24835
 	.short	16705
 	.short	15636
 	.short	28221
 	.short	878
-	.short	25186
-	.short	-6426
+	.short	24929
+	.short	-7454
 	.short	5140
 	.short	28221
 	.short	878
@@ -2745,29 +2745,29 @@ GBFTiles:
 	.short	15677
 	.short	28270
 	.short	878
-	.short	25091
-	.short	25186
-	.short	866
+	.short	24835
+	.short	24929
+	.short	865
 	.short	878
 	.short	771
-	.short	25091
-	.short	25186
+	.short	24835
+	.short	24929
 	.short	771
 	.short	28270
 	.short	878
-	.short	25186
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
 	.short	16705
 	.short	16705
 	.short	16705
-	.short	25153
-	.short	16738
+	.short	24897
+	.short	16737
 	.short	16705
-	.short	25186
-	.short	866
-	.short	25091
-	.short	25186
+	.short	24929
+	.short	865
+	.short	24835
+	.short	24929
 	.short	771
 	.short	771
 	.short	771
@@ -2778,13 +2778,13 @@ GBFTiles:
 	.short	28270
 	.short	28163
 	.short	771
-	.short	25186
-	.short	16738
-	.short	25186
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	16737
+	.short	24929
+	.short	24929
+	.short	24929
 	.short	16705
-	.short	25186
+	.short	24929
 	.short	16705
 	.short	16705
 	.short	16705
@@ -2796,18 +2796,18 @@ GBFTiles:
 	.short	5654
 	.short	5654
 	.short	5654
-	.short	16738
+	.short	16737
 	.short	16705
 	.short	5654
 	.short	16705
-	.short	25186
+	.short	24929
 	.short	16705
 	.short	16705
 	.short	16705
 	.short	771
-	.short	16738
-	.short	25153
-	.short	866
+	.short	16737
+	.short	24897
+	.short	865
 	.short	5654
 	.short	5654
 	.short	16662
@@ -2827,17 +2827,17 @@ GBFTiles:
 	.short	5654
 	.short	5654
 	.short	16662
-	.short	866
+	.short	865
 	.short	16705
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	771
-	.short	16738
-	.short	25153
-	.short	866
+	.short	16737
+	.short	24897
+	.short	865
 	.short	771
-	.short	25091
-	.short	25186
+	.short	24835
+	.short	24929
 	.short	28163
 	.short	28270
 	.short	16705
@@ -2851,27 +2851,27 @@ GBFTiles:
 	.short	5654
 	.short	19018
 	.short	19018
-	.short	-30902
-	.short	16738
+	.short	-30646
+	.short	16737
 	.short	18966
-	.short	-30841
-	.short	-30841
-	.short	25091
+	.short	-30584
+	.short	-30584
+	.short	24835
 	.short	5697
-	.short	-30902
-	.short	-30841
-	.short	25186
+	.short	-30646
+	.short	-30584
+	.short	24929
 	.short	16705
 	.short	18966
-	.short	-30841
-	.short	25091
-	.short	16738
+	.short	-30584
+	.short	24835
+	.short	16737
 	.short	18966
-	.short	-30841
+	.short	-30584
 	.short	771
-	.short	16738
+	.short	16737
 	.short	18966
-	.short	-30841
+	.short	-30584
 	.short	19018
 	.short	19018
 	.short	16662
@@ -2880,42 +2880,42 @@ GBFTiles:
 	.short	18966
 	.short	5706
 	.short	5654
-	.short	19079
+	.short	19080
 	.short	5706
 	.short	18966
 	.short	19018
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	19080
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30902
-	.short	-30841
-	.short	-30841
+	.short	-30646
+	.short	-30584
+	.short	-30584
 	.short	5706
 	.short	5654
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	16714
-	.short	25186
-	.short	-30841
-	.short	-30841
+	.short	24929
+	.short	-30584
+	.short	-30584
 	.short	5706
 	.short	16705
 	.short	5697
 	.short	18966
-	.short	-30902
-	.short	-30841
+	.short	-30646
+	.short	-30584
 	.short	5654
 	.short	5654
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	19018
 	.short	5706
 	.short	18966
-	.short	-30902
+	.short	-30646
 	.short	19018
 	.short	19018
 	.short	5706
@@ -2925,49 +2925,49 @@ GBFTiles:
 	.short	19018
 	.short	19018
 	.short	18966
-	.short	-30902
-	.short	-30841
-	.short	-30841
+	.short	-30646
+	.short	-30584
+	.short	-30584
 	.short	5697
 	.short	19018
-	.short	-30841
-	.short	-30902
+	.short	-30584
+	.short	-30646
 	.short	16705
 	.short	18966
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	5706
 	.short	16705
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	16662
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30964
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30708
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	16705
 	.short	5697
 	.short	5654
@@ -2975,15 +2975,15 @@ GBFTiles:
 	.short	16705
 	.short	5654
 	.short	5654
-	.short	-30902
+	.short	-30646
 	.short	19018
 	.short	5706
 	.short	18966
-	.short	-30902
-	.short	19079
+	.short	-30646
+	.short	19080
 	.short	19018
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	19018
 	.short	19018
 	.short	19018
@@ -3000,30 +3000,30 @@ GBFTiles:
 	.short	5654
 	.short	16662
 	.short	16705
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	3207
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	3208
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	19018
 	.short	19018
 	.short	19018
-	.short	-30902
+	.short	-30646
 	.short	5654
 	.short	18966
 	.short	5654
@@ -3032,15 +3032,13 @@ GBFTiles:
 	.short	5654
 	.short	5654
 	.short	5654
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
-	.short	3207
-	.short	3084
-	.short	3084
+	.short	-30708
+	.short	3208
 	.short	3084
 	.short	3084
 	.short	3084
@@ -3048,71 +3046,73 @@ GBFTiles:
 	.short	3084
 	.short	3084
 	.short	3084
-	.short	-30841
+	.short	3084
+	.short	3084
+	.short	-30584
 	.short	3084
 	.short	3084
 	.short	3084
-	.short	-30841
-	.short	-30841
-	.short	3207
+	.short	-30584
+	.short	-30584
+	.short	3208
 	.short	3084
 	.short	19018
 	.short	19018
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
 	.short	5654
 	.short	19018
 	.short	19018
-	.short	-30902
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30646
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
-	.short	-30841
-	.short	-30841
+	.short	-30708
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
-	.short	-30841
-	.short	-30841
+	.short	-30708
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
-	.short	-30841
-	.short	-30841
+	.short	-30708
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
-	.short	-30841
-	.short	-30841
+	.short	-30708
+	.short	-30584
+	.short	-30584
 	.short	3084
-	.short	-30964
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30841
-	.short	-30964
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30708
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30584
+	.short	-30708
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	19018
 	.short	16662
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	5654
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	5654
 	.short	19018
 	.short	19018
 	.short	19018
 	.short	5706
-	.short	19079
+	.short	19080
 	.short	19018
 	.short	19018
 	.short	19018
@@ -3120,30 +3120,30 @@ GBFTiles:
 	.short	19018
 	.short	19018
 	.short	19018
-	.short	19079
+	.short	19080
 	.short	19018
 	.short	19018
 	.short	5654
-	.short	19079
+	.short	19080
 	.short	19018
 	.short	19018
 	.short	19018
 	.short	16705
-	.short	866
+	.short	865
 	.short	771
 	.short	771
 	.short	16662
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	771
 	.short	16662
 	.short	16705
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	5654
 	.short	5654
 	.short	16662
-	.short	25186
+	.short	24929
 	.short	5654
 	.short	5654
 	.short	16662
@@ -3172,78 +3172,78 @@ GBFTiles:
 	.short	15726
 	.short	15677
 	.short	15677
-	.short	25186
+	.short	24929
 	.short	28163
 	.short	15726
 	.short	15677
-	.short	25186
-	.short	866
+	.short	24929
+	.short	865
 	.short	28163
 	.short	15677
-	.short	25153
-	.short	866
-	.short	28163
-	.short	15677
-	.short	16705
-	.short	25153
+	.short	24897
+	.short	865
 	.short	28163
 	.short	15677
 	.short	16705
-	.short	25153
-	.short	866
+	.short	24897
+	.short	28163
+	.short	15677
+	.short	16705
+	.short	24897
+	.short	865
 	.short	15726
 	.short	15726
 	.short	5140
 	.short	9766
 	.short	9766
 	.short	15726
-	.short	22292
+	.short	24084
 	.short	9766
 	.short	9766
 	.short	15677
-	.short	22292
+	.short	24084
 	.short	9766
 	.short	9766
 	.short	5181
-	.short	9815
+	.short	9822
 	.short	9766
 	.short	9766
 	.short	5181
-	.short	9815
+	.short	9822
 	.short	514
 	.short	514
 	.short	5140
-	.short	22292
-	.short	9815
+	.short	24084
+	.short	9822
 	.short	514
 	.short	5140
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	550
 	.short	5181
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	550
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	550
-	.short	22359
-	.short	22292
-	.short	22359
+	.short	24158
+	.short	24084
+	.short	24158
 	.short	550
-	.short	22359
+	.short	24158
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	9730
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	514
 	.short	9730
 	.short	9766
@@ -3259,120 +3259,120 @@ GBFTiles:
 	.short	514
 	.short	17922
 	.short	514
-	.short	22310
+	.short	24102
 	.short	514
 	.short	514
 	.short	514
-	.short	22310
+	.short	24102
 	.short	514
 	.short	514
 	.short	9730
-	.short	22310
+	.short	24102
 	.short	514
 	.short	9730
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	514
 	.short	9730
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	514
 	.short	9730
-	.short	22310
+	.short	24102
 	.short	9766
 	.short	514
 	.short	9766
-	.short	9815
+	.short	9822
 	.short	9766
 	.short	9730
 	.short	9766
 	.short	9766
 	.short	514
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	5207
-	.short	22292
+	.short	24158
+	.short	5214
+	.short	24084
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	22292
-	.short	9815
-	.short	22292
+	.short	24158
+	.short	24158
+	.short	24084
+	.short	9822
+	.short	24084
 	.short	5140
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22292
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24084
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	9766
-	.short	9766
-	.short	22359
-	.short	9815
-	.short	22310
+	.short	24158
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	9822
+	.short	24102
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	9766
+	.short	9766
+	.short	24102
+	.short	24158
 	.short	9766
 	.short	514
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	9766
 	.short	17922
 	.short	5140
 	.short	5140
-	.short	22292
-	.short	9815
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	9822
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	5207
-	.short	22359
+	.short	24158
+	.short	5214
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
 	.short	514
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	-32766
 	.short	12416
-	.short	9815
+	.short	9822
 	.short	-32766
 	.short	12494
 	.short	12336
@@ -3385,7 +3385,7 @@ GBFTiles:
 	.short	-28528
 	.short	18048
 	.short	9766
-	.short	-31450
+	.short	-31194
 	.short	-32640
 	.short	-32640
 	.short	9766
@@ -3431,7 +3431,7 @@ GBFTiles:
 	.short	-32624
 	.short	582
 	.short	514
-	.short	-31486
+	.short	-31230
 	.short	-32640
 	.short	18048
 	.short	514
@@ -3439,7 +3439,7 @@ GBFTiles:
 	.short	-32698
 	.short	-32640
 	.short	-32640
-	.short	645
+	.short	646
 	.short	514
 	.short	514
 	.short	9766
@@ -3450,81 +3450,81 @@ GBFTiles:
 	.short	9766
 	.short	18048
 	.short	9730
-	.short	5207
+	.short	5214
 	.short	5140
 	.short	640
 	.short	9730
-	.short	5207
-	.short	22292
+	.short	5214
+	.short	24084
 	.short	514
 	.short	9730
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	640
 	.short	9730
-	.short	22310
-	.short	5207
+	.short	24102
+	.short	5214
 	.short	514
 	.short	9766
 	.short	9766
-	.short	5207
+	.short	5214
 	.short	9730
 	.short	9766
-	.short	22310
-	.short	5207
-	.short	22310
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22310
-	.short	5207
+	.short	24102
+	.short	5214
+	.short	24102
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24102
+	.short	5214
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22310
-	.short	22359
+	.short	24158
+	.short	24102
+	.short	24158
 	.short	5140
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	5140
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	28221
 	.short	15726
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	15677
 	.short	5181
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	9766
-	.short	-31324
-	.short	22292
-	.short	9815
-	.short	-31486
-	.short	-31355
+	.short	-31067
+	.short	24084
+	.short	9822
+	.short	-31230
+	.short	-31098
 	.short	5140
 	.short	15636
 	.short	15677
 	.short	5181
-	.short	5207
+	.short	5214
 	.short	15636
 	.short	15677
 	.short	5181
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	15677
 	.short	5181
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	15636
 	.short	15677
@@ -3532,47 +3532,47 @@ GBFTiles:
 	.short	5140
 	.short	15636
 	.short	15677
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	-31355
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	24084
+	.short	-31098
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	9730
-	.short	22359
-	.short	9815
-	.short	22310
-	.short	-31324
+	.short	24158
+	.short	9822
+	.short	24102
+	.short	-31067
 	.short	-12594
-	.short	-31282
+	.short	-31026
 	.short	5158
-	.short	-31324
+	.short	-31067
 	.short	-12594
-	.short	9861
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22310
-	.short	22359
+	.short	9862
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24102
+	.short	24158
 	.short	5181
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	15677
 	.short	5140
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	5140
 	.short	5140
 	.short	829
 	.short	3094
-	.short	5207
+	.short	5214
 	.short	19054
 	.short	3154
 	.short	-21377
-	.short	25108
+	.short	24852
 	.short	15884
 	.short	-27476
 	.short	-16318
@@ -3584,19 +3584,19 @@ GBFTiles:
 	.short	15636
 	.short	15677
 	.short	15677
-	.short	22292
+	.short	24084
 	.short	15636
 	.short	28221
 	.short	28270
 	.short	5140
 	.short	28221
 	.short	878
-	.short	16738
+	.short	16737
 	.short	878
 	.short	3137
 	.short	21074
 	.short	15884
-	.short	15116
+	.short	14860
 	.short	-30036
 	.short	-16192
 	.short	-27582
@@ -3607,7 +3607,7 @@ GBFTiles:
 	.short	32578
 	.short	21118
 	.short	-4034
-	.short	-31106
+	.short	-30850
 	.short	15636
 	.short	15677
 	.short	15677
@@ -3624,7 +3624,7 @@ GBFTiles:
 	.short	19009
 	.short	5654
 	.short	5706
-	.short	15163
+	.short	14906
 	.short	-21282
 	.short	17088
 	.short	-21356
@@ -3640,25 +3640,25 @@ GBFTiles:
 	.short	21004
 	.short	3154
 	.short	3084
-	.short	9815
-	.short	22310
+	.short	9822
+	.short	24102
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22292
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24084
+	.short	24158
 	.short	9766
 	.short	9766
 	.short	16705
-	.short	866
+	.short	865
 	.short	5181
-	.short	22292
+	.short	24084
 	.short	-8482
 	.short	32639
-	.short	3207
+	.short	3208
 	.short	18956
 	.short	7453
 	.short	21021
@@ -3670,8 +3670,8 @@ GBFTiles:
 	.short	7611
 	.short	3084
 	.short	21074
-	.short	-31045
-	.short	-31098
+	.short	-30789
+	.short	-30841
 	.short	5140
 	.short	15677
 	.short	15677
@@ -3681,26 +3681,26 @@ GBFTiles:
 	.short	5140
 	.short	15636
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	15636
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	5207
+	.short	24102
+	.short	5214
 	.short	833
-	.short	22292
-	.short	22310
-	.short	22359
+	.short	24084
+	.short	24102
+	.short	24158
 	.short	6828
 	.short	19129
 	.short	842
-	.short	22359
+	.short	24158
 	.short	32443
 	.short	17068
 	.short	6848
-	.short	-30791
-	.short	-30992
+	.short	-30535
+	.short	-30736
 	.short	-17477
 	.short	-27522
 	.short	-30016
@@ -3717,14 +3717,14 @@ GBFTiles:
 	.short	15677
 	.short	28221
 	.short	5140
-	.short	22292
-	.short	5207
+	.short	24084
+	.short	5214
 	.short	18947
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	19054
-	.short	-21369
-	.short	22359
+	.short	-21368
+	.short	24158
 	.short	15654
 	.short	6730
 	.short	-27500
@@ -3736,19 +3736,19 @@ GBFTiles:
 	.short	32699
 	.short	3199
 	.short	-16257
-	.short	25091
-	.short	25186
-	.short	25186
+	.short	24835
+	.short	24929
+	.short	24929
 	.short	28163
-	.short	25091
-	.short	25186
+	.short	24835
+	.short	24929
 	.short	5697
 	.short	16705
-	.short	25198
-	.short	-30954
-	.short	-30841
+	.short	24942
+	.short	-30698
+	.short	-30584
 	.short	32574
-	.short	5767
+	.short	5768
 	.short	-16342
 	.short	16962
 	.short	-30016
@@ -3756,7 +3756,7 @@ GBFTiles:
 	.short	-16318
 	.short	6804
 	.short	10794
-	.short	21051
+	.short	21050
 	.short	3259
 	.short	32639
 	.short	15934
@@ -3774,8 +3774,8 @@ GBFTiles:
 	.short	28270
 	.short	5697
 	.short	16662
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	-8577
 	.short	-21282
 	.short	16020
@@ -3793,7 +3793,7 @@ GBFTiles:
 	.short	-30070
 	.short	-16246
 	.short	-16192
-	.short	21051
+	.short	21050
 	.short	-30082
 	.short	-16192
 	.short	-30070
@@ -3801,22 +3801,22 @@ GBFTiles:
 	.short	21119
 	.short	-16257
 	.short	878
-	.short	16738
+	.short	16737
 	.short	18966
 	.short	19018
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	16705
 	.short	5654
 	.short	21074
 	.short	5706
-	.short	25153
-	.short	16738
-	.short	-31045
-	.short	-30917
+	.short	24897
+	.short	16737
+	.short	-30789
+	.short	-30662
 	.short	3084
 	.short	16662
-	.short	22676
+	.short	22420
 	.short	32338
 	.short	-21332
 	.short	21177
@@ -3844,150 +3844,150 @@ GBFTiles:
 	.short	5654
 	.short	16662
 	.short	16705
-	.short	25153
-	.short	25186
-	.short	25186
+	.short	24897
+	.short	24929
+	.short	24929
 	.short	16705
 	.short	18956
-	.short	25153
-	.short	25186
-	.short	16738
+	.short	24897
+	.short	24929
+	.short	16737
 	.short	6794
 	.short	7486
 	.short	21179
 	.short	18956
 	.short	-30142
 	.short	-8532
-	.short	-17530
+	.short	-17529
 	.short	15998
-	.short	-21370
+	.short	-21369
 	.short	-16192
 	.short	-27456
-	.short	-31106
+	.short	-30850
 	.short	5654
 	.short	5654
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	5697
 	.short	19018
-	.short	25153
-	.short	866
-	.short	16738
+	.short	24897
+	.short	865
+	.short	16737
 	.short	18966
-	.short	25186
+	.short	24929
 	.short	771
-	.short	25198
+	.short	24942
 	.short	16705
-	.short	25186
-	.short	866
+	.short	24929
+	.short	865
 	.short	771
-	.short	25091
-	.short	25153
+	.short	24835
+	.short	24897
 	.short	16705
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	3084
 	.short	21074
 	.short	3154
-	.short	-30841
+	.short	-30584
 	.short	17044
 	.short	-21356
 	.short	-30070
-	.short	15130
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	14874
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	19080
 	.short	19018
 	.short	5654
 	.short	19018
 	.short	5654
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	16705
-	.short	25153
-	.short	866
+	.short	24897
+	.short	865
 	.short	771
 	.short	771
 	.short	771
 	.short	771
 	.short	771
-	.short	25186
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
 	.short	771
 	.short	5706
 	.short	16705
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	-17538
 	.short	-17477
 	.short	19026
-	.short	25153
+	.short	24897
 	.short	16662
 	.short	16705
 	.short	16705
 	.short	16705
-	.short	25153
-	.short	25186
-	.short	16738
+	.short	24897
+	.short	24929
+	.short	16737
 	.short	16705
-	.short	866
-	.short	25091
-	.short	25186
-	.short	16705
-	.short	771
-	.short	25091
-	.short	25186
+	.short	865
+	.short	24835
+	.short	24929
 	.short	16705
 	.short	771
-	.short	25186
-	.short	25186
+	.short	24835
+	.short	24929
 	.short	16705
 	.short	771
-	.short	25186
-	.short	16738
+	.short	24929
+	.short	24929
 	.short	16705
 	.short	771
-	.short	25186
-	.short	16738
+	.short	24929
+	.short	16737
+	.short	16705
+	.short	771
+	.short	24929
+	.short	16737
 	.short	16705
 	.short	771
 	.short	771
-	.short	25186
+	.short	24929
 	.short	16705
-	.short	16738
+	.short	16737
 	.short	16705
 	.short	16662
 	.short	16705
-	.short	25186
-	.short	25186
-	.short	25153
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24897
+	.short	24929
 	.short	16705
-	.short	25186
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
 	.short	16705
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25153
-	.short	25186
-	.short	25091
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24897
+	.short	24929
+	.short	24835
+	.short	24929
 	.short	16705
-	.short	25153
+	.short	24897
 	.short	771
-	.short	25091
+	.short	24835
 	.short	16705
 	.short	16705
-	.short	25153
-	.short	25186
+	.short	24897
+	.short	24929
 	.short	16705
 	.short	16705
 	.short	16705
@@ -3996,42 +3996,42 @@ GBFTiles:
 	.short	5654
 	.short	5654
 	.short	19018
-	.short	25186
+	.short	24929
 	.short	16705
 	.short	5697
 	.short	5654
-	.short	866
-	.short	25186
+	.short	865
+	.short	24929
 	.short	5697
 	.short	5654
 	.short	771
-	.short	25186
+	.short	24929
 	.short	16705
 	.short	16705
 	.short	771
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25153
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24897
+	.short	24929
+	.short	24929
 	.short	5697
 	.short	5654
 	.short	16662
-	.short	25186
+	.short	24929
 	.short	5697
 	.short	5654
 	.short	5706
 	.short	16662
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	-30841
+	.short	-30584
+	.short	-30584
+	.short	-30584
 	.short	19018
-	.short	-30841
-	.short	-30841
-	.short	19079
+	.short	-30584
+	.short	-30584
+	.short	19080
 	.short	5654
 	.short	5654
 	.short	5654
@@ -4042,9 +4042,9 @@ GBFTiles:
 	.short	16705
 	.short	16705
 	.short	16662
-	.short	25153
-	.short	25186
-	.short	16738
+	.short	24897
+	.short	24929
+	.short	16737
 	.short	16705
 	.short	16705
 	.short	16705
@@ -4056,7 +4056,7 @@ GBFTiles:
 	.short	16705
 	.short	16705
 	.short	16705
-	.short	19079
+	.short	19080
 	.short	19018
 	.short	19018
 	.short	19018
@@ -4072,8 +4072,8 @@ GBFTiles:
 	.short	16705
 	.short	5697
 	.short	19018
-	.short	25186
-	.short	16738
+	.short	24929
+	.short	16737
 	.short	5697
 	.short	19018
 	.short	16705
@@ -4103,36 +4103,36 @@ GBFTiles:
 	.short	19018
 	.short	5706
 	.short	16662
-	.short	25186
+	.short	24929
 	.short	19018
 	.short	16662
-	.short	25153
-	.short	866
+	.short	24897
+	.short	865
 	.short	19018
 	.short	5706
 	.short	16705
-	.short	866
+	.short	865
 	.short	19018
 	.short	5706
 	.short	16705
-	.short	25186
+	.short	24929
 	.short	19018
 	.short	5654
 	.short	16662
-	.short	25153
+	.short	24897
 	.short	16705
-	.short	25153
-	.short	866
+	.short	24897
+	.short	865
 	.short	28270
 	.short	16705
-	.short	25186
-	.short	866
+	.short	24929
+	.short	865
 	.short	28270
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	28163
 	.short	15726
-	.short	866
+	.short	865
 	.short	771
 	.short	28163
 	.short	15677
@@ -4154,16 +4154,16 @@ GBFTiles:
 	.short	15677
 	.short	15677
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	9766
 	.short	15726
 	.short	5181
-	.short	22292
-	.short	9815
+	.short	24084
+	.short	9822
 	.short	28270
 	.short	15677
 	.short	5181
-	.short	5207
+	.short	5214
 	.short	15677
 	.short	28221
 	.short	15677
@@ -4189,51 +4189,51 @@ GBFTiles:
 	.short	-32640
 	.short	514
 	.short	9766
-	.short	-31486
+	.short	-31230
 	.short	-32640
 	.short	514
-	.short	22292
-	.short	9815
+	.short	24084
+	.short	9822
 	.short	514
 	.short	514
-	.short	5207
-	.short	22359
+	.short	5214
+	.short	24158
 	.short	550
 	.short	514
 	.short	5140
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	514
 	.short	5140
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	550
 	.short	5140
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	550
 	.short	5140
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	17958
 	.short	9730
 	.short	9766
 	.short	9766
 	.short	514
 	.short	9766
-	.short	22310
-	.short	9815
+	.short	24102
+	.short	9822
 	.short	9766
-	.short	22359
-	.short	22310
-	.short	9815
-	.short	22310
-	.short	22359
-	.short	22310
-	.short	9815
+	.short	24158
+	.short	24102
+	.short	9822
+	.short	24102
+	.short	24158
+	.short	24102
+	.short	9822
 	.short	9766
-	.short	22359
-	.short	22310
+	.short	24158
+	.short	24102
 	.short	9766
 	.short	9766
 	.short	9766
@@ -4248,16 +4248,16 @@ GBFTiles:
 	.short	17990
 	.short	17990
 	.short	7196
-	.short	22310
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24102
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	9766
 	.short	550
 	.short	9766
@@ -4280,7 +4280,7 @@ GBFTiles:
 	.short	7196
 	.short	-19940
 	.short	28090
-	.short	9815
+	.short	9822
 	.short	550
 	.short	514
 	.short	-28602
@@ -4365,17 +4365,17 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	550
-	.short	9861
+	.short	9862
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	9730
 	.short	9766
 	.short	9766
@@ -4383,68 +4383,68 @@ GBFTiles:
 	.short	9730
 	.short	9766
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	9766
-	.short	-31486
+	.short	-31230
 	.short	9730
-	.short	22310
+	.short	24102
 	.short	9766
-	.short	-31355
+	.short	-31098
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	550
 	.short	9730
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	5140
 	.short	5140
-	.short	-23465
-	.short	5207
-	.short	22292
-	.short	9815
-	.short	-31450
+	.short	-23202
+	.short	5214
+	.short	24084
+	.short	9822
+	.short	-31194
 	.short	5140
-	.short	22359
-	.short	-31450
-	.short	-12667
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	-31194
+	.short	-12666
+	.short	24158
+	.short	9822
 	.short	-32640
 	.short	12494
 	.short	9766
 	.short	-32766
 	.short	-28528
 	.short	-28528
-	.short	22292
+	.short	24084
 	.short	9766
 	.short	-32766
 	.short	-28528
-	.short	9815
+	.short	9822
 	.short	17922
 	.short	-28544
 	.short	-19790
@@ -4452,7 +4452,7 @@ GBFTiles:
 	.short	-28544
 	.short	-11598
 	.short	-17734
-	.short	-32635
+	.short	-32634
 	.short	-11728
 	.short	7959
 	.short	-17889
@@ -4473,16 +4473,16 @@ GBFTiles:
 	.short	-19790
 	.short	-19790
 	.short	582
-	.short	22310
-	.short	9815
-	.short	855
+	.short	24102
+	.short	9822
+	.short	862
 	.short	7252
 	.short	9798
-	.short	22310
+	.short	24102
 	.short	21057
 	.short	7346
 	.short	582
-	.short	5719
+	.short	5726
 	.short	-21442
 	.short	7346
 	.short	582
@@ -4493,10 +4493,10 @@ GBFTiles:
 	.short	-27586
 	.short	-13120
 	.short	-19782
-	.short	-30915
+	.short	-30659
 	.short	-16212
 	.short	-13108
-	.short	-31404
+	.short	-31148
 	.short	-21430
 	.short	-13246
 	.short	10956
@@ -4504,14 +4504,14 @@ GBFTiles:
 	.short	-27522
 	.short	-13120
 	.short	-17492
-	.short	-24697
+	.short	-24696
 	.short	-27476
 	.short	17088
 	.short	32704
 	.short	-30036
 	.short	-30070
 	.short	-21438
-	.short	-31150
+	.short	-30894
 	.short	-13174
 	.short	-16180
 	.short	21054
@@ -4519,7 +4519,7 @@ GBFTiles:
 	.short	-13108
 	.short	-17638
 	.short	-27522
-	.short	3206
+	.short	3207
 	.short	32716
 	.short	32699
 	.short	32479
@@ -4537,10 +4537,10 @@ GBFTiles:
 	.short	-16257
 	.short	3264
 	.short	21074
-	.short	32315
+	.short	32314
 	.short	-17477
 	.short	22142
-	.short	32315
+	.short	32314
 	.short	32443
 	.short	-8300
 	.short	-16236
@@ -4607,11 +4607,11 @@ GBFTiles:
 	.short	32318
 	.short	21118
 	.short	21074
-	.short	32390
+	.short	32391
 	.short	16962
 	.short	16962
 	.short	-27425
-	.short	15326
+	.short	15070
 	.short	6722
 	.short	21004
 	.short	-17582
@@ -4632,18 +4632,18 @@ GBFTiles:
 	.short	-13120
 	.short	-30004
 	.short	15999
-	.short	-17530
-	.short	-3962
-	.short	-17530
+	.short	-17529
+	.short	-3961
+	.short	-17529
 	.short	-21378
-	.short	-27560
+	.short	-27561
 	.short	7664
 	.short	32285
-	.short	-17530
+	.short	-17529
 	.short	7611
-	.short	22715
-	.short	-31010
-	.short	22662
+	.short	22459
+	.short	-30754
+	.short	22407
 	.short	21074
 	.short	-17538
 	.short	-4067
@@ -4651,7 +4651,7 @@ GBFTiles:
 	.short	-27456
 	.short	7486
 	.short	32338
-	.short	-31203
+	.short	-30947
 	.short	-16246
 	.short	-27456
 	.short	-17537
@@ -4664,8 +4664,8 @@ GBFTiles:
 	.short	8738
 	.short	-21401
 	.short	-17538
-	.short	15296
-	.short	-8570
+	.short	15040
+	.short	-8569
 	.short	-21442
 	.short	-30142
 	.short	-17424
@@ -4676,10 +4676,10 @@ GBFTiles:
 	.short	6718
 	.short	-16192
 	.short	-30070
-	.short	7558
+	.short	7559
 	.short	-30146
 	.short	24458
-	.short	-30881
+	.short	-30625
 	.short	-6038
 	.short	-13185
 	.short	6848
@@ -4692,9 +4692,9 @@ GBFTiles:
 	.short	6828
 	.short	32594
 	.short	32660
-	.short	-31232
+	.short	-30976
 	.short	21164
-	.short	15230
+	.short	14974
 	.short	21179
 	.short	-16246
 	.short	24458
@@ -4720,9 +4720,9 @@ GBFTiles:
 	.short	-24640
 	.short	15934
 	.short	16922
-	.short	-31106
+	.short	-30850
 	.short	32382
-	.short	-17530
+	.short	-17529
 	.short	-17635
 	.short	26540
 	.short	27509
@@ -4745,7 +4745,7 @@ GBFTiles:
 	.short	-16192
 	.short	-16192
 	.short	-16192
-	.short	-30914
+	.short	-30658
 	.short	-30070
 	.short	-16192
 	.short	-16192
@@ -4756,7 +4756,7 @@ GBFTiles:
 	.short	32704
 	.short	32699
 	.short	24512
-	.short	-31203
+	.short	-30947
 	.short	17044
 	.short	32382
 	.short	-30016
@@ -4797,7 +4797,7 @@ GBFTiles:
 	.short	-16180
 	.short	32704
 	.short	3264
-	.short	-16325
+	.short	-16326
 	.short	-16180
 	.short	-16192
 	.short	-21300
@@ -4805,7 +4805,7 @@ GBFTiles:
 	.short	-13108
 	.short	-13108
 	.short	-16289
-	.short	-30817
+	.short	-30561
 	.short	-13099
 	.short	24415
 	.short	-30113
@@ -4859,7 +4859,7 @@ GBFTiles:
 	.short	-10942
 	.short	-21366
 	.short	15999
-	.short	-30894
+	.short	-30638
 	.short	-30070
 	.short	-16192
 	.short	-13120
@@ -4869,7 +4869,7 @@ GBFTiles:
 	.short	-30004
 	.short	17088
 	.short	-13217
-	.short	-30817
+	.short	-30561
 	.short	16064
 	.short	-16322
 	.short	-30004
@@ -4882,34 +4882,34 @@ GBFTiles:
 	.short	21119
 	.short	-13120
 	.short	-16192
-	.short	15170
+	.short	14914
 	.short	-16258
 	.short	-16257
 	.short	-13108
 	.short	-30016
-	.short	15238
-	.short	866
+	.short	14983
+	.short	865
 	.short	771
 	.short	771
-	.short	16738
+	.short	16737
 	.short	19131
-	.short	866
+	.short	865
 	.short	771
-	.short	25186
+	.short	24929
 	.short	7551
-	.short	903
+	.short	904
 	.short	771
-	.short	25186
+	.short	24929
 	.short	-8512
 	.short	19131
 	.short	771
-	.short	25186
+	.short	24929
 	.short	-16192
 	.short	-6017
 	.short	28182
 	.short	771
 	.short	-16322
-	.short	-31040
+	.short	-30784
 	.short	28347
 	.short	28270
 	.short	32594
@@ -4918,36 +4918,36 @@ GBFTiles:
 	.short	15726
 	.short	32478
 	.short	-13120
-	.short	-30817
+	.short	-30561
 	.short	15726
 	.short	16705
 	.short	16705
 	.short	16705
 	.short	16705
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	16738
-	.short	25186
-	.short	866
-	.short	25186
-	.short	16738
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	16737
+	.short	24929
+	.short	865
+	.short	24929
+	.short	16737
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24929
 	.short	771
 	.short	771
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	28270
 	.short	771
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	15677
 	.short	878
-	.short	25091
-	.short	25186
+	.short	24835
+	.short	24929
 	.short	15677
 	.short	28221
 	.short	878
@@ -4959,113 +4959,113 @@ GBFTiles:
 	.short	5697
 	.short	18966
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	5697
 	.short	18966
 	.short	19018
-	.short	-30841
+	.short	-30584
 	.short	16705
 	.short	5654
 	.short	18966
-	.short	-30841
+	.short	-30584
 	.short	16705
 	.short	5654
 	.short	5654
 	.short	19018
-	.short	16705
-	.short	5697
-	.short	5654
-	.short	5654
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	25186
-	.short	28270
-	.short	28270
-	.short	28270
-	.short	28270
-	.short	5654
-	.short	5654
-	.short	5654
-	.short	5654
-	.short	19018
-	.short	5654
-	.short	16705
-	.short	16662
-	.short	19079
-	.short	16662
-	.short	16705
-	.short	16662
-	.short	-30841
-	.short	16662
-	.short	16705
-	.short	16705
-	.short	19018
-	.short	16662
-	.short	16705
-	.short	25186
-	.short	5654
-	.short	16662
-	.short	16705
-	.short	25153
-	.short	25186
-	.short	25186
-	.short	16705
-	.short	16705
-	.short	28270
-	.short	25198
-	.short	25186
-	.short	25186
-	.short	5654
-	.short	5654
-	.short	5654
-	.short	18966
-	.short	16705
-	.short	5654
-	.short	5654
-	.short	5654
-	.short	16705
-	.short	5654
-	.short	5654
-	.short	5654
 	.short	16705
 	.short	5697
 	.short	5654
 	.short	5654
-	.short	16738
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	24929
+	.short	28270
+	.short	28270
+	.short	28270
+	.short	28270
+	.short	5654
+	.short	5654
+	.short	5654
+	.short	5654
+	.short	19018
+	.short	5654
+	.short	16705
+	.short	16662
+	.short	19080
+	.short	16662
+	.short	16705
+	.short	16662
+	.short	-30584
+	.short	16662
 	.short	16705
 	.short	16705
-	.short	25186
-	.short	25186
+	.short	19018
+	.short	16662
 	.short	16705
-	.short	25186
+	.short	24929
+	.short	5654
+	.short	16662
+	.short	16705
+	.short	24897
+	.short	24929
+	.short	24929
+	.short	16705
+	.short	16705
+	.short	28270
+	.short	24942
+	.short	24929
+	.short	24929
+	.short	5654
+	.short	5654
+	.short	5654
+	.short	18966
+	.short	16705
+	.short	5654
+	.short	5654
+	.short	5654
+	.short	16705
+	.short	5654
+	.short	5654
+	.short	5654
+	.short	16705
+	.short	5697
+	.short	5654
+	.short	5654
+	.short	16737
+	.short	16705
+	.short	16705
+	.short	24929
+	.short	24929
+	.short	16705
+	.short	24929
 	.short	771
-	.short	25186
-	.short	25186
+	.short	24929
+	.short	24929
 	.short	771
 	.short	28270
-	.short	25186
-	.short	866
+	.short	24929
+	.short	865
 	.short	28163
 	.short	15677
 	.short	19018
 	.short	5654
 	.short	16705
-	.short	25186
+	.short	24929
 	.short	5654
 	.short	16662
-	.short	25153
-	.short	866
+	.short	24897
+	.short	865
 	.short	5654
 	.short	16662
-	.short	25186
-	.short	866
+	.short	24929
+	.short	865
 	.short	5654
-	.short	25153
-	.short	866
+	.short	24897
+	.short	865
 	.short	771
-	.short	25186
-	.short	866
+	.short	24929
+	.short	865
 	.short	28270
 	.short	28270
 	.short	28163
@@ -5145,34 +5145,34 @@ GBFTiles:
 	.short	15677
 	.short	5140
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	17922
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	550
 	.short	7196
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	550
 	.short	-19940
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	550
 	.short	-19824
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	550
 	.short	-11632
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	550
 	.short	-28602
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
 	.short	17922
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	550
 	.short	17922
@@ -5307,11 +5307,11 @@ GBFTiles:
 	.short	9730
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	514
 	.short	9730
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	514
 	.short	514
 	.short	514
@@ -5336,8 +5336,8 @@ GBFTiles:
 	.short	7196
 	.short	-19790
 	.short	-17734
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	9822
 	.short	9766
 	.short	9766
 	.short	9766
@@ -5432,19 +5432,19 @@ GBFTiles:
 	.short	-17734
 	.short	-17734
 	.short	-17742
-	.short	-30843
-	.short	-27589
+	.short	-30586
+	.short	-27590
 	.short	-13120
-	.short	-31106
-	.short	3159
+	.short	-30850
+	.short	3166
 	.short	-16162
 	.short	6860
 	.short	-21422
-	.short	-31212
+	.short	-30956
 	.short	-16212
 	.short	16076
 	.short	-27522
-	.short	-31171
+	.short	-30915
 	.short	24492
 	.short	3210
 	.short	-16257
@@ -5462,7 +5462,7 @@ GBFTiles:
 	.short	-13120
 	.short	32259
 	.short	-13108
-	.short	15116
+	.short	14860
 	.short	-13120
 	.short	-30142
 	.short	32318
@@ -5477,22 +5477,22 @@ GBFTiles:
 	.short	3264
 	.short	-16257
 	.short	32448
-	.short	-16325
+	.short	-16326
 	.short	32383
 	.short	-16192
 	.short	21164
 	.short	17023
 	.short	32574
 	.short	-16318
-	.short	-31105
+	.short	-30849
 	.short	-30036
 	.short	-30036
-	.short	-30910
-	.short	-31073
+	.short	-30654
+	.short	-30817
 	.short	-30060
 	.short	-30070
 	.short	3210
-	.short	-31170
+	.short	-30914
 	.short	-16236
 	.short	-30070
 	.short	21130
@@ -5542,17 +5542,17 @@ GBFTiles:
 	.short	-30070
 	.short	-13108
 	.short	-10816
-	.short	-30950
+	.short	-30694
 	.short	-4180
 	.short	-30004
-	.short	-29561
-	.short	-15407
-	.short	31368
+	.short	-29560
+	.short	-15151
+	.short	31365
 	.short	30137
-	.short	-30578
+	.short	-31346
 	.short	31354
 	.short	31354
-	.short	-15511
+	.short	-15255
 	.short	31354
 	.short	19834
 	.short	19789
@@ -5566,14 +5566,14 @@ GBFTiles:
 	.short	-28966
 	.short	-30113
 	.short	-16212
-	.short	-30511
-	.short	31368
+	.short	-31279
+	.short	31365
 	.short	15898
 	.short	3701
 	.short	31354
 	.short	31354
 	.short	3669
-	.short	31368
+	.short	31365
 	.short	19834
 	.short	19789
 	.short	31354
@@ -5599,7 +5599,7 @@ GBFTiles:
 	.short	19834
 	.short	19789
 	.short	31309
-	.short	-30598
+	.short	-31366
 	.short	19834
 	.short	19789
 	.short	19789
@@ -5628,10 +5628,10 @@ GBFTiles:
 	.short	-8300
 	.short	-13963
 	.short	3669
-	.short	-30584
-	.short	-30584
-	.short	-30584
-	.short	-30598
+	.short	-31355
+	.short	-31355
+	.short	-31355
+	.short	-31366
 	.short	31354
 	.short	31354
 	.short	31354
@@ -5659,7 +5659,7 @@ GBFTiles:
 	.short	31354
 	.short	31354
 	.short	31354
-	.short	-27965
+	.short	-27964
 	.short	19834
 	.short	19789
 	.short	19789
@@ -5689,11 +5689,11 @@ GBFTiles:
 	.short	19789
 	.short	19789
 	.short	26451
-	.short	16955
+	.short	16954
 	.short	21140
 	.short	-13286
 	.short	-28038
-	.short	-27493
+	.short	-27494
 	.short	32448
 	.short	-16258
 	.short	31309
@@ -5701,15 +5701,15 @@ GBFTiles:
 	.short	32578
 	.short	-21422
 	.short	31309
-	.short	-31029
+	.short	-30773
 	.short	-16318
 	.short	3198
 	.short	31309
-	.short	-31023
+	.short	-30767
 	.short	-16318
 	.short	-17492
 	.short	31309
-	.short	-31090
+	.short	-30834
 	.short	-16236
 	.short	-21312
 	.short	31309
@@ -5750,7 +5750,7 @@ GBFTiles:
 	.short	24415
 	.short	-30070
 	.short	-18004
-	.short	16007
+	.short	16008
 	.short	-16358
 	.short	-30070
 	.short	-30070
@@ -5761,7 +5761,7 @@ GBFTiles:
 	.short	24415
 	.short	24415
 	.short	3257
-	.short	6791
+	.short	6792
 	.short	24458
 	.short	24415
 	.short	-30070
@@ -5814,7 +5814,7 @@ GBFTiles:
 	.short	-16192
 	.short	-16180
 	.short	-10816
-	.short	-30950
+	.short	-30694
 	.short	-16212
 	.short	15884
 	.short	-30016
@@ -5842,10 +5842,10 @@ GBFTiles:
 	.short	-13108
 	.short	3098
 	.short	17068
-	.short	-31170
+	.short	-30914
 	.short	-13120
 	.short	32448
-	.short	-16325
+	.short	-16326
 	.short	32282
 	.short	24458
 	.short	3220
@@ -5859,12 +5859,12 @@ GBFTiles:
 	.short	-4067
 	.short	-16192
 	.short	32394
-	.short	-31414
-	.short	-31150
+	.short	-31158
+	.short	-30894
 	.short	-30016
 	.short	32607
-	.short	-23417
-	.short	-31105
+	.short	-23160
+	.short	-30849
 	.short	-13164
 	.short	-21300
 	.short	5202
@@ -5877,21 +5877,21 @@ GBFTiles:
 	.short	-27444
 	.short	5202
 	.short	32394
-	.short	24379
+	.short	24378
 	.short	-21409
 	.short	-942
 	.short	5181
 	.short	5140
 	.short	28221
 	.short	28270
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	15677
 	.short	514
 	.short	9730
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	-19840
 	.short	18064
 	.short	514
@@ -5912,7 +5912,7 @@ GBFTiles:
 	.short	-32698
 	.short	-28544
 	.short	8114
-	.short	22292
+	.short	24084
 	.short	5140
 	.short	15677
 	.short	15677
@@ -5924,26 +5924,26 @@ GBFTiles:
 	.short	28221
 	.short	28270
 	.short	878
-	.short	5207
+	.short	5214
 	.short	28221
 	.short	28163
 	.short	878
-	.short	22310
+	.short	24102
 	.short	15677
 	.short	28270
 	.short	28270
 	.short	9730
-	.short	5207
+	.short	5214
 	.short	15636
 	.short	28221
 	.short	656
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	5140
 	.short	12319
 	.short	640
 	.short	9766
-	.short	-860
+	.short	-859
 	.short	15677
 	.short	28221
 	.short	28270
@@ -5971,11 +5971,11 @@ GBFTiles:
 	.short	28221
 	.short	28270
 	.short	15726
-	.short	-6636
+	.short	-7660
 	.short	15677
 	.short	15677
 	.short	15677
-	.short	-23532
+	.short	-23276
 	.short	771
 	.short	771
 	.short	15726
@@ -5986,25 +5986,25 @@ GBFTiles:
 	.short	15636
 	.short	28270
 	.short	15677
-	.short	22292
-	.short	5207
+	.short	24084
+	.short	5214
 	.short	5181
-	.short	22292
-	.short	-31450
-	.short	9861
+	.short	24084
+	.short	-31194
+	.short	9862
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	-32766
 	.short	-32624
 	.short	5140
-	.short	9815
+	.short	9822
 	.short	17922
 	.short	-32640
-	.short	9892
+	.short	9893
 	.short	550
 	.short	17990
 	.short	17990
-	.short	-31324
+	.short	-31067
 	.short	17922
 	.short	582
 	.short	514
@@ -6024,22 +6024,22 @@ GBFTiles:
 	.short	15677
 	.short	5181
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	5140
 	.short	5181
-	.short	22292
-	.short	22436
-	.short	22359
+	.short	24084
+	.short	24229
+	.short	24158
 	.short	5140
-	.short	22359
+	.short	24158
 	.short	9730
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9730
 	.short	514
-	.short	-31355
-	.short	-31355
+	.short	-31098
+	.short	-31098
 	.short	15677
 	.short	15677
 	.short	28221
@@ -6056,21 +6056,21 @@ GBFTiles:
 	.short	5140
 	.short	15636
 	.short	28221
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
 	.short	28270
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	28221
-	.short	22359
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	24158
+	.short	5214
 	.short	28221
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	15636
 	.short	28270
 	.short	15726
@@ -6091,7 +6091,7 @@ GBFTiles:
 	.short	28270
 	.short	28270
 	.short	15677
-	.short	-6636
+	.short	-7660
 	.short	28270
 	.short	15726
 	.short	15677
@@ -6104,38 +6104,38 @@ GBFTiles:
 	.short	15677
 	.short	5181
 	.short	5140
-	.short	22292
-	.short	-23465
+	.short	24084
+	.short	-23202
 	.short	550
 	.short	514
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	550
 	.short	514
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	550
-	.short	-31355
-	.short	22359
-	.short	22359
+	.short	-31098
+	.short	24158
+	.short	24158
 	.short	550
 	.short	-32766
-	.short	9958
-	.short	9815
+	.short	9954
+	.short	9822
 	.short	550
 	.short	17922
-	.short	22359
-	.short	-23514
-	.short	645
-	.short	18053
-	.short	-23465
-	.short	-31324
-	.short	-31360
+	.short	24158
+	.short	-23258
+	.short	646
+	.short	18054
+	.short	-23202
+	.short	-31067
+	.short	-31104
 	.short	17922
-	.short	22359
-	.short	-31324
+	.short	24158
+	.short	-31067
 	.short	-32562
-	.short	-31486
+	.short	-31230
 	.short	21532
 	.short	21682
 	.short	21588
@@ -6392,7 +6392,7 @@ GBFTiles:
 	.short	21588
 	.short	7196
 	.short	7238
-	.short	32354
+	.short	32353
 	.short	-13120
 	.short	15884
 	.short	-13120
@@ -6406,13 +6406,13 @@ GBFTiles:
 	.short	-16192
 	.short	32278
 	.short	-10942
-	.short	-31173
+	.short	-30918
 	.short	-13120
-	.short	-31158
+	.short	-30902
 	.short	-10804
 	.short	21164
 	.short	-13120
-	.short	-31158
+	.short	-30902
 	.short	-13108
 	.short	-17526
 	.short	-13286
@@ -6450,16 +6450,16 @@ GBFTiles:
 	.short	6738
 	.short	32318
 	.short	-30016
-	.short	15296
-	.short	-27514
+	.short	15040
+	.short	-27513
 	.short	21119
 	.short	-30070
-	.short	15242
+	.short	14986
 	.short	-27408
 	.short	-16257
 	.short	-30070
-	.short	15170
-	.short	-30502
+	.short	14914
+	.short	-31270
 	.short	-13185
 	.short	17088
 	.short	26540
@@ -6467,21 +6467,21 @@ GBFTiles:
 	.short	-13140
 	.short	-10913
 	.short	-13409
-	.short	31368
+	.short	31365
 	.short	-13174
 	.short	-30004
 	.short	-28134
-	.short	19848
+	.short	19845
 	.short	-16192
 	.short	3264
-	.short	-30517
+	.short	-31285
 	.short	19834
 	.short	-16192
 	.short	11582
-	.short	31368
+	.short	31365
 	.short	19789
 	.short	16064
-	.short	-15437
+	.short	-15181
 	.short	19789
 	.short	19789
 	.short	27519
@@ -6541,17 +6541,17 @@ GBFTiles:
 	.short	19789
 	.short	19789
 	.short	-21846
-	.short	23401
+	.short	23145
 	.short	19834
 	.short	19789
 	.short	3706
 	.short	27022
 	.short	21418
-	.short	19907
+	.short	19908
 	.short	31354
 	.short	31354
 	.short	21370
-	.short	23485
+	.short	23229
 	.short	19789
 	.short	19789
 	.short	19789
@@ -6574,12 +6574,12 @@ GBFTiles:
 	.short	19789
 	.short	19789
 	.short	19789
-	.short	23387
+	.short	23130
 	.short	19789
 	.short	19789
 	.short	31309
-	.short	23373
-	.short	23387
+	.short	23117
+	.short	23130
 	.short	19789
 	.short	19789
 	.short	19789
@@ -6642,10 +6642,10 @@ GBFTiles:
 	.short	-16982
 	.short	21325
 	.short	27069
-	.short	-15474
+	.short	-15218
 	.short	31309
 	.short	21843
-	.short	31427
+	.short	31428
 	.short	31354
 	.short	19834
 	.short	19789
@@ -6653,12 +6653,12 @@ GBFTiles:
 	.short	6782
 	.short	-13108
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	16075
 	.short	-13120
 	.short	19789
 	.short	31309
-	.short	-13432
+	.short	-13435
 	.short	-30182
 	.short	19789
 	.short	31309
@@ -6668,7 +6668,7 @@ GBFTiles:
 	.short	31309
 	.short	31354
 	.short	31354
-	.short	23401
+	.short	23145
 	.short	19834
 	.short	19789
 	.short	31309
@@ -6696,28 +6696,28 @@ GBFTiles:
 	.short	16962
 	.short	-16192
 	.short	-30070
-	.short	21896
+	.short	21893
 	.short	16093
 	.short	-10982
 	.short	-30070
 	.short	31354
-	.short	3720
+	.short	3717
 	.short	-32173
 	.short	-30049
 	.short	19789
 	.short	19789
-	.short	-15539
+	.short	-15283
 	.short	32715
 	.short	19789
 	.short	19789
 	.short	31309
-	.short	21896
+	.short	21893
 	.short	32574
 	.short	24458
 	.short	24415
 	.short	-30113
 	.short	-24694
-	.short	6791
+	.short	6792
 	.short	-13108
 	.short	-29995
 	.short	-13108
@@ -6730,12 +6730,12 @@ GBFTiles:
 	.short	-16212
 	.short	24415
 	.short	-16289
-	.short	15296
+	.short	15040
 	.short	-16302
 	.short	-13174
 	.short	-13108
 	.short	-21312
-	.short	32646
+	.short	32647
 	.short	-10870
 	.short	-13108
 	.short	-16192
@@ -6757,7 +6757,7 @@ GBFTiles:
 	.short	-16246
 	.short	-17492
 	.short	-30004
-	.short	-30073
+	.short	-30072
 	.short	-16246
 	.short	32448
 	.short	-16246
@@ -6765,7 +6765,7 @@ GBFTiles:
 	.short	-30016
 	.short	-21366
 	.short	-16192
-	.short	-30784
+	.short	-30528
 	.short	-16322
 	.short	-16192
 	.short	-16318
@@ -6781,7 +6781,7 @@ GBFTiles:
 	.short	16010
 	.short	24458
 	.short	-16246
-	.short	32646
+	.short	32647
 	.short	-30016
 	.short	-13174
 	.short	-16257
@@ -6796,7 +6796,7 @@ GBFTiles:
 	.short	-17460
 	.short	-13250
 	.short	24415
-	.short	15133
+	.short	14877
 	.short	15938
 	.short	-13125
 	.short	24415
@@ -6806,24 +6806,24 @@ GBFTiles:
 	.short	24524
 	.short	-17537
 	.short	-16212
-	.short	3131
+	.short	3130
 	.short	-30070
-	.short	15296
+	.short	15040
 	.short	-30082
 	.short	-21409
 	.short	-942
 	.short	32704
 	.short	-30126
 	.short	-30113
-	.short	-6574
+	.short	-7598
 	.short	6751
 	.short	-30126
 	.short	6751
-	.short	-31476
+	.short	-31220
 	.short	10847
 	.short	-30126
 	.short	6751
-	.short	-12665
+	.short	-12664
 	.short	6751
 	.short	-30126
 	.short	32607
@@ -6875,7 +6875,7 @@ GBFTiles:
 	.short	-17220
 	.short	-28462
 	.short	-32640
-	.short	-31355
+	.short	-31098
 	.short	-17198
 	.short	-11588
 	.short	18064
@@ -6904,39 +6904,39 @@ GBFTiles:
 	.short	28013
 	.short	28013
 	.short	8045
-	.short	-860
+	.short	-859
 	.short	15677
 	.short	15677
-	.short	22292
-	.short	-23419
-	.short	15703
+	.short	24084
+	.short	-23162
+	.short	15710
 	.short	15677
 	.short	5181
-	.short	-31360
-	.short	5284
+	.short	-31104
+	.short	5285
 	.short	15677
 	.short	15677
 	.short	-32624
-	.short	-6523
+	.short	-7546
 	.short	15636
 	.short	15677
 	.short	-32624
-	.short	-6523
+	.short	-7546
 	.short	15636
 	.short	15677
 	.short	-32624
-	.short	-23419
+	.short	-23162
 	.short	15868
 	.short	15677
 	.short	-32558
-	.short	-23419
+	.short	-23162
 	.short	5372
 	.short	15677
 	.short	12498
-	.short	-31360
-	.short	-794
+	.short	-31104
+	.short	-798
 	.short	15636
-	.short	-31450
+	.short	-31194
 	.short	17922
 	.short	514
 	.short	9766
@@ -6944,29 +6944,29 @@ GBFTiles:
 	.short	514
 	.short	9730
 	.short	9766
-	.short	22292
+	.short	24084
 	.short	9766
 	.short	514
 	.short	514
 	.short	5181
-	.short	9815
+	.short	9822
 	.short	514
 	.short	514
 	.short	15677
-	.short	22292
+	.short	24084
 	.short	550
 	.short	514
 	.short	15677
 	.short	5181
-	.short	-31401
+	.short	-31138
 	.short	514
 	.short	15677
 	.short	5181
-	.short	-23465
-	.short	9892
+	.short	-23202
+	.short	9893
 	.short	15677
 	.short	5181
-	.short	9958
+	.short	9954
 	.short	9766
 	.short	9766
 	.short	514
@@ -6984,8 +6984,8 @@ GBFTiles:
 	.short	-32640
 	.short	-28544
 	.short	-32624
-	.short	-31486
-	.short	-32635
+	.short	-31230
+	.short	-32634
 	.short	-32640
 	.short	-32640
 	.short	514
@@ -7000,38 +7000,38 @@ GBFTiles:
 	.short	550
 	.short	514
 	.short	514
-	.short	645
+	.short	646
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	5140
-	.short	645
+	.short	646
 	.short	9730
-	.short	22310
-	.short	5207
+	.short	24102
+	.short	5214
 	.short	640
 	.short	9730
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	18048
 	.short	9730
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	18048
 	.short	9730
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	18048
 	.short	9730
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	514
 	.short	514
 	.short	9766
 	.short	9766
 	.short	514
 	.short	514
-	.short	-31486
-	.short	-23419
+	.short	-31230
+	.short	-23162
 	.short	15636
 	.short	15677
 	.short	5140
@@ -7044,51 +7044,51 @@ GBFTiles:
 	.short	5140
 	.short	5140
 	.short	5140
-	.short	5207
+	.short	5214
 	.short	5140
 	.short	5140
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	-23322
-	.short	-23388
-	.short	-31324
-	.short	-23514
-	.short	-31324
-	.short	-31355
-	.short	-31355
-	.short	-31324
-	.short	-31355
-	.short	-31355
-	.short	-31355
-	.short	22359
-	.short	-31450
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	-23070
+	.short	-23131
+	.short	-31067
+	.short	-23258
+	.short	-31067
+	.short	-31098
+	.short	-31098
+	.short	-31067
+	.short	-31098
+	.short	-31098
+	.short	-31098
+	.short	24158
+	.short	-31194
 	.short	-32640
-	.short	645
-	.short	22359
-	.short	9815
-	.short	-32635
+	.short	646
+	.short	24158
+	.short	9822
+	.short	-32634
 	.short	-32640
-	.short	22359
-	.short	9815
-	.short	-32635
+	.short	24158
+	.short	9822
+	.short	-32634
 	.short	-28624
-	.short	22359
-	.short	9815
-	.short	-32635
+	.short	24158
+	.short	9822
+	.short	-32634
 	.short	-28528
 	.short	9766
 	.short	9766
-	.short	-32635
+	.short	-32634
 	.short	-28528
-	.short	-31355
-	.short	-32635
+	.short	-31098
+	.short	-32634
 	.short	-32640
 	.short	-32640
-	.short	-32635
+	.short	-32634
 	.short	-32640
 	.short	-32640
 	.short	-28528
@@ -7096,33 +7096,33 @@ GBFTiles:
 	.short	-32640
 	.short	-32640
 	.short	-28544
-	.short	22915
+	.short	22659
 	.short	4369
 	.short	-26215
 	.short	-9184
-	.short	24988
-	.short	-26643
-	.short	22915
+	.short	25244
+	.short	-26644
+	.short	22659
 	.short	-26194
-	.short	-25503
+	.short	-25502
 	.short	-25453
 	.short	-26720
-	.short	22915
-	.short	-4733
+	.short	22659
+	.short	-4989
 	.short	-25440
 	.short	-25453
-	.short	-4767
-	.short	22958
-	.short	-4789
+	.short	-5022
+	.short	22702
+	.short	-5045
 	.short	-25440
 	.short	9107
 	.short	11417
 	.short	-5458
-	.short	-4789
-	.short	12129
+	.short	-5045
+	.short	12130
 	.short	8355
 	.short	20840
-	.short	22958
+	.short	22702
 	.short	-15029
 	.short	-23741
 	.short	26684
@@ -7140,26 +7140,26 @@ GBFTiles:
 	.short	-23606
 	.short	-29813
 	.short	-20012
-	.short	-16565
+	.short	-16821
 	.short	-16047
 	.short	25404
 	.short	-20012
-	.short	-15007
-	.short	-16527
+	.short	-15006
+	.short	-16783
 	.short	-18863
 	.short	28515
 	.short	-25565
 	.short	-26683
-	.short	-15126
+	.short	-15638
 	.short	-13764
-	.short	-27807
-	.short	24979
-	.short	29165
-	.short	-18748
-	.short	25069
+	.short	-27806
+	.short	25235
+	.short	29164
+	.short	-18750
+	.short	25324
 	.short	-27857
 	.short	-14948
-	.short	-15126
+	.short	-15638
 	.short	3391
 	.short	-17734
 	.short	-4370
@@ -7281,13 +7281,13 @@ GBFTiles:
 	.short	15420
 	.short	11368
 	.short	-16029
-	.short	-26031
-	.short	22873
+	.short	-25775
+	.short	22616
 	.short	29059
-	.short	-16559
+	.short	-16815
 	.short	19434
 	.short	-26729
-	.short	25029
+	.short	25285
 	.short	7196
 	.short	3412
 	.short	-17734
@@ -7309,13 +7309,13 @@ GBFTiles:
 	.short	26684
 	.short	15464
 	.short	-20911
-	.short	22958
-	.short	22975
-	.short	22873
-	.short	-4713
-	.short	-4627
-	.short	-25503
-	.short	24879
+	.short	22702
+	.short	22718
+	.short	22616
+	.short	-4969
+	.short	-4884
+	.short	-25502
+	.short	25135
 	.short	9116
 	.short	9107
 	.short	12188
@@ -7349,8 +7349,8 @@ GBFTiles:
 	.short	8236
 	.short	7986
 	.short	-25565
-	.short	10081
-	.short	22915
+	.short	10082
+	.short	22659
 	.short	8236
 	.short	32317
 	.short	24512
@@ -7364,23 +7364,23 @@ GBFTiles:
 	.short	24458
 	.short	-30070
 	.short	32382
-	.short	-30906
+	.short	-30650
 	.short	24492
 	.short	-16289
-	.short	-17605
-	.short	-30848
+	.short	-17606
+	.short	-30592
 	.short	24346
 	.short	-13217
 	.short	7596
-	.short	-30848
+	.short	-30592
 	.short	24492
 	.short	-13217
 	.short	-17472
-	.short	-30843
+	.short	-30586
 	.short	-13140
 	.short	-13108
 	.short	-17460
-	.short	3205
+	.short	3206
 	.short	-21332
 	.short	-16225
 	.short	-17472
@@ -7395,7 +7395,7 @@ GBFTiles:
 	.short	21140
 	.short	-16257
 	.short	-30016
-	.short	-30910
+	.short	-30654
 	.short	32404
 	.short	-16322
 	.short	-16192
@@ -7404,7 +7404,7 @@ GBFTiles:
 	.short	-13186
 	.short	-13120
 	.short	3285
-	.short	32571
+	.short	32570
 	.short	-16372
 	.short	-13120
 	.short	32725
@@ -7412,36 +7412,36 @@ GBFTiles:
 	.short	-16372
 	.short	-13108
 	.short	-10804
-	.short	-21445
+	.short	-21446
 	.short	-13153
 	.short	-13108
 	.short	-10804
 	.short	21886
-	.short	19848
+	.short	19845
 	.short	19789
 	.short	19789
-	.short	-30603
+	.short	-31371
 	.short	31354
 	.short	19834
-	.short	-11941
-	.short	-30519
+	.short	-11942
+	.short	-31287
 	.short	31354
 	.short	-22002
 	.short	-32161
-	.short	-30615
+	.short	-31383
 	.short	3706
 	.short	1676
 	.short	-8739
-	.short	-30519
-	.short	-13944
+	.short	-31287
+	.short	-13947
 	.short	8842
 	.short	6722
-	.short	-15476
-	.short	27016
+	.short	-15220
+	.short	27013
 	.short	21469
 	.short	3730
-	.short	21819
-	.short	31368
+	.short	21818
+	.short	31365
 	.short	31354
 	.short	19834
 	.short	-21990
@@ -7461,29 +7461,29 @@ GBFTiles:
 	.short	-21889
 	.short	31374
 	.short	-14371
-	.short	-8840
+	.short	-8841
 	.short	-18467
 	.short	1721
 	.short	6828
 	.short	6841
 	.short	-8830
 	.short	8925
-	.short	-15421
+	.short	-15164
 	.short	-28146
 	.short	-8757
 	.short	-24705
 	.short	31309
 	.short	31354
-	.short	-30584
+	.short	-31355
 	.short	-29170
 	.short	19789
 	.short	31354
-	.short	-30584
-	.short	-30584
+	.short	-31355
+	.short	-31355
 	.short	19789
 	.short	31309
 	.short	31354
-	.short	23387
+	.short	23130
 	.short	19789
 	.short	19789
 	.short	31354
@@ -7499,16 +7499,16 @@ GBFTiles:
 	.short	32684
 	.short	-11862
 	.short	31246
-	.short	-30584
+	.short	-31355
 	.short	8844
 	.short	1570
 	.short	-30113
 	.short	6794
 	.short	-27447
-	.short	16955
+	.short	16954
 	.short	-8926
 	.short	-8739
-	.short	13192
+	.short	13189
 	.short	-13563
 	.short	-29678
 	.short	17034
@@ -7531,17 +7531,17 @@ GBFTiles:
 	.short	31354
 	.short	19834
 	.short	19789
-	.short	31323
+	.short	31322
 	.short	10794
 	.short	-29089
-	.short	-15494
-	.short	31323
+	.short	-15238
+	.short	31322
 	.short	1757
-	.short	-15446
+	.short	-15190
 	.short	19834
 	.short	31309
 	.short	26983
-	.short	-30706
+	.short	-31474
 	.short	31354
 	.short	31354
 	.short	19789
@@ -7564,11 +7564,11 @@ GBFTiles:
 	.short	19789
 	.short	3661
 	.short	21902
-	.short	-21821
+	.short	-21820
 	.short	1674
 	.short	-29690
 	.short	-32126
-	.short	-21821
+	.short	-21820
 	.short	-14452
 	.short	-8739
 	.short	16999
@@ -7590,9 +7590,9 @@ GBFTiles:
 	.short	21262
 	.short	31354
 	.short	19834
-	.short	30862
+	.short	30606
 	.short	1558
-	.short	30803
+	.short	30547
 	.short	-18038
 	.short	-8865
 	.short	-8761
@@ -7604,10 +7604,10 @@ GBFTiles:
 	.short	-13398
 	.short	3726
 	.short	31354
-	.short	31324
-	.short	-30584
-	.short	-30584
-	.short	31368
+	.short	31323
+	.short	-31355
+	.short	-31355
+	.short	31365
 	.short	19834
 	.short	19789
 	.short	31354
@@ -7616,14 +7616,14 @@ GBFTiles:
 	.short	21902
 	.short	-13485
 	.short	21865
-	.short	-30088
+	.short	-30089
 	.short	-30182
 	.short	-29556
 	.short	-21364
-	.short	-8840
+	.short	-8841
 	.short	-8739
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
 	.short	-21374
 	.short	6682
 	.short	-16358
@@ -7632,18 +7632,18 @@ GBFTiles:
 	.short	-29042
 	.short	21902
 	.short	26965
-	.short	31368
-	.short	-30584
+	.short	31365
+	.short	-31355
 	.short	31354
 	.short	31354
-	.short	-15421
-	.short	-30598
-	.short	31368
+	.short	-15164
+	.short	-31366
+	.short	31365
 	.short	19834
 	.short	19789
 	.short	19789
 	.short	31309
-	.short	-30598
+	.short	-31366
 	.short	19726
 	.short	19789
 	.short	19789
@@ -7652,7 +7652,7 @@ GBFTiles:
 	.short	31309
 	.short	19789
 	.short	31354
-	.short	-30088
+	.short	-30089
 	.short	31277
 	.short	19789
 	.short	31354
@@ -7661,42 +7661,42 @@ GBFTiles:
 	.short	31309
 	.short	31354
 	.short	-8790
-	.short	-15511
+	.short	-15255
 	.short	19789
 	.short	19789
 	.short	31354
 	.short	31354
-	.short	23373
+	.short	23117
 	.short	19789
 	.short	19789
 	.short	19834
-	.short	19803
-	.short	23387
+	.short	19802
+	.short	23130
 	.short	16081
 	.short	-13120
 	.short	-16180
 	.short	7596
-	.short	27587
+	.short	27588
 	.short	17023
 	.short	-16246
 	.short	7572
-	.short	-13432
+	.short	-13435
 	.short	-16322
 	.short	-16192
 	.short	-17472
-	.short	-29048
+	.short	-29051
 	.short	-21356
 	.short	-16192
 	.short	21184
 	.short	3706
 	.short	32629
 	.short	-16318
-	.short	15296
+	.short	15040
 	.short	31354
 	.short	32457
 	.short	-16318
 	.short	17088
-	.short	-30598
+	.short	-31366
 	.short	32465
 	.short	-16318
 	.short	17088
@@ -7732,7 +7732,7 @@ GBFTiles:
 	.short	-16257
 	.short	-16192
 	.short	-16192
-	.short	15317
+	.short	15061
 	.short	-21317
 	.short	-16171
 	.short	-16192
@@ -7745,7 +7745,7 @@ GBFTiles:
 	.short	6848
 	.short	15884
 	.short	-30004
-	.short	-31106
+	.short	-30850
 	.short	-30060
 	.short	16010
 	.short	24524
@@ -7754,7 +7754,7 @@ GBFTiles:
 	.short	-16246
 	.short	-16192
 	.short	17088
-	.short	-31106
+	.short	-30850
 	.short	-16212
 	.short	-16372
 	.short	-16192
@@ -7771,10 +7771,10 @@ GBFTiles:
 	.short	-16192
 	.short	-13217
 	.short	3264
-	.short	-4378
+	.short	-4382
 	.short	-30016
 	.short	-13217
-	.short	-30828
+	.short	-30572
 	.short	-4480
 	.short	-30146
 	.short	24415
@@ -7782,7 +7782,7 @@ GBFTiles:
 	.short	28090
 	.short	17034
 	.short	-10870
-	.short	25150
+	.short	24894
 	.short	17261
 	.short	24458
 	.short	-10870
@@ -7797,7 +7797,7 @@ GBFTiles:
 	.short	30220
 	.short	28527
 	.short	-30070
-	.short	-31028
+	.short	-30772
 	.short	12874
 	.short	4975
 	.short	-4370
@@ -7866,28 +7866,28 @@ GBFTiles:
 	.short	-19389
 	.short	-11745
 	.short	-12752
-	.short	-23419
-	.short	5350
+	.short	-23162
+	.short	5346
 	.short	-19790
 	.short	-32624
-	.short	-31355
-	.short	-6492
+	.short	-31098
+	.short	-7515
 	.short	-19782
 	.short	-32640
-	.short	-31360
-	.short	-31355
+	.short	-31104
+	.short	-31098
 	.short	7967
 	.short	-28528
-	.short	-23424
-	.short	-31355
+	.short	-23168
+	.short	-31098
 	.short	8045
 	.short	-28494
-	.short	-23424
-	.short	-31324
+	.short	-23168
+	.short	-31067
 	.short	28084
 	.short	-19782
 	.short	-32624
-	.short	-32635
+	.short	-32634
 	.short	-19345
 	.short	-19859
 	.short	-28528
@@ -7898,23 +7898,23 @@ GBFTiles:
 	.short	12336
 	.short	15636
 	.short	15677
-	.short	-23322
-	.short	-23388
+	.short	-23070
+	.short	-23131
 	.short	5140
 	.short	-1004
-	.short	-23322
-	.short	-31355
-	.short	22436
-	.short	22359
-	.short	-31324
-	.short	-31355
-	.short	-23419
-	.short	-6569
-	.short	-31324
-	.short	-12667
-	.short	-31355
-	.short	-23419
-	.short	-12667
+	.short	-23070
+	.short	-31098
+	.short	24229
+	.short	24158
+	.short	-31067
+	.short	-31098
+	.short	-23162
+	.short	-7586
+	.short	-31067
+	.short	-12666
+	.short	-31098
+	.short	-23162
+	.short	-12666
 	.short	-12594
 	.short	-12672
 	.short	-12594
@@ -7928,16 +7928,16 @@ GBFTiles:
 	.short	12432
 	.short	12336
 	.short	12336
-	.short	-23388
-	.short	645
+	.short	-23131
+	.short	646
 	.short	514
 	.short	514
-	.short	-31355
-	.short	-31355
+	.short	-31098
+	.short	-31098
 	.short	514
 	.short	514
 	.short	-32562
-	.short	-31360
+	.short	-31104
 	.short	514
 	.short	514
 	.short	12494
@@ -7961,25 +7961,25 @@ GBFTiles:
 	.short	12336
 	.short	12336
 	.short	514
-	.short	-31486
-	.short	-31355
-	.short	-31355
-	.short	-31486
-	.short	-31360
-	.short	-31360
-	.short	-31355
+	.short	-31230
+	.short	-31098
+	.short	-31098
+	.short	-31230
+	.short	-31104
+	.short	-31104
+	.short	-31098
 	.short	-32640
 	.short	-32640
-	.short	-31355
-	.short	-31355
+	.short	-31098
+	.short	-31098
 	.short	-32640
 	.short	-32640
-	.short	-31355
-	.short	-31355
+	.short	-31098
+	.short	-31098
 	.short	-32640
 	.short	-32640
 	.short	-32640
-	.short	-31360
+	.short	-31104
 	.short	-32624
 	.short	-28528
 	.short	-28544
@@ -7992,19 +7992,19 @@ GBFTiles:
 	.short	-28528
 	.short	12432
 	.short	30256
-	.short	-31355
-	.short	-32635
+	.short	-31098
+	.short	-32634
 	.short	-12594
 	.short	-12594
-	.short	-12667
+	.short	-12666
 	.short	12494
 	.short	12336
 	.short	12336
-	.short	-12667
+	.short	-12666
 	.short	-11728
 	.short	12336
 	.short	12336
-	.short	-12667
+	.short	-12666
 	.short	-11728
 	.short	12498
 	.short	-11728
@@ -8018,12 +8018,12 @@ GBFTiles:
 	.short	12850
 	.short	30256
 	.short	12918
-	.short	-23246
-	.short	31909
+	.short	-23502
+	.short	31908
 	.short	30326
 	.short	12850
 	.short	2172
-	.short	-15352
+	.short	-15864
 	.short	-12594
 	.short	-32562
 	.short	-32640
@@ -8045,14 +8045,14 @@ GBFTiles:
 	.short	-28462
 	.short	12432
 	.short	4914
-	.short	12965
+	.short	12964
 	.short	12850
 	.short	-11658
 	.short	2172
 	.short	2056
 	.short	2056
 	.short	-19019
-	.short	30635
+	.short	30891
 	.short	-10024
 	.short	-10069
 	.short	8481
@@ -8088,37 +8088,37 @@ GBFTiles:
 	.short	-20047
 	.short	25556
 	.short	-31645
-	.short	-4630
-	.short	24929
+	.short	-4886
+	.short	25186
 	.short	-25565
-	.short	-16489
-	.short	-26689
-	.short	24992
-	.short	24979
+	.short	-16745
+	.short	-26690
+	.short	25248
+	.short	25235
 	.short	-5481
-	.short	-26689
+	.short	-26690
 	.short	9157
 	.short	26003
 	.short	-5560
-	.short	-26689
-	.short	-27807
+	.short	-26690
+	.short	-27806
 	.short	-15057
 	.short	-5481
-	.short	-26689
-	.short	-27807
-	.short	24879
+	.short	-26690
+	.short	-27806
+	.short	25135
 	.short	29125
-	.short	-26689
-	.short	-27807
-	.short	24988
-	.short	-15007
-	.short	19354
+	.short	-26690
+	.short	-27806
+	.short	25244
+	.short	-15006
+	.short	19355
 	.short	12229
 	.short	-25453
-	.short	24929
+	.short	25186
 	.short	-10303
 	.short	-26646
-	.short	-25503
+	.short	-25502
 	.short	-25453
 	.short	-18792
 	.short	-31562
@@ -8136,19 +8136,19 @@ GBFTiles:
 	.short	-23902
 	.short	-14204
 	.short	10280
-	.short	-26433
+	.short	-26434
 	.short	-23912
 	.short	-31582
 	.short	-31612
-	.short	-16527
+	.short	-16783
 	.short	-26472
 	.short	-18762
 	.short	-31612
 	.short	-26683
 	.short	-5519
-	.short	-15169
+	.short	-15682
 	.short	-23912
-	.short	24879
+	.short	25135
 	.short	-14907
 	.short	-26683
 	.short	-5519
@@ -8180,63 +8180,63 @@ GBFTiles:
 	.short	-26472
 	.short	-26472
 	.short	-15935
-	.short	-16449
-	.short	-16449
-	.short	-16449
-	.short	-5441
+	.short	-16706
+	.short	-16706
+	.short	-16706
+	.short	-5442
 	.short	-23902
 	.short	-31582
 	.short	20918
-	.short	-16486
+	.short	-16741
 	.short	-23902
 	.short	-15966
-	.short	-16559
+	.short	-16815
 	.short	-26646
 	.short	-23902
 	.short	-15935
-	.short	-5478
+	.short	-5477
 	.short	12183
 	.short	-18812
 	.short	20929
-	.short	-26689
-	.short	-27807
+	.short	-26690
+	.short	-27806
 	.short	-15946
 	.short	-20911
 	.short	-14991
 	.short	-25444
 	.short	20929
-	.short	-10049
+	.short	-10050
 	.short	12183
-	.short	24979
-	.short	-16559
+	.short	25235
+	.short	-16815
 	.short	-26767
 	.short	9061
-	.short	-4829
+	.short	-5085
 	.short	-26646
-	.short	-4667
+	.short	-4923
 	.short	-27857
-	.short	-31903
+	.short	-31902
 	.short	-15029
-	.short	12129
+	.short	12130
 	.short	9116
 	.short	9107
 	.short	-27857
 	.short	-25453
-	.short	24879
+	.short	25135
 	.short	-14944
-	.short	24979
-	.short	-24479
+	.short	25235
+	.short	-24478
 	.short	-31869
 	.short	-10109
 	.short	-24420
-	.short	-31763
+	.short	-31764
 	.short	11281
 	.short	26728
-	.short	-26643
+	.short	-26644
 	.short	-20776
 	.short	8296
 	.short	28618
-	.short	29165
+	.short	29164
 	.short	26668
 	.short	28618
 	.short	17332
@@ -8248,15 +8248,15 @@ GBFTiles:
 	.short	28515
 	.short	-20047
 	.short	17329
-	.short	24988
-	.short	-4627
-	.short	-4627
-	.short	-4627
+	.short	25244
+	.short	-4884
+	.short	-4884
+	.short	-4884
 	.short	19351
 	.short	-10127
 	.short	-20818
 	.short	-10066
-	.short	11460
+	.short	11458
 	.short	8252
 	.short	-13622
 	.short	-26308
@@ -8280,43 +8280,43 @@ GBFTiles:
 	.short	3566
 	.short	21588
 	.short	21588
-	.short	-25503
+	.short	-25502
 	.short	8995
-	.short	-4817
-	.short	22915
+	.short	-5073
+	.short	22659
 	.short	10115
-	.short	25069
+	.short	25324
 	.short	-27748
 	.short	-31953
 	.short	4396
 	.short	-31784
-	.short	12269
+	.short	12268
 	.short	-22637
 	.short	12850
 	.short	-31956
-	.short	24871
+	.short	25127
 	.short	14227
 	.short	12831
 	.short	4396
-	.short	24963
+	.short	25219
 	.short	-22628
 	.short	-17377
 	.short	11466
-	.short	-4733
+	.short	-4989
 	.short	-25565
 	.short	8114
 	.short	-26180
 	.short	-31983
-	.short	-27807
+	.short	-27806
 	.short	8114
 	.short	8380
 	.short	-31983
-	.short	9197
-	.short	-31178
+	.short	9196
+	.short	-30922
 	.short	7646
 	.short	-16258
 	.short	7551
-	.short	-31137
+	.short	-30881
 	.short	27165
 	.short	17118
 	.short	-17538
@@ -8325,18 +8325,18 @@ GBFTiles:
 	.short	-27500
 	.short	-3909
 	.short	14175
-	.short	15242
+	.short	14986
 	.short	32478
-	.short	-16250
+	.short	-16249
 	.short	31655
 	.short	32554
 	.short	7506
 	.short	-16144
 	.short	2471
 	.short	16057
-	.short	-31203
+	.short	-30947
 	.short	-16236
-	.short	17505
+	.short	17506
 	.short	21074
 	.short	-3990
 	.short	-16192
@@ -8371,7 +8371,7 @@ GBFTiles:
 	.short	32428
 	.short	-8261
 	.short	27593
-	.short	32390
+	.short	32391
 	.short	-27476
 	.short	-13359
 	.short	-4182
@@ -8380,10 +8380,10 @@ GBFTiles:
 	.short	31337
 	.short	19789
 	.short	31309
-	.short	15170
+	.short	14914
 	.short	31450
 	.short	19789
-	.short	21955
+	.short	21956
 	.short	32578
 	.short	31441
 	.short	19789
@@ -8392,20 +8392,20 @@ GBFTiles:
 	.short	31317
 	.short	-29062
 	.short	24597
-	.short	22590
-	.short	-30635
-	.short	-15494
+	.short	22334
+	.short	-31403
+	.short	-15238
 	.short	4809
-	.short	-27493
-	.short	-30675
+	.short	-27494
+	.short	-31443
 	.short	31354
-	.short	-15494
+	.short	-15238
 	.short	26475
 	.short	3714
 	.short	31354
 	.short	19834
-	.short	-25739
-	.short	-15395
+	.short	-25995
+	.short	-15139
 	.short	19789
 	.short	19789
 	.short	-28038
@@ -8422,32 +8422,32 @@ GBFTiles:
 	.short	5472
 	.short	24672
 	.short	6240
-	.short	-4977
-	.short	20716
+	.short	-4721
+	.short	20717
 	.short	4826
 	.short	-11831
-	.short	-15470
-	.short	-27965
-	.short	-15421
-	.short	31368
+	.short	-15214
+	.short	-27964
+	.short	-15164
+	.short	31365
 	.short	31354
 	.short	31354
-	.short	23373
+	.short	23117
 	.short	19726
 	.short	31354
 	.short	19789
 	.short	19789
-	.short	23387
-	.short	23387
-	.short	23387
+	.short	23130
+	.short	23130
+	.short	23130
 	.short	-2314
 	.short	-9482
 	.short	13061
-	.short	-30669
+	.short	-31437
 	.short	24672
 	.short	6240
 	.short	-19666
-	.short	-30715
+	.short	-31483
 	.short	24752
 	.short	24672
 	.short	6240
@@ -8460,40 +8460,40 @@ GBFTiles:
 	.short	27532
 	.short	-2314
 	.short	-13550
-	.short	-30584
-	.short	-15480
+	.short	-31355
+	.short	-15227
 	.short	3598
-	.short	31427
+	.short	31428
 	.short	19789
-	.short	23373
-	.short	19803
+	.short	23117
+	.short	19802
 	.short	31354
-	.short	23387
+	.short	23130
 	.short	19789
 	.short	19789
 	.short	19789
-	.short	-30584
+	.short	-31355
 	.short	-17030
 	.short	31374
 	.short	31354
-	.short	-30584
+	.short	-31355
 	.short	-21874
 	.short	31354
 	.short	19789
-	.short	-30584
+	.short	-31355
 	.short	27083
-	.short	31368
+	.short	31365
 	.short	19789
-	.short	-30574
+	.short	-31342
 	.short	27083
-	.short	31368
+	.short	31365
 	.short	19789
-	.short	-30584
+	.short	-31355
 	.short	8846
 	.short	31354
 	.short	19789
-	.short	-30584
-	.short	-17016
+	.short	-31355
+	.short	-17019
 	.short	31421
 	.short	19834
 	.short	31354
@@ -8502,12 +8502,12 @@ GBFTiles:
 	.short	19834
 	.short	3706
 	.short	-29014
-	.short	31368
+	.short	31365
 	.short	19834
 	.short	31354
-	.short	3779
-	.short	-30598
-	.short	-30584
+	.short	3780
+	.short	-31366
+	.short	-31355
 	.short	19789
 	.short	31309
 	.short	31354
@@ -8526,17 +8526,17 @@ GBFTiles:
 	.short	-27439
 	.short	19789
 	.short	21845
-	.short	31368
-	.short	-30598
+	.short	31365
+	.short	-31366
 	.short	19789
 	.short	-17067
-	.short	31368
+	.short	31365
 	.short	31354
 	.short	19789
 	.short	-21939
-	.short	-30578
+	.short	-31346
 	.short	31354
-	.short	13192
+	.short	13189
 	.short	11922
 	.short	-2342
 	.short	-2314
@@ -8556,18 +8556,18 @@ GBFTiles:
 	.short	-9478
 	.short	-29138
 	.short	-28014
-	.short	-15421
-	.short	-30584
+	.short	-15164
+	.short	-31355
 	.short	31354
 	.short	31354
-	.short	23373
-	.short	3675
+	.short	23117
+	.short	3674
 	.short	31309
 	.short	31354
 	.short	19834
-	.short	23373
-	.short	23387
-	.short	23387
+	.short	23117
+	.short	23130
+	.short	23130
 	.short	-2314
 	.short	-13879
 	.short	5377
@@ -8589,21 +8589,21 @@ GBFTiles:
 	.short	27504
 	.short	26618
 	.short	31354
-	.short	-30584
-	.short	-15565
-	.short	-30525
+	.short	-31355
+	.short	-15309
+	.short	-31292
 	.short	19789
 	.short	31354
 	.short	19834
 	.short	31354
-	.short	23387
-	.short	23387
-	.short	19803
+	.short	23130
+	.short	23130
+	.short	19802
 	.short	31354
 	.short	19789
 	.short	19789
 	.short	19789
-	.short	19803
+	.short	19802
 	.short	19726
 	.short	19789
 	.short	19789
@@ -8638,32 +8638,32 @@ GBFTiles:
 	.short	-16192
 	.short	19789
 	.short	-29062
-	.short	32571
+	.short	32570
 	.short	-16318
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	32597
 	.short	-16358
 	.short	19789
 	.short	31309
 	.short	4659
-	.short	-30894
+	.short	-30638
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	-27563
 	.short	8925
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	17097
 	.short	-8739
 	.short	19789
-	.short	-30598
+	.short	-31366
 	.short	-29593
 	.short	-8739
 	.short	31337
 	.short	31354
 	.short	-32116
-	.short	30840
+	.short	30583
 	.short	-16180
 	.short	21119
 	.short	-30146
@@ -8671,7 +8671,7 @@ GBFTiles:
 	.short	-30016
 	.short	17034
 	.short	3199
-	.short	6791
+	.short	6792
 	.short	-30070
 	.short	-16192
 	.short	16962
@@ -8692,9 +8692,9 @@ GBFTiles:
 	.short	-13483
 	.short	-14035
 	.short	-6041
-	.short	15138
+	.short	14882
 	.short	21778
-	.short	-30669
+	.short	-31437
 	.short	21811
 	.short	-16246
 	.short	-24694
@@ -8720,7 +8720,7 @@ GBFTiles:
 	.short	-30070
 	.short	6722
 	.short	16922
-	.short	15230
+	.short	14974
 	.short	17068
 	.short	16962
 	.short	-16192
@@ -8746,11 +8746,11 @@ GBFTiles:
 	.short	14392
 	.short	-27500
 	.short	1565
-	.short	29815
+	.short	29816
 	.short	14392
 	.short	-16192
 	.short	13886
-	.short	29815
+	.short	29816
 	.short	29726
 	.short	-16192
 	.short	-19015
@@ -8850,12 +8850,12 @@ GBFTiles:
 	.short	-14798
 	.short	4963
 	.short	4883
-	.short	-23131
-	.short	12965
+	.short	-23388
+	.short	12964
 	.short	25400
-	.short	-23131
-	.short	-23131
-	.short	-23131
+	.short	-23388
+	.short	-23388
+	.short	-23388
 	.short	-28462
 	.short	-11632
 	.short	-11566
@@ -8884,10 +8884,10 @@ GBFTiles:
 	.short	12850
 	.short	12850
 	.short	12850
-	.short	-23131
-	.short	-23131
-	.short	31909
-	.short	-23131
+	.short	-23388
+	.short	-23388
+	.short	31908
+	.short	-23388
 	.short	-11566
 	.short	-11566
 	.short	12336
@@ -8959,44 +8959,44 @@ GBFTiles:
 	.short	13031
 	.short	-21646
 	.short	-31784
-	.short	-4825
+	.short	-5081
 	.short	29234
 	.short	-10069
-	.short	-4825
+	.short	-5081
 	.short	-27857
 	.short	-21646
-	.short	-4733
+	.short	-4989
 	.short	-27857
-	.short	-4708
+	.short	-4964
 	.short	-10069
-	.short	-27667
-	.short	24867
-	.short	10221
+	.short	-27668
+	.short	25123
+	.short	10220
 	.short	10017
 	.short	9007
-	.short	10221
+	.short	10220
 	.short	8579
 	.short	25987
 	.short	25891
 	.short	8487
 	.short	-19029
 	.short	12071
-	.short	-4829
+	.short	-5085
 	.short	-21721
 	.short	12981
 	.short	10115
-	.short	12269
+	.short	12268
 	.short	12079
-	.short	24879
+	.short	25135
 	.short	9007
 	.short	8995
 	.short	12079
 	.short	9007
-	.short	24988
-	.short	-4627
+	.short	25244
+	.short	-4884
 	.short	10023
-	.short	-4627
-	.short	-4627
+	.short	-4884
+	.short	-4884
 	.short	-10109
 	.short	8481
 	.short	-31784
@@ -9049,17 +9049,17 @@ GBFTiles:
 	.short	31097
 	.short	27825
 	.short	20918
-	.short	-16486
+	.short	-16741
 	.short	-26805
 	.short	12229
 	.short	-31612
 	.short	-15996
-	.short	-16444
+	.short	-16702
 	.short	-26646
 	.short	10372
 	.short	-11052
 	.short	-16068
-	.short	-25919
+	.short	-25663
 	.short	-11052
 	.short	-11052
 	.short	-29841
@@ -9075,36 +9075,36 @@ GBFTiles:
 	.short	-29844
 	.short	-20153
 	.short	-11193
-	.short	14888
+	.short	14632
 	.short	-29844
 	.short	-20153
 	.short	-11052
 	.short	-18836
 	.short	8995
 	.short	-25565
-	.short	24879
+	.short	25135
 	.short	-14907
-	.short	-14867
-	.short	-25503
+	.short	-14868
+	.short	-25502
 	.short	-27757
 	.short	12188
 	.short	-11286
 	.short	-14953
-	.short	25029
+	.short	25285
 	.short	9007
-	.short	-16486
-	.short	29119
+	.short	-16741
+	.short	29118
 	.short	-26767
 	.short	18583
 	.short	-26472
-	.short	-15206
-	.short	-15164
-	.short	-15164
+	.short	-15717
+	.short	-15678
+	.short	-15678
 	.short	-26472
 	.short	-26472
 	.short	-26472
 	.short	-26472
-	.short	15000
+	.short	14744
 	.short	-26472
 	.short	-24159
 	.short	-24159
@@ -9116,21 +9116,21 @@ GBFTiles:
 	.short	-14907
 	.short	-14907
 	.short	-14907
-	.short	12129
+	.short	12130
 	.short	12079
 	.short	-25444
 	.short	8995
 	.short	-25565
 	.short	-25444
-	.short	24879
-	.short	-15007
+	.short	25135
+	.short	-15006
 	.short	-14953
 	.short	-14907
 	.short	-26683
 	.short	29003
-	.short	-16449
-	.short	-16449
-	.short	-25921
+	.short	-16706
+	.short	-16706
+	.short	-25666
 	.short	-18863
 	.short	-26472
 	.short	-26472
@@ -9145,14 +9145,14 @@ GBFTiles:
 	.short	10440
 	.short	10280
 	.short	26053
-	.short	-25503
-	.short	24979
+	.short	-25502
+	.short	25235
 	.short	-10201
 	.short	8995
 	.short	-25565
 	.short	-31803
 	.short	11480
-	.short	-26643
+	.short	-26644
 	.short	-31849
 	.short	-20776
 	.short	8296
@@ -9254,65 +9254,65 @@ GBFTiles:
 	.short	-27748
 	.short	-17230
 	.short	11314
-	.short	-4733
+	.short	-4989
 	.short	-25565
 	.short	27935
 	.short	11466
-	.short	24963
-	.short	24988
+	.short	25219
+	.short	25244
 	.short	28090
 	.short	11466
-	.short	24963
-	.short	24988
+	.short	25219
+	.short	25244
 	.short	28142
 	.short	11466
-	.short	-4648
+	.short	-4904
 	.short	-25565
 	.short	28090
 	.short	8372
 	.short	-31826
 	.short	-25403
 	.short	15974
-	.short	7558
-	.short	22760
+	.short	7559
+	.short	22504
 	.short	-13506
 	.short	32379
 	.short	7550
-	.short	-31000
+	.short	-30744
 	.short	-28940
 	.short	32324
-	.short	-31106
-	.short	-31106
+	.short	-30850
+	.short	-30850
 	.short	13235
 	.short	32504
-	.short	15166
-	.short	15252
+	.short	14910
+	.short	14996
 	.short	13257
-	.short	-31049
+	.short	-30793
 	.short	32574
 	.short	32578
-	.short	-15415
-	.short	-31049
+	.short	-15159
+	.short	-30793
 	.short	-24770
 	.short	6869
-	.short	-15513
+	.short	-15257
 	.short	32439
-	.short	-30914
+	.short	-30658
 	.short	10956
 	.short	-27988
 	.short	32445
 	.short	21018
 	.short	-21356
-	.short	-9594
+	.short	-9593
 	.short	-11862
 	.short	21843
-	.short	-29048
+	.short	-29051
 	.short	-10785
 	.short	31450
 	.short	31354
 	.short	21882
 	.short	-8812
-	.short	31427
+	.short	31428
 	.short	19789
 	.short	21370
 	.short	-14454
@@ -9330,11 +9330,11 @@ GBFTiles:
 	.short	-8812
 	.short	-13446
 	.short	1420
-	.short	-13944
+	.short	-13947
 	.short	-8894
-	.short	21896
+	.short	21893
 	.short	31317
-	.short	-4157
+	.short	-4156
 	.short	-8894
 	.short	17117
 	.short	31435
@@ -9345,19 +9345,19 @@ GBFTiles:
 	.short	19789
 	.short	19789
 	.short	-22010
-	.short	19907
+	.short	19908
 	.short	19789
 	.short	19789
 	.short	-9515
-	.short	19848
+	.short	19845
 	.short	19789
 	.short	19789
 	.short	-13396
-	.short	19848
+	.short	19845
 	.short	19789
 	.short	19789
 	.short	-9556
-	.short	19848
+	.short	19845
 	.short	19789
 	.short	19789
 	.short	-8830
@@ -9441,20 +9441,20 @@ GBFTiles:
 	.short	31354
 	.short	19789
 	.short	21837
-	.short	-15398
+	.short	-15142
 	.short	19789
 	.short	19789
 	.short	-29062
-	.short	-15446
+	.short	-15190
 	.short	19789
 	.short	19789
-	.short	-15494
+	.short	-15238
 	.short	-28983
 	.short	31354
 	.short	19789
 	.short	31354
 	.short	21353
-	.short	19848
+	.short	19845
 	.short	19789
 	.short	3706
 	.short	-29014
@@ -9466,26 +9466,26 @@ GBFTiles:
 	.short	19789
 	.short	19789
 	.short	-29062
-	.short	-15446
+	.short	-15190
 	.short	31354
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	21949
-	.short	31368
+	.short	31365
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	26963
 	.short	31354
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	-17069
 	.short	31354
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	21449
 	.short	31354
 	.short	19789
-	.short	-15539
+	.short	-15283
 	.short	3689
 	.short	19834
 	.short	19789
@@ -9567,11 +9567,11 @@ GBFTiles:
 	.short	19789
 	.short	19789
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	19789
 	.short	19789
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	19789
 	.short	19789
 	.short	19789
@@ -9595,53 +9595,53 @@ GBFTiles:
 	.short	-29014
 	.short	31354
 	.short	-18516
-	.short	30840
+	.short	30583
 	.short	-13463
-	.short	31368
+	.short	31365
 	.short	-32084
-	.short	30840
+	.short	30583
 	.short	21353
-	.short	31368
+	.short	31365
 	.short	-32108
-	.short	-14472
+	.short	-14473
 	.short	21794
-	.short	-30584
+	.short	-31355
 	.short	-29593
-	.short	30840
+	.short	30583
 	.short	31402
-	.short	-30598
+	.short	-31366
 	.short	-30190
-	.short	30788
+	.short	30532
 	.short	31309
-	.short	-30598
+	.short	-31366
 	.short	-29990
-	.short	30788
+	.short	30532
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	-21421
-	.short	30840
+	.short	30583
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	6702
-	.short	-14472
-	.short	-25701
+	.short	-14473
+	.short	-25958
 	.short	-9707
 	.short	-17107
-	.short	-30578
+	.short	-31346
 	.short	-27435
-	.short	-30511
-	.short	31368
+	.short	-31279
+	.short	31365
 	.short	31246
 	.short	-9662
-	.short	31368
+	.short	31365
 	.short	31354
 	.short	19789
 	.short	-13355
-	.short	31368
+	.short	31365
 	.short	19834
 	.short	19789
 	.short	-13355
-	.short	-15480
+	.short	-15227
 	.short	31354
 	.short	19789
 	.short	-8382
@@ -9651,25 +9651,25 @@ GBFTiles:
 	.short	-8382
 	.short	-11814
 	.short	-27447
-	.short	-30511
+	.short	-31279
 	.short	4821
-	.short	-30525
-	.short	-29048
+	.short	-31292
+	.short	-29051
 	.short	13101
 	.short	-9643
 	.short	7633
 	.short	-16258
 	.short	-16192
-	.short	-11837
+	.short	-11836
 	.short	-3887
 	.short	32338
 	.short	-16192
-	.short	-30643
+	.short	-31411
 	.short	32341
 	.short	21140
 	.short	-16212
 	.short	31309
-	.short	-31149
+	.short	-30893
 	.short	-27500
 	.short	-13120
 	.short	31309
@@ -9677,11 +9677,11 @@ GBFTiles:
 	.short	-16236
 	.short	-13120
 	.short	-28038
-	.short	21147
+	.short	21146
 	.short	17023
 	.short	-13120
-	.short	-13432
-	.short	32315
+	.short	-13435
+	.short	32314
 	.short	-16322
 	.short	-30070
 	.short	-29682
@@ -9807,15 +9807,15 @@ GBFTiles:
 	.short	29812
 	.short	29812
 	.short	-7820
-	.short	30583
+	.short	30840
 	.short	29812
 	.short	-7820
-	.short	-27017
+	.short	-27016
 	.short	29041
 	.short	-7820
-	.short	29047
+	.short	29048
 	.short	10133
-	.short	-4627
+	.short	-4884
 	.short	31868
 	.short	31868
 	.short	2172
@@ -9836,19 +9836,19 @@ GBFTiles:
 	.short	2056
 	.short	2056
 	.short	2056
-	.short	30583
-	.short	30583
+	.short	30840
+	.short	30840
 	.short	2056
 	.short	2056
 	.short	18581
 	.short	18504
 	.short	-27243
-	.short	30583
+	.short	30840
 	.short	12079
 	.short	8995
 	.short	25903
 	.short	10085
-	.short	-23172
+	.short	-23428
 	.short	12850
 	.short	12406
 	.short	-11566
@@ -9883,23 +9883,23 @@ GBFTiles:
 	.short	30418
 	.short	12918
 	.short	11314
-	.short	-4648
+	.short	-4904
 	.short	30326
 	.short	12988
 	.short	11388
-	.short	-4733
+	.short	-4989
 	.short	12850
 	.short	12850
-	.short	30472
-	.short	-4713
+	.short	30728
+	.short	-4969
 	.short	12850
 	.short	2098
 	.short	-10069
-	.short	-25363
+	.short	-25364
 	.short	12850
 	.short	-21646
 	.short	10155
-	.short	-27807
+	.short	-27806
 	.short	2162
 	.short	-21589
 	.short	26005
@@ -9909,34 +9909,34 @@ GBFTiles:
 	.short	12071
 	.short	12067
 	.short	-10024
-	.short	-4825
+	.short	-5081
 	.short	9007
-	.short	-4817
-	.short	-27807
-	.short	-4817
+	.short	-5073
+	.short	-27806
+	.short	-5073
 	.short	-21629
 	.short	-6219
 	.short	9007
-	.short	-4627
+	.short	-4884
 	.short	8487
 	.short	-6219
 	.short	9107
-	.short	-4767
-	.short	-31763
+	.short	-5022
+	.short	-31764
 	.short	4385
 	.short	9107
 	.short	12188
-	.short	-4817
-	.short	-31763
+	.short	-5073
+	.short	-31764
 	.short	9107
 	.short	-25565
 	.short	-27869
 	.short	-27757
-	.short	-4767
-	.short	-4627
-	.short	-4627
-	.short	25069
-	.short	10221
+	.short	-5022
+	.short	-4884
+	.short	-4884
+	.short	25324
+	.short	10220
 	.short	8579
 	.short	8481
 	.short	-31967
@@ -9960,18 +9960,18 @@ GBFTiles:
 	.short	-21727
 	.short	-19019
 	.short	4396
-	.short	-4708
-	.short	10221
+	.short	-4964
+	.short	10220
 	.short	10151
-	.short	-31763
+	.short	-31764
 	.short	-27748
 	.short	12067
-	.short	-25503
+	.short	-25502
 	.short	-27748
-	.short	-4733
-	.short	-25503
+	.short	-4989
+	.short	-25502
 	.short	-25565
-	.short	24988
+	.short	25244
 	.short	-19019
 	.short	8481
 	.short	8664
@@ -10235,7 +10235,7 @@ GBFTiles:
 	.short	15995
 	.short	21164
 	.short	-16322
-	.short	-31010
+	.short	-30754
 	.short	6787
 	.short	16044
 	.short	-13230
@@ -10244,59 +10244,59 @@ GBFTiles:
 	.short	6783
 	.short	-21317
 	.short	-21332
-	.short	-16807
+	.short	-16552
 	.short	-30023
 	.short	32699
 	.short	-21442
 	.short	4567
 	.short	16991
-	.short	15291
-	.short	32315
-	.short	-20838
+	.short	15035
+	.short	32314
+	.short	-20837
 	.short	-21320
-	.short	32390
-	.short	21051
-	.short	-20796
-	.short	15161
-	.short	32390
-	.short	-17605
+	.short	32391
+	.short	21050
+	.short	-20798
+	.short	14907
+	.short	32391
+	.short	-17606
 	.short	20817
 	.short	16120
-	.short	15186
-	.short	-17605
-	.short	-30635
+	.short	14930
+	.short	-17606
+	.short	-31403
 	.short	31354
-	.short	30147
-	.short	30860
+	.short	30148
+	.short	30604
 	.short	-11905
 	.short	31354
 	.short	8718
-	.short	-14437
+	.short	-14438
 	.short	-24660
 	.short	3773
 	.short	17042
-	.short	30754
+	.short	30498
 	.short	-21438
 	.short	3199
 	.short	32318
-	.short	30754
+	.short	30498
 	.short	-27582
 	.short	17022
 	.short	32639
-	.short	30941
+	.short	30685
 	.short	-27582
 	.short	-16302
 	.short	-27522
-	.short	30840
+	.short	30583
 	.short	-30070
-	.short	-30074
+	.short	-30073
 	.short	-29614
 	.short	17476
 	.short	-30016
 	.short	10834
 	.short	26555
 	.short	17476
-	.short	-8584
+	.short	-8585
 	.short	19913
 	.short	19789
 	.short	19789
@@ -10304,19 +10304,19 @@ GBFTiles:
 	.short	31374
 	.short	19789
 	.short	19789
-	.short	-27528
+	.short	-27529
 	.short	31374
 	.short	3706
 	.short	-28995
-	.short	-21384
+	.short	-21385
 	.short	31441
 	.short	31354
 	.short	1678
 	.short	17117
-	.short	-30519
+	.short	-31287
 	.short	31354
 	.short	31354
-	.short	8824
+	.short	8823
 	.short	-29046
 	.short	31354
 	.short	31354
@@ -10347,7 +10347,7 @@ GBFTiles:
 	.short	-17010
 	.short	22008
 	.short	31354
-	.short	1627
+	.short	1626
 	.short	31354
 	.short	31354
 	.short	-28038
@@ -10357,17 +10357,17 @@ GBFTiles:
 	.short	-13958
 	.short	-14379
 	.short	3661
-	.short	-30598
+	.short	-31366
 	.short	24405
 	.short	-14558
 	.short	19834
 	.short	26985
 	.short	31354
-	.short	-30598
+	.short	-31366
 	.short	-29062
-	.short	-15427
+	.short	-15171
 	.short	31354
-	.short	-15494
+	.short	-15238
 	.short	-29062
 	.short	11660
 	.short	-13359
@@ -10380,7 +10380,7 @@ GBFTiles:
 	.short	-8739
 	.short	-32035
 	.short	10847
-	.short	-8840
+	.short	-8841
 	.short	32629
 	.short	-32194
 	.short	-8739
@@ -10393,11 +10393,11 @@ GBFTiles:
 	.short	32639
 	.short	26471
 	.short	-21933
-	.short	31427
+	.short	31428
 	.short	19789
 	.short	19789
 	.short	27081
-	.short	31368
+	.short	31365
 	.short	31354
 	.short	31354
 	.short	30139
@@ -10405,7 +10405,7 @@ GBFTiles:
 	.short	31354
 	.short	-29062
 	.short	-8601
-	.short	-21957
+	.short	-21958
 	.short	-21815
 	.short	3202
 	.short	-8830
@@ -10415,14 +10415,14 @@ GBFTiles:
 	.short	-8843
 	.short	-8739
 	.short	-13542
-	.short	15109
+	.short	14853
 	.short	-18475
 	.short	-8926
 	.short	30082
 	.short	32751
 	.short	10890
 	.short	-8954
-	.short	-20616
+	.short	-20617
 	.short	8917
 	.short	31309
 	.short	31354
@@ -10435,39 +10435,39 @@ GBFTiles:
 	.short	32426
 	.short	-29548
 	.short	26508
-	.short	-15474
+	.short	-15218
 	.short	30165
 	.short	32396
-	.short	-8570
+	.short	-8569
 	.short	-8482
 	.short	-8926
 	.short	-27427
-	.short	32571
-	.short	15231
+	.short	32570
+	.short	14975
 	.short	-14371
 	.short	-14393
 	.short	-14393
 	.short	-14393
 	.short	-8761
-	.short	8824
+	.short	8823
 	.short	-32161
 	.short	-8926
-	.short	30840
-	.short	8824
+	.short	30583
+	.short	8823
 	.short	-11002
 	.short	16991
 	.short	3706
 	.short	-11862
-	.short	31368
+	.short	31365
 	.short	19789
-	.short	-30584
+	.short	-31355
 	.short	4797
 	.short	3730
 	.short	19834
 	.short	26894
 	.short	-29524
 	.short	-10870
-	.short	23485
+	.short	23229
 	.short	-32129
 	.short	-8739
 	.short	-14371
@@ -10480,9 +10480,9 @@ GBFTiles:
 	.short	30173
 	.short	16012
 	.short	8863
-	.short	30840
-	.short	30919
-	.short	-8840
+	.short	30583
+	.short	30663
+	.short	-8841
 	.short	-24798
 	.short	10965
 	.short	-30182
@@ -10501,24 +10501,24 @@ GBFTiles:
 	.short	31354
 	.short	-18546
 	.short	31450
-	.short	-30584
-	.short	27075
+	.short	-31355
+	.short	27076
 	.short	-29150
 	.short	26498
-	.short	23698
+	.short	23442
 	.short	26217
 	.short	31354
 	.short	-32057
 	.short	-28057
-	.short	-30584
+	.short	-31355
 	.short	31354
 	.short	-8934
 	.short	-29483
-	.short	31427
+	.short	31428
 	.short	31354
 	.short	-24694
 	.short	6773
-	.short	-30481
+	.short	-31249
 	.short	31354
 	.short	19789
 	.short	19789
@@ -10553,43 +10553,43 @@ GBFTiles:
 	.short	24415
 	.short	1749
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	-21419
-	.short	-14472
+	.short	-14473
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	-8501
-	.short	30840
+	.short	30583
 	.short	19789
-	.short	-30643
+	.short	-31411
 	.short	17066
-	.short	30919
+	.short	30663
 	.short	19789
 	.short	-29062
 	.short	8831
-	.short	17528
+	.short	17527
 	.short	19789
 	.short	8781
 	.short	-14454
-	.short	30840
+	.short	30583
 	.short	3706
 	.short	-30038
-	.short	30840
+	.short	30583
 	.short	8925
 	.short	-30174
 	.short	-8954
-	.short	30840
+	.short	30583
 	.short	-24826
 	.short	-8926
 	.short	-8739
-	.short	30754
-	.short	-30793
+	.short	30498
+	.short	-30537
 	.short	-21886
 	.short	31354
-	.short	-30598
-	.short	13192
+	.short	-31366
+	.short	13189
 	.short	-8926
-	.short	31427
+	.short	31428
 	.short	31354
 	.short	4622
 	.short	26485
@@ -10597,15 +10597,15 @@ GBFTiles:
 	.short	-29062
 	.short	-17561
 	.short	-29475
-	.short	-30578
+	.short	-31346
 	.short	16075
-	.short	15231
+	.short	14975
 	.short	-21283
 	.short	-8465
 	.short	-30146
 	.short	-8556
-	.short	-8584
-	.short	-21370
+	.short	-8585
+	.short	-21369
 	.short	16962
 	.short	-27500
 	.short	17095
@@ -10631,7 +10631,7 @@ GBFTiles:
 	.short	-30146
 	.short	-30070
 	.short	24415
-	.short	-30838
+	.short	-30582
 	.short	-30196
 	.short	24415
 	.short	24415
@@ -10658,11 +10658,11 @@ GBFTiles:
 	.short	-27058
 	.short	-16246
 	.short	21130
-	.short	30712
+	.short	30968
 	.short	19998
 	.short	-16246
 	.short	3264
-	.short	30506
+	.short	30762
 	.short	-27058
 	.short	17023
 	.short	-24640
@@ -10757,20 +10757,20 @@ GBFTiles:
 	.short	25957
 	.short	10056
 	.short	12104
-	.short	24867
+	.short	25123
 	.short	18533
-	.short	30577
+	.short	30833
 	.short	9032
 	.short	25891
 	.short	29000
-	.short	2167
+	.short	2168
 	.short	9061
-	.short	-4829
-	.short	30503
+	.short	-5085
+	.short	30759
 	.short	31752
 	.short	12104
 	.short	25891
-	.short	30503
+	.short	30759
 	.short	2092
 	.short	12104
 	.short	25891
@@ -10781,14 +10781,14 @@ GBFTiles:
 	.short	9116
 	.short	12067
 	.short	25957
-	.short	-4763
-	.short	-4763
+	.short	-5019
+	.short	-5019
 	.short	9007
 	.short	28967
 	.short	29144
 	.short	29041
 	.short	10023
-	.short	-21641
+	.short	-21640
 	.short	2056
 	.short	-21716
 	.short	-10069
@@ -10797,29 +10797,29 @@ GBFTiles:
 	.short	31868
 	.short	2056
 	.short	31868
-	.short	-23131
-	.short	-23131
-	.short	-23131
+	.short	-23388
+	.short	-23388
+	.short	-23388
 	.short	31868
-	.short	-23131
-	.short	-23131
-	.short	-23131
+	.short	-23388
+	.short	-23388
+	.short	-23388
 	.short	31868
-	.short	-23131
-	.short	-23131
+	.short	-23388
+	.short	-23388
 	.short	4883
-	.short	-4627
+	.short	-4884
 	.short	10023
 	.short	10023
-	.short	-4825
+	.short	-5081
 	.short	-25565
 	.short	12079
 	.short	12079
 	.short	9116
-	.short	24933
+	.short	25189
 	.short	12079
 	.short	12079
-	.short	24879
+	.short	25135
 	.short	-10024
 	.short	-10024
 	.short	-10024
@@ -10828,11 +10828,11 @@ GBFTiles:
 	.short	2056
 	.short	29228
 	.short	-19086
-	.short	-23131
+	.short	-23388
 	.short	12850
 	.short	12850
 	.short	12850
-	.short	5029
+	.short	5028
 	.short	12850
 	.short	-17358
 	.short	30396
@@ -10840,16 +10840,16 @@ GBFTiles:
 	.short	-17358
 	.short	-17220
 	.short	-17220
-	.short	26093
-	.short	12129
+	.short	26092
+	.short	12130
 	.short	12179
 	.short	8487
 	.short	-27869
 	.short	-25453
-	.short	-31763
+	.short	-31764
 	.short	-19167
-	.short	-4627
-	.short	-31763
+	.short	-4884
+	.short	-31764
 	.short	8579
 	.short	12981
 	.short	8481
@@ -10875,15 +10875,15 @@ GBFTiles:
 	.short	29365
 	.short	12519
 	.short	-12752
-	.short	-6267
+	.short	-6266
 	.short	-6286
 	.short	12336
-	.short	-31282
-	.short	-23388
+	.short	-31026
+	.short	-23131
 	.short	30439
 	.short	12406
-	.short	-31282
-	.short	-31355
+	.short	-31026
+	.short	-31098
 	.short	30326
 	.short	12406
 	.short	-32562
@@ -10908,34 +10908,34 @@ GBFTiles:
 	.short	29415
 	.short	-19019
 	.short	-6219
-	.short	-31355
-	.short	-12667
+	.short	-31098
+	.short	-12666
 	.short	30439
 	.short	-12682
-	.short	-23388
-	.short	-31324
+	.short	-23131
+	.short	-31067
 	.short	12494
 	.short	12336
-	.short	-23419
-	.short	-23388
-	.short	-31324
+	.short	-23162
+	.short	-23131
+	.short	-31067
 	.short	12494
 	.short	-12672
-	.short	-23424
-	.short	-23514
-	.short	-12667
+	.short	-23168
+	.short	-23258
+	.short	-12666
 	.short	12432
-	.short	-23424
-	.short	22310
-	.short	-31324
+	.short	-23168
+	.short	24102
+	.short	-31067
 	.short	12432
-	.short	-31282
+	.short	-31026
 	.short	9766
-	.short	-31324
+	.short	-31067
 	.short	-12672
-	.short	-31360
-	.short	-23514
-	.short	-32635
+	.short	-31104
+	.short	-23258
+	.short	-32634
 	.short	28593
 	.short	-31605
 	.short	-11052
@@ -10983,15 +10983,15 @@ GBFTiles:
 	.short	10280
 	.short	-31704
 	.short	-24158
-	.short	-24262
+	.short	-24263
 	.short	10280
 	.short	-31544
 	.short	-23902
-	.short	-26566
+	.short	-26567
 	.short	10280
 	.short	-9364
 	.short	-23932
-	.short	15009
+	.short	14753
 	.short	10280
 	.short	-9432
 	.short	-23845
@@ -10999,7 +10999,7 @@ GBFTiles:
 	.short	10348
 	.short	-31525
 	.short	-23932
-	.short	15009
+	.short	14753
 	.short	-23903
 	.short	10402
 	.short	10280
@@ -11017,9 +11017,9 @@ GBFTiles:
 	.short	-14136
 	.short	-23902
 	.short	-24159
-	.short	-7007
+	.short	-6751
 	.short	-24049
-	.short	-24092
+	.short	-24091
 	.short	-24159
 	.short	-24159
 	.short	-24159
@@ -11029,9 +11029,9 @@ GBFTiles:
 	.short	-24159
 	.short	-24159
 	.short	-24159
-	.short	-7007
-	.short	-6940
-	.short	-6940
+	.short	-6751
+	.short	-6683
+	.short	-6683
 	.short	10280
 	.short	18247
 	.short	18247
@@ -11060,7 +11060,7 @@ GBFTiles:
 	.short	10280
 	.short	10280
 	.short	18216
-	.short	-31516
+	.short	-31515
 	.short	-14136
 	.short	10280
 	.short	10280
@@ -11193,27 +11193,27 @@ GBFTiles:
 	.short	-18762
 	.short	-16047
 	.short	-16029
-	.short	32389
+	.short	32390
 	.short	-8622
 	.short	21054
 	.short	26723
-	.short	3205
+	.short	3206
 	.short	-27586
 	.short	32318
 	.short	15459
-	.short	-30812
+	.short	-30555
 	.short	-27476
 	.short	32524
 	.short	-19357
-	.short	16102
+	.short	16098
 	.short	6722
 	.short	-27566
 	.short	-19345
-	.short	-17946
+	.short	-17950
 	.short	32704
 	.short	-16258
 	.short	-13642
-	.short	6886
+	.short	6882
 	.short	6848
 	.short	-30081
 	.short	-13642
@@ -11227,56 +11227,56 @@ GBFTiles:
 	.short	6848
 	.short	32594
 	.short	30139
-	.short	17528
+	.short	17527
 	.short	32578
-	.short	-30894
-	.short	-8826
-	.short	17528
+	.short	-30638
+	.short	-8825
+	.short	17527
 	.short	-4030
 	.short	3198
 	.short	-8720
-	.short	30840
+	.short	30583
 	.short	16064
-	.short	21051
-	.short	30868
-	.short	30840
+	.short	21050
+	.short	30612
+	.short	30583
 	.short	32448
-	.short	-17605
+	.short	-17606
 	.short	-14444
 	.short	-18654
-	.short	-31094
+	.short	-30838
 	.short	-17424
 	.short	-8812
-	.short	32646
+	.short	32647
 	.short	21184
 	.short	21119
 	.short	17022
 	.short	-8675
 	.short	3264
-	.short	15231
-	.short	-31203
+	.short	14975
+	.short	-30947
 	.short	-27461
 	.short	17476
 	.short	8887
-	.short	-18568
+	.short	-18569
 	.short	-18682
-	.short	17528
+	.short	17527
 	.short	8746
-	.short	30840
+	.short	30583
 	.short	8925
-	.short	-18568
-	.short	30762
-	.short	30840
+	.short	-18569
+	.short	30506
+	.short	30583
 	.short	6662
-	.short	-32136
-	.short	30858
-	.short	30840
+	.short	-32137
+	.short	30602
+	.short	30583
 	.short	-10982
-	.short	-10888
-	.short	30858
+	.short	-10889
+	.short	30602
 	.short	8772
 	.short	8730
-	.short	-10888
+	.short	-10889
 	.short	17546
 	.short	8772
 	.short	30165
@@ -11285,29 +11285,29 @@ GBFTiles:
 	.short	17476
 	.short	32386
 	.short	8903
-	.short	30754
+	.short	30498
 	.short	-18620
 	.short	-17538
 	.short	1719
 	.short	26914
 	.short	1666
-	.short	26488
-	.short	-8840
+	.short	26487
+	.short	-8841
 	.short	16093
 	.short	-8833
 	.short	3106
-	.short	30840
+	.short	30583
 	.short	32290
 	.short	8738
 	.short	-10881
-	.short	30919
+	.short	30663
 	.short	-29569
 	.short	15989
 	.short	16962
 	.short	-27449
 	.short	-8464
 	.short	-32174
-	.short	-30910
+	.short	-30654
 	.short	21119
 	.short	-27566
 	.short	30069
@@ -11317,12 +11317,12 @@ GBFTiles:
 	.short	-8739
 	.short	-10974
 	.short	30175
-	.short	-27493
+	.short	-27494
 	.short	15999
 	.short	-16257
 	.short	26494
 	.short	-24766
-	.short	26523
+	.short	26522
 	.short	-8532
 	.short	-27508
 	.short	-8812
@@ -11347,22 +11347,22 @@ GBFTiles:
 	.short	15999
 	.short	30124
 	.short	30069
-	.short	-30574
+	.short	-31342
 	.short	-8857
 	.short	-14393
 	.short	8925
-	.short	-30574
+	.short	-31342
 	.short	-8820
-	.short	30941
-	.short	30840
-	.short	30840
+	.short	30685
+	.short	30583
+	.short	30583
 	.short	-32084
 	.short	-10787
 	.short	8887
-	.short	30726
+	.short	30470
 	.short	26494
 	.short	7646
-	.short	15276
+	.short	15020
 	.short	26494
 	.short	32682
 	.short	-13367
@@ -11376,16 +11376,16 @@ GBFTiles:
 	.short	21969
 	.short	26214
 	.short	21902
-	.short	3720
-	.short	-30706
+	.short	3717
+	.short	-31474
 	.short	3598
-	.short	-30584
+	.short	-31355
 	.short	-14029
-	.short	-15398
+	.short	-15142
 	.short	-9580
 	.short	4693
-	.short	30840
-	.short	8824
+	.short	30583
+	.short	8823
 	.short	-29662
 	.short	-21366
 	.short	-18620
@@ -11394,7 +11394,7 @@ GBFTiles:
 	.short	30069
 	.short	32383
 	.short	-24692
-	.short	-10888
+	.short	-10889
 	.short	-8768
 	.short	-21815
 	.short	-13347
@@ -11408,14 +11408,14 @@ GBFTiles:
 	.short	-21827
 	.short	1719
 	.short	24326
-	.short	-30584
-	.short	-30598
+	.short	-31355
+	.short	-31366
 	.short	3726
-	.short	-15602
-	.short	21955
+	.short	-15346
+	.short	21956
 	.short	3785
 	.short	-11892
-	.short	-30584
+	.short	-31355
 	.short	-32118
 	.short	-32139
 	.short	-24806
@@ -11423,12 +11423,12 @@ GBFTiles:
 	.short	17013
 	.short	-29569
 	.short	-8739
-	.short	-30763
+	.short	-30507
 	.short	-8739
 	.short	24541
 	.short	-32194
 	.short	-8739
-	.short	30726
+	.short	30470
 	.short	-8739
 	.short	6877
 	.short	-8894
@@ -11439,31 +11439,31 @@ GBFTiles:
 	.short	-21364
 	.short	15934
 	.short	32574
-	.short	-25790
+	.short	-26046
 	.short	-8621
 	.short	-8843
 	.short	30173
-	.short	17051
+	.short	17050
 	.short	-21286
 	.short	-8843
-	.short	30840
-	.short	-14472
+	.short	30583
+	.short	-14473
 	.short	-10787
-	.short	8763
+	.short	8762
 	.short	21887
-	.short	31368
+	.short	31365
 	.short	-8894
 	.short	16012
 	.short	26434
 	.short	-29493
 	.short	32639
 	.short	26485
-	.short	15326
-	.short	26502
+	.short	15070
+	.short	26503
 	.short	17117
-	.short	-25721
+	.short	-25976
 	.short	30173
-	.short	-21445
+	.short	-21446
 	.short	-8894
 	.short	15989
 	.short	26430
@@ -11478,20 +11478,20 @@ GBFTiles:
 	.short	32574
 	.short	-8761
 	.short	16999
-	.short	15163
+	.short	14906
 	.short	30092
 	.short	-29613
 	.short	-18550
 	.short	-8739
-	.short	30840
+	.short	30583
 	.short	-18561
 	.short	8738
 	.short	8772
-	.short	30726
+	.short	30470
 	.short	17629
 	.short	17476
 	.short	-18620
-	.short	30762
+	.short	30506
 	.short	8925
 	.short	17476
 	.short	-18620
@@ -11499,11 +11499,11 @@ GBFTiles:
 	.short	17546
 	.short	17476
 	.short	-18620
-	.short	30858
+	.short	30602
 	.short	32671
-	.short	30754
-	.short	8824
-	.short	30726
+	.short	30498
+	.short	8823
+	.short	30470
 	.short	-21332
 	.short	-10946
 	.short	-8761
@@ -11512,51 +11512,51 @@ GBFTiles:
 	.short	6783
 	.short	-8747
 	.short	17476
-	.short	30840
-	.short	8824
+	.short	30583
+	.short	8823
 	.short	8726
 	.short	3106
-	.short	30840
-	.short	8824
+	.short	30583
+	.short	8823
 	.short	8766
 	.short	32477
-	.short	17528
-	.short	30788
+	.short	17527
+	.short	30532
 	.short	8830
-	.short	-30755
-	.short	17528
+	.short	-30499
+	.short	17527
 	.short	17476
 	.short	8830
 	.short	6690
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	8766
 	.short	-18467
 	.short	17476
-	.short	8824
+	.short	8823
 	.short	8831
-	.short	-8840
+	.short	-8841
 	.short	17476
 	.short	8772
-	.short	30815
-	.short	30840
+	.short	30559
+	.short	30583
 	.short	17476
 	.short	17476
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	8738
 	.short	-21378
 	.short	-24673
 	.short	17088
 	.short	-14558
-	.short	15344
+	.short	15088
 	.short	15999
 	.short	-10804
 	.short	-14371
 	.short	32282
 	.short	15999
 	.short	-13217
-	.short	-14472
+	.short	-14473
 	.short	-17451
 	.short	16094
 	.short	-13174
@@ -11566,22 +11566,22 @@ GBFTiles:
 	.short	-13108
 	.short	-8739
 	.short	7527
-	.short	16006
+	.short	16007
 	.short	-30004
-	.short	32411
+	.short	32410
 	.short	-17441
 	.short	15954
 	.short	-21291
 	.short	-17534
-	.short	-17530
-	.short	15291
+	.short	-17529
+	.short	15035
 	.short	32578
-	.short	15186
+	.short	14930
 	.short	3285
-	.short	-16325
+	.short	-16326
 	.short	-16192
-	.short	15186
-	.short	-30763
+	.short	14930
+	.short	-30507
 	.short	-16322
 	.short	-16192
 	.short	15954
@@ -11592,7 +11592,7 @@ GBFTiles:
 	.short	3264
 	.short	-13250
 	.short	-13108
-	.short	15186
+	.short	14930
 	.short	3264
 	.short	-13250
 	.short	-16180
@@ -11678,11 +11678,11 @@ GBFTiles:
 	.short	29078
 	.short	7905
 	.short	29726
-	.short	-15244
+	.short	-15756
 	.short	29078
 	.short	7830
-	.short	-15164
-	.short	30660
+	.short	-15678
+	.short	30914
 	.short	18545
 	.short	-26986
 	.short	-26986
@@ -11699,11 +11699,11 @@ GBFTiles:
 	.short	29041
 	.short	-14907
 	.short	-27748
-	.short	-4817
+	.short	-5073
 	.short	-14991
-	.short	25029
+	.short	25285
 	.short	-27748
-	.short	-31903
+	.short	-31902
 	.short	25928
 	.short	8995
 	.short	-10139
@@ -11714,17 +11714,17 @@ GBFTiles:
 	.short	2219
 	.short	12133
 	.short	12067
-	.short	-10003
+	.short	-10004
 	.short	2219
-	.short	9057
-	.short	-4708
+	.short	9058
+	.short	-4964
 	.short	-21647
-	.short	-23288
+	.short	-23544
 	.short	-25453
-	.short	-31763
+	.short	-31764
 	.short	11480
 	.short	12850
-	.short	-4763
+	.short	-5019
 	.short	-10089
 	.short	31788
 	.short	12850
@@ -11736,7 +11736,7 @@ GBFTiles:
 	.short	12850
 	.short	4883
 	.short	27923
-	.short	-23172
+	.short	-23428
 	.short	12850
 	.short	-17358
 	.short	12988
@@ -11839,52 +11839,52 @@ GBFTiles:
 	.short	30256
 	.short	12406
 	.short	12336
-	.short	-31360
+	.short	-31104
 	.short	30256
 	.short	-32720
 	.short	12336
-	.short	-31360
+	.short	-31104
 	.short	30256
 	.short	-12752
 	.short	-12594
-	.short	-31360
+	.short	-31104
 	.short	12432
 	.short	-32562
 	.short	-32640
-	.short	-32635
+	.short	-32634
 	.short	-28528
-	.short	-31360
-	.short	-31486
-	.short	-12667
+	.short	-31104
+	.short	-31230
+	.short	-12666
 	.short	-32624
-	.short	-31360
+	.short	-31104
 	.short	9766
-	.short	-12667
+	.short	-12666
 	.short	-32624
-	.short	-31360
+	.short	-31104
 	.short	9766
-	.short	-31324
-	.short	-31360
-	.short	645
-	.short	-31324
-	.short	-32635
-	.short	-23419
-	.short	-31324
-	.short	-31355
-	.short	-32635
-	.short	-23419
-	.short	-23388
-	.short	-31355
+	.short	-31067
+	.short	-31104
+	.short	646
+	.short	-31067
+	.short	-32634
+	.short	-23162
+	.short	-31067
+	.short	-31098
+	.short	-32634
+	.short	-23162
+	.short	-23131
+	.short	-31098
 	.short	-32640
-	.short	-31355
-	.short	-23388
-	.short	-31355
+	.short	-31098
+	.short	-23131
+	.short	-31098
 	.short	-32640
-	.short	-31355
-	.short	-31355
+	.short	-31098
+	.short	-31098
 	.short	-12672
 	.short	-32562
-	.short	-31282
+	.short	-31026
 	.short	-32640
 	.short	12416
 	.short	-28624
@@ -11892,7 +11892,7 @@ GBFTiles:
 	.short	-32640
 	.short	12432
 	.short	-28528
-	.short	-32635
+	.short	-32634
 	.short	-32640
 	.short	12336
 	.short	-19824
@@ -11931,40 +11931,40 @@ GBFTiles:
 	.short	-9364
 	.short	-24158
 	.short	-24159
-	.short	14906
+	.short	14649
 	.short	-23845
-	.short	15009
-	.short	-26566
+	.short	14753
+	.short	-26567
 	.short	-26472
 	.short	-23845
 	.short	-26472
 	.short	-26472
-	.short	-25960
+	.short	-25704
 	.short	-24024
-	.short	-26566
+	.short	-26567
 	.short	-26472
 	.short	-26472
 	.short	-9364
-	.short	15076
-	.short	-26566
+	.short	14821
+	.short	-26567
 	.short	-26472
 	.short	27787
-	.short	-7074
-	.short	14906
+	.short	-6819
+	.short	14649
 	.short	-26472
 	.short	10311
 	.short	-23845
-	.short	-24092
+	.short	-24091
 	.short	-26472
 	.short	18180
 	.short	-23845
 	.short	-24158
-	.short	14906
+	.short	14649
 	.short	-24159
-	.short	4068
-	.short	-7153
-	.short	-6940
-	.short	-7110
+	.short	4069
+	.short	-6897
+	.short	-6683
+	.short	-6855
 	.short	3855
 	.short	3855
 	.short	-14136
@@ -11973,7 +11973,7 @@ GBFTiles:
 	.short	-14136
 	.short	-14136
 	.short	-26472
-	.short	4068
+	.short	4069
 	.short	-14321
 	.short	-14136
 	.short	-26472
@@ -11981,15 +11981,15 @@ GBFTiles:
 	.short	-14321
 	.short	-14136
 	.short	-24168
-	.short	-6940
+	.short	-6683
 	.short	3855
 	.short	-14136
 	.short	-24168
-	.short	-6940
+	.short	-6683
 	.short	3855
 	.short	-14321
-	.short	-24262
-	.short	-6940
+	.short	-24263
+	.short	-6683
 	.short	3855
 	.short	-14321
 	.short	-14174
@@ -12157,145 +12157,145 @@ GBFTiles:
 	.short	-13108
 	.short	10778
 	.short	30240
-	.short	-30110
+	.short	-30111
 	.short	-30070
 	.short	6718
 	.short	11210
-	.short	24418
+	.short	24417
 	.short	-30070
 	.short	6782
 	.short	11068
-	.short	24418
+	.short	24417
 	.short	-16180
 	.short	32638
 	.short	11201
 	.short	-30143
 	.short	-16180
-	.short	15230
+	.short	14974
 	.short	12982
 	.short	-30143
 	.short	-16180
 	.short	32382
 	.short	11190
-	.short	-16286
+	.short	-16287
 	.short	-16180
 	.short	21119
 	.short	5999
-	.short	-16286
+	.short	-16287
 	.short	-13108
 	.short	21164
 	.short	21184
 	.short	-21264
 	.short	7611
-	.short	-8570
+	.short	-8569
 	.short	21184
-	.short	-16325
+	.short	-16326
 	.short	-8532
 	.short	-8578
 	.short	32448
-	.short	-13253
+	.short	-13254
 	.short	17088
 	.short	32382
-	.short	15296
+	.short	15040
 	.short	-13186
 	.short	-16180
-	.short	7558
+	.short	7559
 	.short	32704
 	.short	-13186
 	.short	-16180
-	.short	-6010
+	.short	-6009
 	.short	-21300
 	.short	-16372
 	.short	-16180
-	.short	-6010
+	.short	-6009
 	.short	-16180
 	.short	-3970
 	.short	-16180
-	.short	-31106
+	.short	-30850
 	.short	-13286
 	.short	3199
 	.short	-13174
 	.short	32318
-	.short	30919
-	.short	17528
+	.short	30663
+	.short	17527
 	.short	-10940
 	.short	-8366
-	.short	30919
-	.short	17528
+	.short	30663
+	.short	17527
 	.short	8772
 	.short	6796
-	.short	30919
+	.short	30663
 	.short	17476
 	.short	17476
 	.short	-10816
-	.short	30941
+	.short	30685
 	.short	17476
 	.short	17476
-	.short	30754
-	.short	30941
-	.short	17528
+	.short	30498
+	.short	30685
+	.short	17527
 	.short	-18620
-	.short	30815
-	.short	30786
+	.short	30559
+	.short	30530
 	.short	-18620
 	.short	8738
 	.short	8730
 	.short	-8834
 	.short	7596
-	.short	30933
+	.short	30677
 	.short	-10870
 	.short	-27636
-	.short	32315
+	.short	32314
 	.short	-8898
 	.short	15906
 	.short	32615
 	.short	-10881
 	.short	-8926
-	.short	30941
+	.short	30685
 	.short	30111
 	.short	-8739
-	.short	8824
-	.short	30941
-	.short	30919
-	.short	30840
+	.short	8823
+	.short	30685
+	.short	30663
+	.short	30583
 	.short	17476
-	.short	30788
-	.short	30840
-	.short	17476
-	.short	17476
-	.short	17476
-	.short	30840
+	.short	30532
+	.short	30583
 	.short	17476
 	.short	17476
-	.short	30788
-	.short	30840
-	.short	30840
+	.short	17476
+	.short	30583
+	.short	17476
+	.short	17476
+	.short	30532
+	.short	30583
+	.short	30583
 	.short	-18620
-	.short	30788
-	.short	30840
-	.short	30840
+	.short	30532
+	.short	30583
+	.short	30583
 	.short	24503
-	.short	30840
-	.short	30754
-	.short	30840
+	.short	30583
+	.short	30498
+	.short	30583
 	.short	-30078
-	.short	30840
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
+	.short	30583
 	.short	-29475
 	.short	3787
-	.short	30840
-	.short	30840
-	.short	8824
+	.short	30583
+	.short	30583
+	.short	8823
 	.short	-29995
-	.short	1656
-	.short	30788
-	.short	30840
-	.short	30941
+	.short	1655
+	.short	30532
+	.short	30583
+	.short	30685
 	.short	10935
-	.short	30788
-	.short	30840
-	.short	30840
+	.short	30532
+	.short	30583
+	.short	30583
 	.short	10935
 	.short	17442
 	.short	17476
@@ -12303,53 +12303,53 @@ GBFTiles:
 	.short	6690
 	.short	17442
 	.short	17476
-	.short	8824
+	.short	8823
 	.short	32546
-	.short	30754
-	.short	30788
-	.short	-24712
-	.short	6776
+	.short	30498
+	.short	30532
+	.short	-24713
+	.short	6775
 	.short	17538
-	.short	30788
-	.short	-24712
+	.short	30532
+	.short	-24713
 	.short	32459
 	.short	-29556
 	.short	-29474
 	.short	-8482
 	.short	-18646
-	.short	30941
+	.short	30685
 	.short	-8739
-	.short	17528
-	.short	30840
-	.short	30840
-	.short	17528
+	.short	17527
+	.short	30583
+	.short	30583
+	.short	17527
 	.short	17476
-	.short	17528
-	.short	17528
-	.short	-18568
+	.short	17527
+	.short	17527
+	.short	-18569
 	.short	17476
-	.short	17528
-	.short	30788
+	.short	17527
+	.short	30532
 	.short	24503
 	.short	17476
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	6839
 	.short	17476
-	.short	30903
-	.short	30788
+	.short	30647
+	.short	30532
 	.short	6786
 	.short	17476
-	.short	30903
-	.short	30840
+	.short	30647
+	.short	30583
 	.short	32642
 	.short	17476
 	.short	-21374
 	.short	-30036
 	.short	27007
-	.short	3720
-	.short	30840
-	.short	-8840
+	.short	3717
+	.short	30583
+	.short	-8841
 	.short	-32222
 	.short	-10819
 	.short	17476
@@ -12378,14 +12378,14 @@ GBFTiles:
 	.short	17476
 	.short	-29630
 	.short	-8739
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
 	.short	-8788
-	.short	30840
-	.short	30840
-	.short	30788
-	.short	30788
-	.short	17528
+	.short	30583
+	.short	30583
+	.short	30532
+	.short	30532
+	.short	17527
 	.short	17591
 	.short	17476
 	.short	17476
@@ -12395,115 +12395,115 @@ GBFTiles:
 	.short	17476
 	.short	17476
 	.short	8726
-	.short	30840
+	.short	30583
 	.short	17476
 	.short	8772
 	.short	8889
-	.short	30840
+	.short	30583
 	.short	17476
-	.short	-18568
+	.short	-18569
 	.short	-8775
-	.short	30840
+	.short	30583
 	.short	17476
-	.short	1656
-	.short	30847
-	.short	30840
-	.short	30840
+	.short	1655
+	.short	30591
+	.short	30583
+	.short	30583
 	.short	-8739
 	.short	26589
 	.short	32639
 	.short	8772
-	.short	30941
+	.short	30685
 	.short	-8739
 	.short	-29475
 	.short	24326
-	.short	30941
-	.short	-8840
+	.short	30685
+	.short	-8841
 	.short	8746
 	.short	6724
-	.short	30754
-	.short	17528
+	.short	30498
+	.short	17527
 	.short	-32214
-	.short	6776
-	.short	30850
-	.short	30840
+	.short	6775
+	.short	30594
+	.short	30583
 	.short	-29558
-	.short	-21384
-	.short	30850
-	.short	-8840
+	.short	-21385
+	.short	30594
+	.short	-8841
 	.short	-29524
-	.short	-10888
-	.short	30726
-	.short	-8840
+	.short	-10889
+	.short	30470
+	.short	-8841
 	.short	26495
-	.short	-10888
-	.short	30726
-	.short	8824
+	.short	-10889
+	.short	30470
+	.short	8823
 	.short	29978
 	.short	-8857
-	.short	17051
-	.short	30941
+	.short	17050
+	.short	30685
 	.short	17476
 	.short	-20577
 	.short	-8761
-	.short	30941
+	.short	30685
 	.short	17476
 	.short	-8739
 	.short	-32057
-	.short	30858
-	.short	17528
-	.short	30919
+	.short	30602
+	.short	17527
+	.short	30663
 	.short	-30009
-	.short	30762
-	.short	30840
-	.short	30840
+	.short	30506
+	.short	30583
+	.short	30583
 	.short	-24611
-	.short	30850
-	.short	30788
-	.short	30840
+	.short	30594
+	.short	30532
+	.short	30583
 	.short	15906
-	.short	30754
+	.short	30498
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	-18036
-	.short	30840
-	.short	-10888
-	.short	30840
+	.short	30583
+	.short	-10889
+	.short	30583
 	.short	-30070
-	.short	30840
+	.short	30583
 	.short	-17955
 	.short	17476
 	.short	17476
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	-18620
-	.short	30788
+	.short	30532
 	.short	17476
-	.short	-10888
+	.short	-10889
 	.short	16708
-	.short	30903
-	.short	30840
+	.short	30647
+	.short	30583
 	.short	3293
 	.short	10758
 	.short	-8892
 	.short	-29570
 	.short	21140
 	.short	-32071
-	.short	-21384
-	.short	-31203
+	.short	-21385
+	.short	-30947
 	.short	21021
 	.short	-8801
 	.short	3202
 	.short	-17442
-	.short	-31045
+	.short	-30789
 	.short	-8857
 	.short	32574
 	.short	-27582
-	.short	32390
+	.short	32391
 	.short	21164
 	.short	-4067
 	.short	32699
@@ -12565,7 +12565,7 @@ GBFTiles:
 	.short	-30036
 	.short	24415
 	.short	-16318
-	.short	-30838
+	.short	-30582
 	.short	-30070
 	.short	24415
 	.short	-16302
@@ -12583,31 +12583,31 @@ GBFTiles:
 	.short	-16212
 	.short	-16192
 	.short	2316
-	.short	-25503
+	.short	-25502
 	.short	-30070
 	.short	17034
-	.short	-16884
-	.short	24929
+	.short	-16628
+	.short	25186
 	.short	-30070
 	.short	-21312
-	.short	-16761
+	.short	-16504
 	.short	-26767
 	.short	24415
 	.short	-24628
 	.short	4374
-	.short	-5441
+	.short	-5442
 	.short	24415
 	.short	3167
-	.short	4581
-	.short	-15164
+	.short	4582
+	.short	-15678
 	.short	25903
 	.short	25957
 	.short	18504
 	.short	18504
 	.short	12079
-	.short	24929
-	.short	24929
-	.short	24929
+	.short	25186
+	.short	25186
+	.short	25186
 	.short	-25444
 	.short	-25444
 	.short	9116
@@ -12615,44 +12615,44 @@ GBFTiles:
 	.short	8995
 	.short	-25444
 	.short	12079
-	.short	25953
-	.short	25953
+	.short	25954
+	.short	25954
 	.short	25957
 	.short	-14907
 	.short	-26808
 	.short	29079
 	.short	29041
 	.short	-5519
-	.short	-15126
+	.short	-15638
 	.short	-5519
 	.short	-5398
-	.short	-16406
-	.short	20932
-	.short	-5436
-	.short	-15169
-	.short	-15164
+	.short	-16662
+	.short	20930
+	.short	-5438
+	.short	-15682
+	.short	-15678
 	.short	31926
-	.short	25029
-	.short	-25503
+	.short	25285
+	.short	-25502
 	.short	-25453
 	.short	-10109
 	.short	-25553
 	.short	9107
-	.short	-31903
+	.short	-31902
 	.short	-20861
 	.short	-25453
-	.short	-4817
+	.short	-5073
 	.short	-10109
 	.short	8236
-	.short	-4763
+	.short	-5019
 	.short	-31869
 	.short	11438
 	.short	4963
 	.short	-10127
-	.short	-15186
+	.short	-15698
 	.short	-13720
 	.short	27923
-	.short	-15169
+	.short	-15682
 	.short	8236
 	.short	-19254
 	.short	28084
@@ -12738,12 +12738,12 @@ GBFTiles:
 	.short	-32640
 	.short	-32720
 	.short	9730
-	.short	-31486
-	.short	645
+	.short	-31230
+	.short	646
 	.short	656
 	.short	9766
-	.short	-31355
-	.short	9861
+	.short	-31098
+	.short	9862
 	.short	9730
 	.short	9766
 	.short	9766
@@ -12755,11 +12755,11 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	514
-	.short	-31355
+	.short	-31098
 	.short	514
 	.short	514
 	.short	514
-	.short	-32635
+	.short	-32634
 	.short	-32640
 	.short	640
 	.short	-32766
@@ -12784,7 +12784,7 @@ GBFTiles:
 	.short	9730
 	.short	9766
 	.short	550
-	.short	645
+	.short	646
 	.short	514
 	.short	9766
 	.short	9766
@@ -12794,66 +12794,66 @@ GBFTiles:
 	.short	9766
 	.short	-32624
 	.short	640
-	.short	22310
-	.short	-31324
+	.short	24102
+	.short	-31067
 	.short	-32640
-	.short	-23419
-	.short	22359
-	.short	-31324
+	.short	-23162
+	.short	24158
+	.short	-31067
 	.short	17990
-	.short	-23419
-	.short	-23465
-	.short	-31324
+	.short	-23162
+	.short	-23202
+	.short	-31067
 	.short	17990
-	.short	-23550
-	.short	-23388
-	.short	-23388
-	.short	-31355
+	.short	-23294
+	.short	-23131
+	.short	-23131
+	.short	-31098
 	.short	9730
-	.short	-23388
-	.short	-23388
+	.short	-23131
+	.short	-23131
 	.short	514
 	.short	9766
-	.short	-23388
-	.short	9892
+	.short	-23131
+	.short	9893
 	.short	9766
-	.short	22310
-	.short	9815
+	.short	24102
+	.short	9822
 	.short	9766
 	.short	9766
-	.short	-6618
-	.short	22502
-	.short	9815
-	.short	-31355
+	.short	-7642
+	.short	24290
+	.short	9822
+	.short	-31098
 	.short	-32640
 	.short	12336
 	.short	-19920
-	.short	9861
+	.short	9862
 	.short	-32730
 	.short	-32640
 	.short	-19824
-	.short	9892
-	.short	-31450
+	.short	9893
+	.short	-31194
 	.short	-32640
 	.short	-11632
-	.short	9892
-	.short	-31450
-	.short	-32635
+	.short	9893
+	.short	-31194
+	.short	-32634
 	.short	-11632
 	.short	9766
-	.short	-31450
+	.short	-31194
 	.short	-32640
 	.short	7984
 	.short	9766
-	.short	-31450
+	.short	-31194
 	.short	-32640
 	.short	-11728
 	.short	9766
-	.short	-31450
+	.short	-31194
 	.short	12416
 	.short	-11728
 	.short	9766
-	.short	-31355
+	.short	-31098
 	.short	12416
 	.short	-11566
 	.short	18315
@@ -12890,67 +12890,67 @@ GBFTiles:
 	.short	-29811
 	.short	1028
 	.short	-31704
-	.short	-7006
-	.short	14906
+	.short	-6750
+	.short	14649
 	.short	1028
 	.short	-9401
-	.short	-7006
-	.short	14906
+	.short	-6750
+	.short	14649
 	.short	1028
 	.short	-9401
-	.short	-7110
-	.short	15009
+	.short	-6855
+	.short	14753
 	.short	1028
 	.short	-9364
 	.short	-23902
-	.short	-24092
+	.short	-24091
 	.short	18180
 	.short	-9364
 	.short	4002
-	.short	-7153
+	.short	-6897
 	.short	18180
 	.short	-9364
 	.short	3855
-	.short	-7153
+	.short	-6897
 	.short	27787
 	.short	27756
 	.short	4059
-	.short	-7006
+	.short	-6750
 	.short	-29813
 	.short	-20085
 	.short	-9333
 	.short	-24158
-	.short	-7110
-	.short	4068
+	.short	-6855
+	.short	4069
 	.short	3855
 	.short	3855
-	.short	-7110
-	.short	4068
+	.short	-6855
+	.short	4069
 	.short	3855
 	.short	3855
-	.short	-7110
-	.short	4068
+	.short	-6855
+	.short	4069
 	.short	3855
 	.short	3855
-	.short	14906
-	.short	-6940
+	.short	14649
+	.short	-6683
 	.short	3855
 	.short	3855
-	.short	-7007
-	.short	-6940
-	.short	-6940
+	.short	-6751
+	.short	-6683
+	.short	-6683
 	.short	3855
-	.short	-7007
-	.short	-6940
-	.short	-6940
+	.short	-6751
+	.short	-6683
+	.short	-6683
 	.short	3855
-	.short	-24262
-	.short	-6940
-	.short	-6940
+	.short	-24263
+	.short	-6683
+	.short	-6683
 	.short	3855
-	.short	14906
-	.short	-7007
-	.short	-6940
+	.short	14649
+	.short	-6751
+	.short	-6683
 	.short	3855
 	.short	-14136
 	.short	-14136
@@ -12968,12 +12968,12 @@ GBFTiles:
 	.short	4002
 	.short	-14136
 	.short	-14136
-	.short	-6940
-	.short	-23836
+	.short	-6683
+	.short	-23835
 	.short	-14136
 	.short	-14136
-	.short	-6940
-	.short	-23836
+	.short	-6683
+	.short	-23835
 	.short	-14136
 	.short	-14136
 	.short	3855
@@ -13115,9 +13115,9 @@ GBFTiles:
 	.short	-23709
 	.short	6717
 	.short	24533
-	.short	15170
+	.short	14914
 	.short	8374
-	.short	19108
+	.short	19109
 	.short	-30142
 	.short	-21366
 	.short	-13642
@@ -13125,16 +13125,16 @@ GBFTiles:
 	.short	-30036
 	.short	-30113
 	.short	-23626
-	.short	25251
+	.short	24995
 	.short	-30081
 	.short	-30113
 	.short	-13764
-	.short	-23389
-	.short	24455
+	.short	-23133
+	.short	24456
 	.short	-30113
 	.short	25537
 	.short	-26257
-	.short	6754
+	.short	6753
 	.short	24415
 	.short	-18751
 	.short	-16029
@@ -13172,34 +13172,34 @@ GBFTiles:
 	.short	24415
 	.short	24415
 	.short	-16192
-	.short	-30838
+	.short	-30582
 	.short	-30134
 	.short	-30070
 	.short	-30070
 	.short	-17537
-	.short	15186
+	.short	14930
 	.short	8786
-	.short	-10888
+	.short	-10889
 	.short	-27456
-	.short	-31106
+	.short	-30850
 	.short	-16302
-	.short	-8840
+	.short	-8841
 	.short	16922
-	.short	21051
-	.short	15326
-	.short	30941
-	.short	-10873
+	.short	21050
+	.short	15070
+	.short	30685
+	.short	-10872
 	.short	-17537
 	.short	3244
-	.short	30933
+	.short	30677
 	.short	-30126
 	.short	21164
 	.short	32684
-	.short	30847
+	.short	30591
 	.short	6718
 	.short	-18038
 	.short	-21332
-	.short	-25774
+	.short	-26030
 	.short	-30070
 	.short	-30113
 	.short	-16192
@@ -13209,101 +13209,101 @@ GBFTiles:
 	.short	16991
 	.short	32448
 	.short	8863
-	.short	-8840
+	.short	-8841
 	.short	6690
-	.short	30941
+	.short	30685
 	.short	24458
-	.short	-8840
+	.short	-8841
 	.short	6690
-	.short	30754
-	.short	10872
+	.short	30498
+	.short	10871
 	.short	-8830
 	.short	-29987
-	.short	30933
-	.short	-32136
+	.short	30677
+	.short	-32137
 	.short	29978
 	.short	-32035
-	.short	30746
+	.short	30490
 	.short	-29475
 	.short	6682
 	.short	8925
 	.short	24362
-	.short	-31115
+	.short	-30859
 	.short	16112
-	.short	30850
+	.short	30594
 	.short	15906
 	.short	-17561
 	.short	16978
-	.short	30858
-	.short	-30088
-	.short	-31203
-	.short	-3962
-	.short	30837
-	.short	8824
-	.short	-30088
+	.short	30602
+	.short	-30089
+	.short	-30947
+	.short	-3961
+	.short	30581
+	.short	8823
+	.short	-30089
 	.short	8770
-	.short	30788
-	.short	32632
-	.short	-29576
+	.short	30532
+	.short	32631
+	.short	-29577
 	.short	-8833
-	.short	30840
-	.short	-21384
-	.short	-8840
-	.short	-25729
-	.short	30919
-	.short	-10888
-	.short	-14472
+	.short	30583
+	.short	-21385
+	.short	-8841
+	.short	-25985
+	.short	30663
+	.short	-10889
+	.short	-14473
 	.short	16085
 	.short	-8739
-	.short	8824
-	.short	30840
+	.short	8823
+	.short	30583
 	.short	16093
-	.short	30933
-	.short	30840
-	.short	30754
-	.short	-18568
-	.short	8839
-	.short	30840
-	.short	30858
-	.short	30840
+	.short	30677
+	.short	30583
+	.short	30498
+	.short	-18569
+	.short	8840
+	.short	30583
+	.short	30602
+	.short	30583
 	.short	-30182
-	.short	17528
+	.short	17527
 	.short	8766
-	.short	30840
+	.short	30583
 	.short	-24798
 	.short	17591
-	.short	30933
-	.short	30788
+	.short	30677
+	.short	30532
 	.short	32695
 	.short	17476
-	.short	30858
-	.short	30788
+	.short	30602
+	.short	30532
 	.short	6690
 	.short	17442
-	.short	30746
-	.short	30788
+	.short	30490
+	.short	30532
 	.short	32546
 	.short	17591
 	.short	17434
-	.short	30840
+	.short	30583
 	.short	32733
 	.short	17538
 	.short	-18550
-	.short	30840
+	.short	30583
 	.short	-21283
 	.short	-8747
 	.short	8738
-	.short	30840
+	.short	30583
 	.short	17117
-	.short	30786
+	.short	30530
 	.short	17476
-	.short	30840
-	.short	1656
-	.short	30892
+	.short	30583
+	.short	1655
+	.short	30636
 	.short	17476
 	.short	17476
 	.short	-18620
-	.short	30847
+	.short	30591
 	.short	17476
 	.short	-18620
 	.short	8889
@@ -13315,105 +13315,105 @@ GBFTiles:
 	.short	17476
 	.short	8772
 	.short	8766
-	.short	17528
+	.short	17527
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	8889
-	.short	30840
+	.short	30583
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	-32071
-	.short	30840
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
+	.short	30583
 	.short	-10982
-	.short	30840
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
+	.short	30583
 	.short	-10881
-	.short	30840
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
+	.short	30583
 	.short	-10881
-	.short	30840
+	.short	30583
 	.short	17476
 	.short	-21436
-	.short	30892
-	.short	30788
+	.short	30636
+	.short	30532
 	.short	17476
 	.short	-18108
-	.short	30860
-	.short	30840
+	.short	30604
+	.short	30583
 	.short	17476
 	.short	15906
 	.short	-8926
-	.short	30840
-	.short	17528
+	.short	30583
+	.short	17527
 	.short	32725
-	.short	8824
-	.short	30788
-	.short	30840
+	.short	8823
+	.short	30532
+	.short	30583
 	.short	17023
-	.short	17528
-	.short	30840
+	.short	17527
+	.short	30583
 	.short	8772
 	.short	30079
-	.short	17528
-	.short	30788
-	.short	-32136
+	.short	17527
+	.short	30532
+	.short	-32137
 	.short	-8833
 	.short	17476
-	.short	30788
-	.short	6776
+	.short	30532
+	.short	6775
 	.short	-8894
 	.short	17476
 	.short	17476
-	.short	1656
-	.short	30726
-	.short	-18568
+	.short	1655
+	.short	30470
+	.short	-18569
 	.short	-8934
-	.short	-10888
-	.short	30850
-	.short	-10888
-	.short	30924
-	.short	24440
-	.short	30850
-	.short	-30088
+	.short	-10889
+	.short	30594
+	.short	-10889
+	.short	30668
+	.short	24439
+	.short	30594
+	.short	-30089
 	.short	-8747
-	.short	-30088
+	.short	-30089
 	.short	8738
 	.short	-21470
 	.short	8834
 	.short	-30174
-	.short	30941
+	.short	30685
 	.short	-30174
 	.short	17442
 	.short	8738
-	.short	30840
+	.short	30583
 	.short	1719
-	.short	30840
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
+	.short	30583
 	.short	8887
-	.short	30840
+	.short	30583
 	.short	17476
 	.short	17476
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	8925
 	.short	8730
-	.short	30840
+	.short	30583
 	.short	-30025
-	.short	-18568
+	.short	-18569
 	.short	-8822
-	.short	30840
+	.short	30583
 	.short	-8926
-	.short	1656
-	.short	30726
-	.short	30840
+	.short	1655
+	.short	30470
+	.short	30583
 	.short	8925
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	-32126
 	.short	3189
 	.short	17476
@@ -13424,11 +13424,11 @@ GBFTiles:
 	.short	-24764
 	.short	-17582
 	.short	-27586
-	.short	30840
+	.short	30583
 	.short	32394
 	.short	-27500
 	.short	-16180
-	.short	-29576
+	.short	-29577
 	.short	-16258
 	.short	-16192
 	.short	24415
@@ -13441,7 +13441,7 @@ GBFTiles:
 	.short	-30070
 	.short	6782
 	.short	32268
-	.short	-30074
+	.short	-30073
 	.short	-30070
 	.short	-21442
 	.short	-3969
@@ -13469,7 +13469,7 @@ GBFTiles:
 	.short	-13108
 	.short	15898
 	.short	6794
-	.short	-16249
+	.short	-16248
 	.short	24415
 	.short	-30070
 	.short	32650
@@ -13533,19 +13533,19 @@ GBFTiles:
 	.short	11318
 	.short	20817
 	.short	-13217
-	.short	-30934
+	.short	-30678
 	.short	26805
 	.short	-18762
 	.short	-13217
-	.short	25150
+	.short	24894
 	.short	8373
 	.short	25546
 	.short	-30070
-	.short	14718
+	.short	15230
 	.short	8224
 	.short	25443
 	.short	-21312
-	.short	-12665
+	.short	-12664
 	.short	8394
 	.short	20929
 	.short	-8512
@@ -13557,14 +13557,14 @@ GBFTiles:
 	.short	26656
 	.short	20929
 	.short	15938
-	.short	8249
+	.short	8251
 	.short	20929
-	.short	-25958
-	.short	-15164
-	.short	20932
+	.short	-25701
+	.short	-15678
+	.short	20930
 	.short	15542
 	.short	25468
-	.short	-15164
+	.short	-15678
 	.short	-18762
 	.short	25404
 	.short	25443
@@ -13579,16 +13579,16 @@ GBFTiles:
 	.short	-18751
 	.short	20918
 	.short	25526
-	.short	-23197
+	.short	-23453
 	.short	-18751
 	.short	-18762
 	.short	4963
 	.short	4883
-	.short	20890
+	.short	20891
 	.short	-18751
 	.short	-13725
 	.short	4883
-	.short	20890
+	.short	20891
 	.short	-18751
 	.short	-13725
 	.short	-19345
@@ -13683,7 +13683,7 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	-31355
+	.short	-31098
 	.short	9766
 	.short	9766
 	.short	9766
@@ -13707,88 +13707,88 @@ GBFTiles:
 	.short	-28624
 	.short	18064
 	.short	-32698
-	.short	-31360
+	.short	-31104
 	.short	-28544
 	.short	640
 	.short	514
 	.short	9730
-	.short	18053
+	.short	18054
 	.short	582
 	.short	9766
 	.short	9766
 	.short	514
 	.short	9730
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	514
 	.short	9730
 	.short	9766
-	.short	-23514
+	.short	-23258
 	.short	514
 	.short	9766
 	.short	9766
-	.short	-31355
+	.short	-31098
 	.short	514
 	.short	9766
-	.short	-31450
-	.short	-31282
+	.short	-31194
+	.short	-31026
 	.short	9730
 	.short	9766
-	.short	-31450
-	.short	9861
+	.short	-31194
+	.short	9862
 	.short	9766
-	.short	22359
-	.short	-23465
-	.short	22436
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	-23202
+	.short	24229
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22310
+	.short	24102
 	.short	5140
-	.short	9815
+	.short	9822
 	.short	9766
-	.short	-23514
-	.short	9892
-	.short	9766
-	.short	9766
-	.short	-31450
-	.short	-23419
+	.short	-23258
+	.short	9893
 	.short	9766
 	.short	9766
-	.short	-31355
-	.short	9861
+	.short	-31194
+	.short	-23162
+	.short	9766
+	.short	9766
+	.short	-31098
+	.short	9862
 	.short	550
 	.short	9766
-	.short	-31355
+	.short	-31098
 	.short	9766
 	.short	550
-	.short	9815
-	.short	-31355
-	.short	22310
-	.short	-32604
-	.short	9815
-	.short	-31355
+	.short	9822
+	.short	-31098
+	.short	24102
+	.short	-32603
+	.short	9822
+	.short	-31098
 	.short	9766
-	.short	-32604
-	.short	9815
+	.short	-32603
+	.short	9822
 	.short	514
 	.short	9766
-	.short	-32604
+	.short	-32603
 	.short	9766
-	.short	22310
-	.short	9815
+	.short	24102
+	.short	9822
 	.short	-32730
-	.short	-31355
-	.short	-32635
+	.short	-31098
+	.short	-32634
 	.short	-11632
 	.short	-11566
-	.short	-31355
+	.short	-31098
 	.short	-32640
 	.short	-11632
 	.short	-11566
@@ -13851,15 +13851,15 @@ GBFTiles:
 	.short	-29813
 	.short	1095
 	.short	-9401
-	.short	-7153
+	.short	-6897
 	.short	27756
 	.short	18247
 	.short	10311
-	.short	-6968
+	.short	-6712
 	.short	-16020
 	.short	27867
 	.short	10311
-	.short	-6949
+	.short	-6693
 	.short	27787
 	.short	27756
 	.short	10280
@@ -13880,38 +13880,38 @@ GBFTiles:
 	.short	-29301
 	.short	18180
 	.short	27756
-	.short	-7007
-	.short	-6940
-	.short	-6940
-	.short	4068
-	.short	-7007
+	.short	-6751
+	.short	-6683
+	.short	-6683
+	.short	4069
+	.short	-6751
 	.short	-24159
-	.short	-6940
+	.short	-6683
 	.short	3855
-	.short	14906
+	.short	14649
 	.short	-24159
-	.short	-6940
-	.short	-7153
-	.short	14906
-	.short	14906
-	.short	-6940
-	.short	-7153
-	.short	14906
-	.short	14906
+	.short	-6683
+	.short	-6897
+	.short	14649
+	.short	14649
+	.short	-6683
+	.short	-6897
+	.short	14649
+	.short	14649
 	.short	4001
 	.short	3855
-	.short	15076
-	.short	14906
-	.short	-7110
+	.short	14821
+	.short	14649
+	.short	-6855
 	.short	3855
-	.short	-6968
-	.short	14906
-	.short	-7110
-	.short	-6940
-	.short	24104
-	.short	-6940
+	.short	-6712
+	.short	14649
+	.short	-6855
+	.short	-6683
+	.short	23848
+	.short	-6683
 	.short	-24159
-	.short	-6940
+	.short	-6683
 	.short	3855
 	.short	3855
 	.short	3855
@@ -13920,28 +13920,28 @@ GBFTiles:
 	.short	3855
 	.short	3855
 	.short	10440
-	.short	-6940
-	.short	4068
-	.short	4068
+	.short	-6683
+	.short	4069
+	.short	4069
 	.short	10440
-	.short	-6940
-	.short	-6940
+	.short	-6683
+	.short	-6683
 	.short	3855
 	.short	10440
-	.short	-7007
-	.short	-6940
+	.short	-6751
+	.short	-6683
 	.short	3855
 	.short	10440
-	.short	-7007
-	.short	-6940
+	.short	-6751
+	.short	-6683
 	.short	3855
 	.short	10440
-	.short	-6940
-	.short	-6940
+	.short	-6683
+	.short	-6683
 	.short	3855
 	.short	10280
-	.short	-6940
-	.short	-6940
+	.short	-6683
+	.short	-6683
 	.short	-14321
 	.short	10280
 	.short	-14296
@@ -14079,11 +14079,11 @@ GBFTiles:
 	.short	25363
 	.short	15459
 	.short	11068
-	.short	6754
+	.short	6753
 	.short	4883
 	.short	15459
 	.short	-26308
-	.short	-30746
+	.short	-30494
 	.short	5044
 	.short	25546
 	.short	26684
@@ -14109,40 +14109,40 @@ GBFTiles:
 	.short	-30070
 	.short	6751
 	.short	13898
-	.short	-6567
-	.short	-30073
-	.short	-30838
+	.short	-7592
+	.short	-30072
+	.short	-30582
 	.short	-20744
-	.short	22999
+	.short	22743
 	.short	32720
-	.short	1595
+	.short	1594
 	.short	20780
-	.short	12698
+	.short	12699
 	.short	5649
 	.short	31500
 	.short	20840
 	.short	-10415
 	.short	13873
-	.short	23032
+	.short	22776
 	.short	-16024
 	.short	20929
-	.short	22999
+	.short	22743
 	.short	20910
 	.short	-15935
 	.short	-16068
-	.short	-26031
-	.short	20890
+	.short	-25775
+	.short	20891
 	.short	-18884
 	.short	15420
 	.short	20918
-	.short	20890
-	.short	24379
+	.short	20891
+	.short	24378
 	.short	24415
 	.short	-30113
 	.short	-27510
 	.short	16735
 	.short	-30113
-	.short	-30838
+	.short	-30582
 	.short	-27586
 	.short	2329
 	.short	-30186
@@ -14150,40 +14150,40 @@ GBFTiles:
 	.short	6721
 	.short	19411
 	.short	5686
-	.short	2439
+	.short	2440
 	.short	5641
 	.short	12759
 	.short	4401
 	.short	4406
 	.short	4483
-	.short	-10342
+	.short	-10341
 	.short	12593
 	.short	-10447
 	.short	19249
-	.short	-26031
+	.short	-25775
 	.short	12759
 	.short	12593
 	.short	-11471
-	.short	-26031
-	.short	-16486
+	.short	-25775
+	.short	-16741
 	.short	-5583
 	.short	-11309
-	.short	-8645
+	.short	-8646
 	.short	-17516
 	.short	-14526
-	.short	-8840
+	.short	-8841
 	.short	-8556
-	.short	15276
+	.short	15020
 	.short	8891
-	.short	-14472
+	.short	-14473
 	.short	10879
-	.short	15110
+	.short	14854
 	.short	-3970
 	.short	8925
 	.short	31510
 	.short	-12128
-	.short	-30964
-	.short	15234
+	.short	-30708
+	.short	14978
 	.short	-24559
 	.short	-24416
 	.short	4483
@@ -14191,7 +14191,7 @@ GBFTiles:
 	.short	-11309
 	.short	-26669
 	.short	-24416
-	.short	-16765
+	.short	-16509
 	.short	19411
 	.short	-26669
 	.short	-24416
@@ -14201,37 +14201,37 @@ GBFTiles:
 	.short	-24416
 	.short	-24416
 	.short	-10982
-	.short	30840
-	.short	-16264
+	.short	30583
+	.short	-16265
 	.short	-8822
 	.short	1570
-	.short	30840
-	.short	8824
+	.short	30583
+	.short	8823
 	.short	8831
 	.short	-8830
-	.short	30840
-	.short	-8840
+	.short	30583
+	.short	-8841
 	.short	-30036
 	.short	-10821
-	.short	30941
-	.short	30840
+	.short	30685
+	.short	30583
 	.short	5815
 	.short	16708
-	.short	30850
-	.short	30840
-	.short	1656
+	.short	30594
+	.short	30583
+	.short	1655
 	.short	2321
-	.short	30928
-	.short	30840
+	.short	30672
+	.short	30583
 	.short	-8739
-	.short	23018
+	.short	22762
 	.short	-24778
 	.short	26485
 	.short	26608
 	.short	12695
 	.short	-1999
 	.short	-29537
-	.short	32390
+	.short	32391
 	.short	17476
 	.short	17476
 	.short	8772
@@ -14240,7 +14240,7 @@ GBFTiles:
 	.short	17476
 	.short	8772
 	.short	-29569
-	.short	17528
+	.short	17527
 	.short	17476
 	.short	17476
 	.short	-21332
@@ -14250,9 +14250,9 @@ GBFTiles:
 	.short	-21438
 	.short	17442
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	32518
-	.short	17528
+	.short	17527
 	.short	17476
 	.short	17476
 	.short	6786
@@ -14264,76 +14264,76 @@ GBFTiles:
 	.short	17476
 	.short	17476
 	.short	-18620
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
 	.short	-10881
-	.short	30840
-	.short	30919
-	.short	30840
+	.short	30583
+	.short	30663
+	.short	30583
 	.short	-32194
-	.short	30840
-	.short	30919
-	.short	8824
+	.short	30583
+	.short	30663
+	.short	8823
 	.short	8766
-	.short	30840
-	.short	30919
+	.short	30583
+	.short	30663
 	.short	1735
-	.short	30879
-	.short	30840
-	.short	30919
-	.short	6776
-	.short	30860
-	.short	17528
-	.short	17528
+	.short	30623
+	.short	30583
+	.short	30663
+	.short	6775
+	.short	30604
+	.short	17527
+	.short	17527
 	.short	10786
 	.short	17442
 	.short	17476
-	.short	17528
+	.short	17527
 	.short	-18620
-	.short	17528
+	.short	17527
 	.short	17476
-	.short	17528
+	.short	17527
 	.short	17476
-	.short	17528
-	.short	17528
+	.short	17527
+	.short	17527
 	.short	32546
 	.short	-8926
-	.short	17528
+	.short	17527
 	.short	17476
 	.short	-21498
-	.short	30941
+	.short	30685
 	.short	17476
 	.short	17476
 	.short	-10982
-	.short	17528
+	.short	17527
 	.short	17476
 	.short	17476
 	.short	-18666
 	.short	17476
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	8710
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
 	.short	-24611
 	.short	17476
-	.short	30788
-	.short	8824
+	.short	30532
+	.short	8823
 	.short	-2006
-	.short	30840
-	.short	30840
+	.short	30583
+	.short	30583
 	.short	16674
 	.short	-20744
-	.short	-8840
+	.short	-8841
 	.short	24354
 	.short	14032
 	.short	26777
 	.short	17476
 	.short	17476
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	17476
-	.short	30788
+	.short	30532
 	.short	-30174
 	.short	16930
 	.short	17476
@@ -14347,24 +14347,24 @@ GBFTiles:
 	.short	-17989
 	.short	-10234
 	.short	-27023
-	.short	-15210
+	.short	-15722
 	.short	13878
 	.short	29059
 	.short	29041
 	.short	-26986
 	.short	20817
-	.short	-15279
+	.short	-15791
 	.short	29078
 	.short	-27023
 	.short	-18863
 	.short	25443
 	.short	-18762
 	.short	-18762
-	.short	-31092
+	.short	-30836
 	.short	-16162
 	.short	16064
 	.short	24479
-	.short	-31045
+	.short	-30789
 	.short	-13164
 	.short	-18017
 	.short	-30023
@@ -14375,38 +14375,38 @@ GBFTiles:
 	.short	-19069
 	.short	16705
 	.short	12914
-	.short	25149
-	.short	29892
-	.short	-15316
-	.short	-23252
+	.short	24893
+	.short	29890
+	.short	-15828
+	.short	-23508
 	.short	-14650
 	.short	29846
-	.short	-15244
-	.short	-18748
-	.short	5029
-	.short	-15210
+	.short	-15756
+	.short	-18750
+	.short	5028
+	.short	-15722
 	.short	-18762
-	.short	31940
-	.short	5029
+	.short	31938
+	.short	5028
 	.short	-18888
 	.short	25526
 	.short	4883
-	.short	25509
-	.short	-30838
-	.short	6791
+	.short	25508
+	.short	-30582
+	.short	6792
 	.short	6794
 	.short	5706
-	.short	25273
+	.short	25017
 	.short	32720
 	.short	-18004
 	.short	-12616
 	.short	-12726
-	.short	5765
-	.short	25273
+	.short	5766
+	.short	25017
 	.short	-17290
 	.short	-17177
-	.short	-31325
-	.short	12452
+	.short	-31069
+	.short	12453
 	.short	7967
 	.short	5044
 	.short	-14668
@@ -14426,15 +14426,15 @@ GBFTiles:
 	.short	7967
 	.short	-13127
 	.short	3199
-	.short	15178
+	.short	14922
 	.short	-21332
-	.short	15178
-	.short	28294
-	.short	19108
+	.short	14922
+	.short	28295
+	.short	19109
 	.short	-27426
 	.short	974
 	.short	-12690
-	.short	-31457
+	.short	-31201
 	.short	16705
 	.short	28013
 	.short	8124
@@ -14458,19 +14458,19 @@ GBFTiles:
 	.short	-17811
 	.short	21214
 	.short	-16257
-	.short	-30828
-	.short	-30792
-	.short	-30917
+	.short	-30572
+	.short	-30536
+	.short	-30662
 	.short	-16310
 	.short	16702
 	.short	15734
-	.short	14666
-	.short	-30768
-	.short	-31414
+	.short	15178
+	.short	-30512
+	.short	-31158
 	.short	6108
 	.short	-11728
 	.short	28208
-	.short	-9052
+	.short	-9051
 	.short	8355
 	.short	28084
 	.short	-9107
@@ -14490,19 +14490,19 @@ GBFTiles:
 	.short	-4422
 	.short	19116
 	.short	-16074
-	.short	-25958
-	.short	-15206
-	.short	-12153
-	.short	-25931
-	.short	-25958
+	.short	-25701
+	.short	-15717
+	.short	-12152
+	.short	-25675
+	.short	-25701
 	.short	20817
-	.short	11238
-	.short	-25938
-	.short	20890
+	.short	11234
+	.short	-25682
+	.short	20891
 	.short	-15935
 	.short	-15975
 	.short	20817
-	.short	-15974
+	.short	-15973
 	.short	15553
 	.short	26656
 	.short	-15935
@@ -14591,7 +14591,7 @@ GBFTiles:
 	.short	17990
 	.short	17990
 	.short	9730
-	.short	22310
+	.short	24102
 	.short	7238
 	.short	17948
 	.short	9730
@@ -14599,11 +14599,11 @@ GBFTiles:
 	.short	17948
 	.short	582
 	.short	9766
-	.short	9815
+	.short	9822
 	.short	18064
 	.short	514
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	17948
 	.short	514
 	.short	514
@@ -14620,22 +14620,22 @@ GBFTiles:
 	.short	9766
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
+	.short	24158
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	550
 	.short	9766
-	.short	22359
-	.short	5207
+	.short	24158
+	.short	5214
 	.short	550
 	.short	9766
-	.short	22310
-	.short	22359
+	.short	24102
+	.short	24158
 	.short	640
 	.short	9766
 	.short	9766
@@ -14650,56 +14650,56 @@ GBFTiles:
 	.short	514
 	.short	9766
 	.short	9766
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22310
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	22359
-	.short	9815
-	.short	22359
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24102
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	24158
+	.short	9822
+	.short	24158
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22310
-	.short	22310
+	.short	24102
+	.short	24102
 	.short	9766
 	.short	9766
-	.short	5207
-	.short	-31355
-	.short	9861
-	.short	22359
+	.short	5214
+	.short	-31098
+	.short	9862
+	.short	24158
 	.short	15636
 	.short	-32640
-	.short	22274
-	.short	5207
+	.short	24066
+	.short	5214
 	.short	15636
 	.short	9730
-	.short	5207
+	.short	5214
 	.short	15636
 	.short	15677
 	.short	9766
-	.short	5207
+	.short	5214
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
-	.short	22359
-	.short	22359
+	.short	24158
+	.short	24158
 	.short	5140
-	.short	22292
-	.short	22359
-	.short	22359
+	.short	24084
+	.short	24158
+	.short	24158
 	.short	15636
 	.short	5140
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	15677
 	.short	15677
 	.short	15677
@@ -14712,30 +14712,30 @@ GBFTiles:
 	.short	15677
 	.short	5140
 	.short	5140
-	.short	22310
-	.short	22359
-	.short	9815
-	.short	-31450
-	.short	22359
-	.short	5207
-	.short	9815
+	.short	24102
+	.short	24158
+	.short	9822
+	.short	-31194
+	.short	24158
+	.short	5214
+	.short	9822
 	.short	514
-	.short	22359
-	.short	22359
-	.short	9815
+	.short	24158
+	.short	24158
+	.short	9822
 	.short	9766
-	.short	22310
-	.short	-23465
-	.short	9892
-	.short	22359
-	.short	22359
+	.short	24102
+	.short	-23202
+	.short	9893
+	.short	24158
+	.short	24158
 	.short	9766
-	.short	22359
-	.short	22292
-	.short	22292
-	.short	22359
+	.short	24158
+	.short	24084
+	.short	24084
+	.short	24158
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	5181
 	.short	15636
 	.short	15677
@@ -14764,15 +14764,15 @@ GBFTiles:
 	.short	12416
 	.short	-28494
 	.short	7196
-	.short	599
+	.short	606
 	.short	-11648
 	.short	-28462
 	.short	7312
-	.short	9815
+	.short	9822
 	.short	-28544
 	.short	-28528
 	.short	7196
-	.short	599
+	.short	606
 	.short	18048
 	.short	17990
 	.short	-28644
@@ -14818,7 +14818,7 @@ GBFTiles:
 	.short	-9253
 	.short	-29813
 	.short	18180
-	.short	24283
+	.short	24027
 	.short	-9253
 	.short	1165
 	.short	1028
@@ -14841,68 +14841,68 @@ GBFTiles:
 	.short	1103
 	.short	-9333
 	.short	3880
-	.short	-6940
-	.short	15000
-	.short	-6940
+	.short	-6683
+	.short	14744
+	.short	-6683
 	.short	-23845
-	.short	15076
-	.short	14906
-	.short	-7110
-	.short	24283
-	.short	14942
-	.short	14906
-	.short	14906
+	.short	14821
+	.short	14649
+	.short	-6855
+	.short	24027
+	.short	14685
+	.short	14649
+	.short	14649
 	.short	-9253
-	.short	14942
-	.short	15002
-	.short	14906
+	.short	14685
+	.short	14747
+	.short	14649
 	.short	-9253
-	.short	-6949
-	.short	14906
-	.short	14906
+	.short	-6693
+	.short	14649
+	.short	14649
 	.short	-9253
-	.short	24283
-	.short	15076
-	.short	14906
+	.short	24027
+	.short	14821
+	.short	14649
 	.short	-9253
 	.short	4059
-	.short	14942
-	.short	14906
-	.short	-9378
+	.short	14685
+	.short	14649
+	.short	-9379
 	.short	4059
-	.short	14863
-	.short	14906
-	.short	-6940
-	.short	4068
+	.short	14607
+	.short	14649
+	.short	-6683
+	.short	4069
 	.short	-14321
 	.short	10440
-	.short	-6940
-	.short	-6940
+	.short	-6683
+	.short	-6683
 	.short	3855
 	.short	-9340
-	.short	-7110
-	.short	-6940
-	.short	-23836
+	.short	-6855
+	.short	-6683
+	.short	-23835
 	.short	-9340
-	.short	-7110
-	.short	-6940
-	.short	4068
+	.short	-6855
+	.short	-6683
+	.short	4069
 	.short	-31582
-	.short	14906
-	.short	-6940
+	.short	14649
+	.short	-6683
 	.short	3855
 	.short	-9457
-	.short	-7110
-	.short	-6940
+	.short	-6855
+	.short	-6683
 	.short	3855
 	.short	-24049
-	.short	-6940
-	.short	24292
+	.short	-6683
+	.short	24037
 	.short	3855
-	.short	-6940
-	.short	-24262
-	.short	-6940
-	.short	4068
+	.short	-6683
+	.short	-24263
+	.short	-6683
+	.short	4069
 	.short	3855
 	.short	10280
 	.short	-31704
@@ -14925,13 +14925,13 @@ GBFTiles:
 	.short	-29813
 	.short	-11125
 	.short	-23902
-	.short	14980
-	.short	14906
-	.short	-31686
+	.short	14724
+	.short	14649
+	.short	-31687
 	.short	-23902
 	.short	-23902
 	.short	-23902
-	.short	-24006
+	.short	-24007
 	.short	-23902
 	.short	-9457
 	.short	27867
@@ -15096,36 +15096,36 @@ GBFTiles:
 	.short	-13661
 	.short	26656
 	.short	26728
-	.short	-26031
-	.short	-16486
+	.short	-25775
+	.short	-16741
 	.short	-5398
 	.short	-11309
-	.short	-26031
-	.short	-16449
+	.short	-25775
+	.short	-16706
 	.short	-11286
 	.short	-11309
-	.short	-26031
-	.short	-5441
+	.short	-25775
+	.short	-5442
 	.short	-5398
 	.short	-11309
 	.short	20840
-	.short	-16486
+	.short	-16741
 	.short	-5398
 	.short	-11286
 	.short	20840
-	.short	-25958
-	.short	-5441
+	.short	-25701
+	.short	-5442
 	.short	-11407
 	.short	26728
-	.short	-26031
-	.short	-11329
+	.short	-25775
+	.short	-11330
 	.short	-26669
 	.short	20840
-	.short	-10342
+	.short	-10341
 	.short	-11471
 	.short	-26669
 	.short	-20888
-	.short	-16486
+	.short	-16741
 	.short	-11286
 	.short	-26669
 	.short	-11309
@@ -15153,30 +15153,30 @@ GBFTiles:
 	.short	-14944
 	.short	12755
 	.short	-24379
-	.short	24992
-	.short	-24479
+	.short	25248
+	.short	-24478
 	.short	19351
 	.short	-14907
 	.short	-24416
 	.short	-24416
 	.short	19351
 	.short	-11360
-	.short	22833
+	.short	22577
 	.short	-17928
 	.short	-18466
 	.short	-11309
-	.short	22975
-	.short	-19111
-	.short	-16842
+	.short	22718
+	.short	-19112
+	.short	-16586
 	.short	-11309
 	.short	-10262
-	.short	22999
-	.short	22958
+	.short	22743
+	.short	22702
 	.short	-11309
 	.short	-11309
-	.short	22999
+	.short	22743
 	.short	-20818
-	.short	-11329
+	.short	-11330
 	.short	12593
 	.short	19275
 	.short	12593
@@ -15188,58 +15188,58 @@ GBFTiles:
 	.short	-20818
 	.short	12718
 	.short	19434
-	.short	22833
-	.short	-20903
-	.short	19289
+	.short	22577
+	.short	-20904
+	.short	19288
 	.short	12593
 	.short	8863
 	.short	17476
 	.short	17476
 	.short	17476
 	.short	6904
-	.short	30754
-	.short	17528
+	.short	30498
+	.short	17527
 	.short	17476
 	.short	-2031
 	.short	-8918
-	.short	17528
-	.short	30788
-	.short	-31911
+	.short	17527
+	.short	30532
+	.short	-31912
 	.short	5880
 	.short	8738
 	.short	17476
 	.short	-31951
 	.short	-18301
 	.short	8863
-	.short	-18568
+	.short	-18569
 	.short	-31925
 	.short	-31869
 	.short	10758
-	.short	25130
+	.short	24874
 	.short	19275
-	.short	22859
+	.short	22603
 	.short	13841
 	.short	-19146
 	.short	-5398
 	.short	12593
-	.short	22873
+	.short	22616
 	.short	-15954
 	.short	17476
-	.short	30840
+	.short	30583
 	.short	-10974
-	.short	30754
+	.short	30498
 	.short	17476
-	.short	8824
+	.short	8823
 	.short	32330
 	.short	8887
-	.short	17528
+	.short	17527
 	.short	-17963
 	.short	-24584
 	.short	5770
 	.short	10820
-	.short	-16688
+	.short	-16432
 	.short	3115
-	.short	-16890
+	.short	-16634
 	.short	-2036
 	.short	-20975
 	.short	-1904
@@ -15257,7 +15257,7 @@ GBFTiles:
 	.short	15420
 	.short	20929
 	.short	1757
-	.short	-23487
+	.short	-23231
 	.short	8235
 	.short	25546
 	.short	28202
@@ -15291,7 +15291,7 @@ GBFTiles:
 	.short	-18762
 	.short	25443
 	.short	25443
-	.short	-23277
+	.short	-23533
 	.short	-13622
 	.short	4883
 	.short	-19276
@@ -15591,108 +15591,108 @@ GBFTiles:
 	.short	514
 	.short	514
 	.short	514
-	.short	-31360
+	.short	-31104
 	.short	514
 	.short	514
 	.short	-32698
 	.short	9856
 	.short	17990
 	.short	17990
-	.short	-31360
+	.short	-31104
 	.short	5158
 	.short	17990
 	.short	17948
-	.short	22274
+	.short	24066
 	.short	15636
 	.short	17948
 	.short	582
-	.short	22359
+	.short	24158
 	.short	5140
-	.short	22310
+	.short	24102
 	.short	15636
 	.short	15677
 	.short	15677
-	.short	5207
+	.short	5214
 	.short	15636
 	.short	15677
 	.short	15677
-	.short	22310
+	.short	24102
 	.short	15636
 	.short	15677
 	.short	5181
-	.short	5207
+	.short	5214
 	.short	15677
 	.short	5140
-	.short	22292
+	.short	24084
 	.short	15636
 	.short	5181
-	.short	22292
-	.short	9815
+	.short	24084
+	.short	9822
 	.short	15677
 	.short	5181
-	.short	22292
+	.short	24084
 	.short	9766
 	.short	15677
 	.short	5140
-	.short	22359
-	.short	9892
+	.short	24158
+	.short	9893
 	.short	5140
 	.short	5140
-	.short	9815
-	.short	-23419
-	.short	15677
-	.short	5181
-	.short	5140
-	.short	5207
-	.short	5140
-	.short	5140
-	.short	22359
-	.short	22359
-	.short	22292
-	.short	9815
-	.short	9766
-	.short	9766
-	.short	9815
-	.short	9766
-	.short	22359
-	.short	22359
-	.short	9766
-	.short	22310
-	.short	5207
-	.short	5140
-	.short	22310
-	.short	22359
-	.short	5140
-	.short	5140
-	.short	22359
-	.short	5207
-	.short	5140
-	.short	22292
-	.short	22359
-	.short	22359
-	.short	5207
-	.short	22292
-	.short	5140
+	.short	9822
+	.short	-23162
 	.short	15677
 	.short	5181
 	.short	5140
-	.short	5207
+	.short	5214
+	.short	5140
+	.short	5140
+	.short	24158
+	.short	24158
+	.short	24084
+	.short	9822
+	.short	9766
+	.short	9766
+	.short	9822
+	.short	9766
+	.short	24158
+	.short	24158
+	.short	9766
+	.short	24102
+	.short	5214
+	.short	5140
+	.short	24102
+	.short	24158
+	.short	5140
+	.short	5140
+	.short	24158
+	.short	5214
+	.short	5140
+	.short	24084
+	.short	24158
+	.short	24158
+	.short	5214
+	.short	24084
+	.short	5140
+	.short	15677
+	.short	5181
+	.short	5140
+	.short	5214
 	.short	15636
 	.short	5181
-	.short	22292
-	.short	22359
+	.short	24084
+	.short	24158
 	.short	5140
 	.short	5140
 	.short	9748
-	.short	5207
-	.short	22292
-	.short	22359
+	.short	5214
+	.short	24084
+	.short	24158
 	.short	550
 	.short	5140
-	.short	9815
+	.short	9822
 	.short	514
 	.short	17990
-	.short	22292
+	.short	24084
 	.short	550
 	.short	17990
 	.short	-19940
@@ -15801,101 +15801,101 @@ GBFTiles:
 	.short	-29948
 	.short	-29301
 	.short	-9253
-	.short	24283
-	.short	14942
-	.short	-26566
+	.short	24027
+	.short	14685
+	.short	-26567
 	.short	-9401
-	.short	24226
-	.short	15076
+	.short	23970
+	.short	14821
 	.short	-26472
 	.short	-9333
-	.short	3934
-	.short	15076
+	.short	3933
+	.short	14821
 	.short	-26472
 	.short	27719
-	.short	3934
-	.short	15076
+	.short	3933
+	.short	14821
 	.short	-26472
 	.short	27652
-	.short	24158
-	.short	14942
-	.short	-26566
+	.short	23901
+	.short	14685
+	.short	-26567
 	.short	18180
-	.short	24283
-	.short	24122
-	.short	-6940
+	.short	24027
+	.short	23865
+	.short	-6683
 	.short	1028
 	.short	-9364
 	.short	-9253
-	.short	24079
+	.short	23823
 	.short	18180
 	.short	-9432
-	.short	24158
-	.short	-7074
-	.short	14906
-	.short	-7007
-	.short	-6940
-	.short	-6940
-	.short	14906
-	.short	-7007
-	.short	-6940
-	.short	15076
-	.short	14906
-	.short	-7110
-	.short	-6940
-	.short	-6940
-	.short	14906
-	.short	-7110
-	.short	14906
-	.short	-7110
-	.short	14906
-	.short	14906
-	.short	14942
-	.short	14906
-	.short	15076
-	.short	14906
-	.short	14906
-	.short	14906
-	.short	14942
-	.short	14906
-	.short	24122
-	.short	24158
-	.short	14906
-	.short	15002
-	.short	14906
-	.short	14906
-	.short	-23836
+	.short	23901
+	.short	-6819
+	.short	14649
+	.short	-6751
+	.short	-6683
+	.short	-6683
+	.short	14649
+	.short	-6751
+	.short	-6683
+	.short	14821
+	.short	14649
+	.short	-6855
+	.short	-6683
+	.short	-6683
+	.short	14649
+	.short	-6855
+	.short	14649
+	.short	-6855
+	.short	14649
+	.short	14649
+	.short	14685
+	.short	14649
+	.short	14821
+	.short	14649
+	.short	14649
+	.short	14649
+	.short	14685
+	.short	14649
+	.short	23865
+	.short	23901
+	.short	14649
+	.short	14747
+	.short	14649
+	.short	14649
+	.short	-23835
 	.short	-9457
 	.short	27756
 	.short	-29813
-	.short	24122
-	.short	-9378
+	.short	23865
+	.short	-9379
 	.short	-29844
 	.short	-29299
-	.short	-7110
-	.short	-9378
+	.short	-6855
+	.short	-9379
 	.short	-29844
 	.short	-20047
-	.short	-6940
-	.short	-9244
+	.short	-6683
+	.short	-9243
 	.short	-29844
 	.short	-20085
-	.short	14906
-	.short	14906
-	.short	-9378
+	.short	14649
+	.short	14649
+	.short	-9379
 	.short	-29844
-	.short	14906
-	.short	14906
-	.short	-24006
+	.short	14649
+	.short	14649
+	.short	-24007
 	.short	-29844
-	.short	-7074
-	.short	14906
-	.short	14906
+	.short	-6819
+	.short	14649
+	.short	14649
 	.short	27841
-	.short	24158
-	.short	14906
-	.short	14906
-	.short	-16070
+	.short	23901
+	.short	14649
+	.short	14649
+	.short	-16071
 	.short	-20085
 	.short	31043
 	.short	-4370
@@ -16043,7 +16043,7 @@ GBFTiles:
 	.short	8122
 	.short	8412
 	.short	-20839
-	.short	22958
+	.short	22702
 	.short	-19884
 	.short	12831
 	.short	-26215
@@ -16057,33 +16057,33 @@ GBFTiles:
 	.short	-26325
 	.short	4505
 	.short	-20888
-	.short	-5441
+	.short	-5442
 	.short	-11286
 	.short	-26729
 	.short	-20948
-	.short	-5543
+	.short	-5544
 	.short	19434
 	.short	19275
 	.short	-20948
-	.short	-16449
-	.short	22873
-	.short	-5441
+	.short	-16706
+	.short	22616
+	.short	-5442
 	.short	-20818
-	.short	22873
-	.short	-20903
-	.short	22958
-	.short	-20903
-	.short	22873
-	.short	22873
-	.short	22873
-	.short	22958
-	.short	22873
-	.short	22873
-	.short	22873
-	.short	22958
-	.short	22873
+	.short	22616
+	.short	-20904
+	.short	22702
+	.short	-20904
+	.short	22616
+	.short	22616
+	.short	22616
+	.short	22702
+	.short	22616
+	.short	22616
+	.short	22616
+	.short	22702
+	.short	22616
 	.short	-20818
-	.short	22873
+	.short	22616
 	.short	-20818
 	.short	4369
 	.short	4526
@@ -16100,37 +16100,37 @@ GBFTiles:
 	.short	-20943
 	.short	19249
 	.short	19275
-	.short	22873
-	.short	-20903
+	.short	22616
+	.short	-20904
 	.short	19249
 	.short	-11309
-	.short	22873
-	.short	22873
+	.short	22616
+	.short	22616
 	.short	19415
 	.short	-11309
-	.short	22999
+	.short	22743
 	.short	-20818
-	.short	12633
+	.short	12632
 	.short	19275
-	.short	22873
+	.short	22616
 	.short	-20818
 	.short	12718
 	.short	19275
 	.short	-20839
-	.short	22958
-	.short	12633
+	.short	22702
+	.short	12632
 	.short	19249
 	.short	12619
-	.short	22999
+	.short	22743
 	.short	12593
-	.short	-20903
+	.short	-20904
 	.short	12619
 	.short	-10447
 	.short	-10281
 	.short	19249
 	.short	12619
 	.short	-10447
-	.short	-10407
+	.short	-10408
 	.short	12593
 	.short	19411
 	.short	12593
@@ -16138,20 +16138,20 @@ GBFTiles:
 	.short	-10281
 	.short	19275
 	.short	12619
-	.short	22873
+	.short	22616
 	.short	-10281
 	.short	12593
 	.short	12593
-	.short	22873
-	.short	-10407
+	.short	22616
+	.short	-10408
 	.short	19275
 	.short	12619
-	.short	-16591
-	.short	-10305
+	.short	-16847
+	.short	-10306
 	.short	-11445
 	.short	19411
 	.short	12778
-	.short	-10305
+	.short	-10306
 	.short	12593
 	.short	19434
 	.short	12619
@@ -16172,17 +16172,17 @@ GBFTiles:
 	.short	-11471
 	.short	-11309
 	.short	-26669
-	.short	-16425
-	.short	-16449
+	.short	-16681
+	.short	-16706
 	.short	-11286
 	.short	-11309
-	.short	-16425
-	.short	-16449
+	.short	-16681
+	.short	-16706
 	.short	-5583
 	.short	12593
 	.short	-10281
 	.short	-10281
-	.short	-5441
+	.short	-5442
 	.short	12593
 	.short	26798
 	.short	15464
@@ -16198,7 +16198,7 @@ GBFTiles:
 	.short	26728
 	.short	-11309
 	.short	12755
-	.short	-10305
+	.short	-10306
 	.short	-20818
 	.short	-11369
 	.short	12755
@@ -16209,11 +16209,11 @@ GBFTiles:
 	.short	12593
 	.short	-10447
 	.short	12593
-	.short	-10305
+	.short	-10306
 	.short	-10281
-	.short	-16591
-	.short	-10305
-	.short	-16449
+	.short	-16847
+	.short	-10306
+	.short	-16706
 	.short	12593
 	.short	-10281
 	.short	20817
@@ -16235,16 +16235,16 @@ GBFTiles:
 	.short	-10281
 	.short	-10281
 	.short	-10281
-	.short	26778
+	.short	26779
 	.short	-10281
-	.short	-16425
+	.short	-16681
 	.short	12593
 	.short	12593
 	.short	-10281
 	.short	-10281
 	.short	-10281
-	.short	-16425
-	.short	22999
+	.short	-16681
+	.short	22743
 	.short	-10281
 	.short	-10281
 	.short	-20818
@@ -16269,7 +16269,7 @@ GBFTiles:
 	.short	8345
 	.short	8224
 	.short	-10281
-	.short	-20838
+	.short	-20837
 	.short	26728
 	.short	26728
 	.short	12593
@@ -16278,7 +16278,7 @@ GBFTiles:
 	.short	-10281
 	.short	-10281
 	.short	-10281
-	.short	-10305
+	.short	-10306
 	.short	-10281
 	.short	-14650
 	.short	-14650
@@ -16302,14 +16302,14 @@ GBFTiles:
 	.short	8296
 	.short	-16024
 	.short	-10322
-	.short	-10305
-	.short	-20838
+	.short	-10306
+	.short	-20837
 	.short	-10281
 	.short	-10281
-	.short	-25897
+	.short	-25641
 	.short	-20818
 	.short	-10281
-	.short	-25897
+	.short	-25641
 	.short	-20818
 	.short	-20818
 	.short	-13626
@@ -16498,8 +16498,8 @@ GBFTiles:
 	.short	-19824
 	.short	17948
 	.short	9766
-	.short	-30812
-	.short	-28574
+	.short	-30555
+	.short	-28575
 	.short	582
 	.short	-17661
 	.short	32330
@@ -16518,8 +16518,8 @@ GBFTiles:
 	.short	5264
 	.short	-19790
 	.short	8114
-	.short	22450
-	.short	22359
+	.short	24242
+	.short	24158
 	.short	-19790
 	.short	-19790
 	.short	5190
@@ -16527,55 +16527,55 @@ GBFTiles:
 	.short	-19790
 	.short	540
 	.short	5158
-	.short	22294
+	.short	24086
 	.short	540
 	.short	15618
-	.short	-30911
-	.short	-15738
+	.short	-30655
+	.short	-15481
 	.short	-16381
 	.short	22028
-	.short	-12317
-	.short	-8102
+	.short	-12316
+	.short	-8103
 	.short	18064
 	.short	9730
-	.short	5207
+	.short	5214
 	.short	5140
-	.short	599
-	.short	5207
+	.short	606
+	.short	5214
 	.short	5140
-	.short	22292
-	.short	22275
+	.short	24084
+	.short	24067
 	.short	5140
 	.short	5181
-	.short	9815
+	.short	9822
 	.short	790
 	.short	15677
-	.short	22292
+	.short	24084
 	.short	550
 	.short	16714
 	.short	5181
-	.short	22292
+	.short	24084
 	.short	9766
-	.short	25162
+	.short	24906
 	.short	5140
 	.short	16750
 	.short	16705
 	.short	-17664
-	.short	-30954
+	.short	-30698
 	.short	-20544
-	.short	-20646
-	.short	23113
+	.short	-20647
+	.short	22857
 	.short	9289
 	.short	25653
 	.short	-30364
-	.short	22359
-	.short	22359
-	.short	-31450
-	.short	-23419
-	.short	22359
+	.short	24158
+	.short	24158
+	.short	-31194
+	.short	-23162
+	.short	24158
 	.short	9766
-	.short	-23388
-	.short	9892
+	.short	-23131
+	.short	9893
 	.short	9766
 	.short	9766
 	.short	9766
@@ -16586,35 +16586,35 @@ GBFTiles:
 	.short	5181
 	.short	9766
 	.short	9766
-	.short	22310
-	.short	22292
-	.short	22382
-	.short	22310
+	.short	24102
+	.short	24084
+	.short	24174
+	.short	24102
 	.short	5181
-	.short	9815
+	.short	9822
 	.short	-17477
 	.short	28234
-	.short	22292
-	.short	9815
-	.short	23815
+	.short	24084
+	.short	9822
+	.short	23559
 	.short	18980
 	.short	15677
-	.short	-31468
-	.short	22310
-	.short	-23514
-	.short	22359
-	.short	9815
+	.short	-31212
+	.short	24102
+	.short	-23258
+	.short	24158
+	.short	9822
 	.short	9766
-	.short	9861
+	.short	9862
 	.short	9766
 	.short	550
 	.short	9766
 	.short	9766
-	.short	-31486
-	.short	645
-	.short	22359
-	.short	-31401
-	.short	-31355
+	.short	-31230
+	.short	646
+	.short	24158
+	.short	-31138
+	.short	-31098
 	.short	17990
 	.short	550
 	.short	-12672
@@ -16662,8 +16662,8 @@ GBFTiles:
 	.short	17940
 	.short	18098
 	.short	6659
-	.short	-25701
-	.short	22308
+	.short	-25958
+	.short	24100
 	.short	7196
 	.short	7196
 	.short	7196
@@ -16687,13 +16687,13 @@ GBFTiles:
 	.short	17990
 	.short	-19940
 	.short	28304
-	.short	-7265
+	.short	-7009
 	.short	17990
 	.short	28230
 	.short	-8801
 	.short	-32305
 	.short	582
-	.short	-25758
+	.short	-26015
 	.short	-12927
 	.short	-12851
 	.short	-4388
@@ -16713,7 +16713,7 @@ GBFTiles:
 	.short	-4370
 	.short	20303
 	.short	17933
-	.short	6021
+	.short	6022
 	.short	3514
 	.short	20287
 	.short	525
@@ -16749,54 +16749,54 @@ GBFTiles:
 	.short	20228
 	.short	1028
 	.short	3341
-	.short	22300
+	.short	24092
 	.short	21542
 	.short	1103
 	.short	-27523
 	.short	-28907
 	.short	336
-	.short	610
+	.short	609
 	.short	4203
 	.short	-28243
 	.short	10654
-	.short	-4906
+	.short	-4650
 	.short	-15989
-	.short	24283
-	.short	3934
-	.short	-6940
+	.short	24027
+	.short	3933
+	.short	-6683
 	.short	-9364
 	.short	-9364
 	.short	4059
-	.short	14906
+	.short	14649
 	.short	1165
 	.short	10311
 	.short	4059
-	.short	-24092
+	.short	-24091
 	.short	1145
 	.short	18180
 	.short	-9432
-	.short	-7153
+	.short	-6897
 	.short	1028
 	.short	18180
 	.short	-9333
-	.short	-24092
+	.short	-24091
 	.short	-29844
 	.short	27787
 	.short	-9364
-	.short	-7153
-	.short	-28585
+	.short	-6897
+	.short	-28578
 	.short	27787
 	.short	-9253
-	.short	24283
+	.short	24027
 	.short	32080
-	.short	-29723
+	.short	-29722
 	.short	-9364
-	.short	24158
-	.short	14906
+	.short	23901
+	.short	14649
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	-27676
+	.short	-27675
 	.short	-27757
 	.short	-27757
 	.short	-27757
@@ -16986,16 +16986,16 @@ GBFTiles:
 	.short	11051
 	.short	-26215
 	.short	26777
-	.short	22958
+	.short	22702
 	.short	-5583
 	.short	-26215
 	.short	-26215
 	.short	-20839
-	.short	22873
+	.short	22616
 	.short	11161
 	.short	-26215
 	.short	4505
-	.short	22958
+	.short	22702
 	.short	-26215
 	.short	-26215
 	.short	4505
@@ -17051,11 +17051,11 @@ GBFTiles:
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	22999
+	.short	22743
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	-6509
+	.short	-7533
 	.short	5911
 	.short	5911
 	.short	5911
@@ -17096,7 +17096,7 @@ GBFTiles:
 	.short	11051
 	.short	8224
 	.short	8224
-	.short	-926
+	.short	-927
 	.short	11051
 	.short	-26215
 	.short	8224
@@ -17108,9 +17108,9 @@ GBFTiles:
 	.short	-23645
 	.short	-9184
 	.short	8156
-	.short	-23404
+	.short	-23148
 	.short	-28649
-	.short	-23419
+	.short	-23162
 	.short	-28670
 	.short	26798
 	.short	-26264
@@ -17170,12 +17170,12 @@ GBFTiles:
 	.short	18030
 	.short	540
 	.short	28270
-	.short	22274
-	.short	-32670
+	.short	24066
+	.short	-32671
 	.short	582
 	.short	5670
-	.short	-23549
-	.short	-32670
+	.short	-23293
+	.short	-32671
 	.short	21682
 	.short	7196
 	.short	7196
@@ -17191,13 +17191,13 @@ GBFTiles:
 	.short	7196
 	.short	7238
 	.short	17990
-	.short	5719
-	.short	22300
-	.short	16007
+	.short	5726
+	.short	24092
+	.short	16008
 	.short	-8857
 	.short	-13091
 	.short	17948
-	.short	-6660
+	.short	-6404
 	.short	-24624
 	.short	-22442
 	.short	-32640
@@ -17243,11 +17243,11 @@ GBFTiles:
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	-3238
+	.short	-3239
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	-15725
+	.short	-15469
 	.short	5911
 	.short	5911
 	.short	5911
@@ -17279,16 +17279,16 @@ GBFTiles:
 	.short	13575
 	.short	-7968
 	.short	25729
-	.short	9306
+	.short	9305
 	.short	-3162
 	.short	13697
 	.short	25824
 	.short	18741
-	.short	23169
-	.short	25690
-	.short	-17470
-	.short	-15843
-	.short	23140
+	.short	22913
+	.short	25689
+	.short	-17469
+	.short	-15587
+	.short	22884
 	.short	25737
 	.short	25700
 	.short	25700
@@ -17296,15 +17296,15 @@ GBFTiles:
 	.short	25653
 	.short	25700
 	.short	25700
-	.short	-8102
-	.short	25690
+	.short	-8103
+	.short	25689
 	.short	-8055
 	.short	25700
-	.short	7512
-	.short	-7587
+	.short	7511
+	.short	-7332
 	.short	-28202
 	.short	18911
-	.short	-31236
+	.short	-30980
 	.short	-28544
 	.short	-28528
 	.short	-28494
@@ -17313,18 +17313,18 @@ GBFTiles:
 	.short	-28494
 	.short	-32640
 	.short	5875
-	.short	-32538
+	.short	-32542
 	.short	5122
 	.short	9281
 	.short	-20663
 	.short	3209
-	.short	-25774
+	.short	-26030
 	.short	-12376
 	.short	13621
 	.short	25700
 	.short	-7968
 	.short	2032
-	.short	23898
+	.short	23641
 	.short	-20700
 	.short	28809
 	.short	2992
@@ -17332,59 +17332,59 @@ GBFTiles:
 	.short	7451
 	.short	13621
 	.short	-28184
-	.short	23130
+	.short	22873
 	.short	-9911
 	.short	13364
 	.short	9524
 	.short	838
 	.short	-14454
 	.short	-20491
-	.short	-6672
+	.short	-6416
 	.short	-24794
 	.short	-12369
 	.short	-20529
 	.short	5156
-	.short	-31196
+	.short	-30940
 	.short	-12369
 	.short	-2609
 	.short	-17578
 	.short	-8273
-	.short	-2723
+	.short	-2724
 	.short	-12299
-	.short	-25649
+	.short	-25905
 	.short	-25199
 	.short	-2787
-	.short	23247
+	.short	22991
 	.short	-2609
 	.short	-8206
-	.short	-15717
+	.short	-15462
 	.short	18774
 	.short	-12369
 	.short	-8234
 	.short	-20529
-	.short	194
+	.short	195
 	.short	-12537
-	.short	-9748
-	.short	-25849
+	.short	-9747
+	.short	-26105
 	.short	240
 	.short	-2809
 	.short	16893
-	.short	-25701
+	.short	-25958
 	.short	-12811
 	.short	-12927
-	.short	-7606
-	.short	24048
+	.short	-7350
+	.short	23792
 	.short	-32272
 	.short	-12415
 	.short	-3856
 	.short	-30391
-	.short	-25616
+	.short	-25872
 	.short	-24673
 	.short	-16384
 	.short	21235
 	.short	18717
 	.short	-12045
-	.short	-3134
+	.short	-3133
 	.short	-24695
 	.short	-30289
 	.short	27165
@@ -17394,20 +17394,20 @@ GBFTiles:
 	.short	-3085
 	.short	-4023
 	.short	-18189
-	.short	-15836
+	.short	-15580
 	.short	-6115
 	.short	9391
 	.short	-3085
 	.short	-3144
 	.short	-3085
 	.short	9245
-	.short	-15678
+	.short	-15421
 	.short	9252
 	.short	1821
 	.short	9252
 	.short	9252
 	.short	-17628
-	.short	-7574
+	.short	-7318
 	.short	9252
 	.short	9252
 	.short	-17628
@@ -17415,7 +17415,7 @@ GBFTiles:
 	.short	9252
 	.short	9252
 	.short	9252
-	.short	-15836
+	.short	-15580
 	.short	9252
 	.short	9252
 	.short	9252
@@ -17423,32 +17423,32 @@ GBFTiles:
 	.short	-17664
 	.short	9252
 	.short	9252
-	.short	27330
-	.short	-15640
+	.short	27331
+	.short	-15384
 	.short	9252
 	.short	9252
 	.short	7460
 	.short	9322
-	.short	9410
+	.short	9411
 	.short	9252
 	.short	-17628
 	.short	7041
 	.short	-2571
-	.short	-25803
+	.short	-26059
 	.short	-25036
 	.short	-2687
 	.short	-8139
 	.short	-32267
 	.short	13775
-	.short	-7200
+	.short	-6944
 	.short	-32267
 	.short	13734
 	.short	-32344
 	.short	4328
-	.short	-2723
+	.short	-2724
 	.short	13697
 	.short	25673
-	.short	-7192
+	.short	-6936
 	.short	-7947
 	.short	-2571
 	.short	-32288
@@ -17465,17 +17465,17 @@ GBFTiles:
 	.short	-32383
 	.short	-32383
 	.short	6168
-	.short	-6662
+	.short	-6406
 	.short	1052
-	.short	24283
-	.short	-24862
+	.short	24027
+	.short	-24861
 	.short	-28887
 	.short	1541
 	.short	-9393
 	.short	-22911
 	.short	6259
 	.short	-28392
-	.short	20322
+	.short	20321
 	.short	-32383
 	.short	13365
 	.short	6168
@@ -17486,16 +17486,16 @@ GBFTiles:
 	.short	1950
 	.short	25700
 	.short	13668
-	.short	22528
+	.short	22272
 	.short	-20729
 	.short	-32383
-	.short	23861
-	.short	24002
-	.short	13661
-	.short	22243
+	.short	23605
+	.short	23747
+	.short	13660
+	.short	22244
 	.short	-20549
-	.short	13658
-	.short	-3101
+	.short	13657
+	.short	-3100
 	.short	-27757
 	.short	5911
 	.short	5911
@@ -17671,14 +17671,14 @@ GBFTiles:
 	.short	-10838
 	.short	-24798
 	.short	-9006
-	.short	-6591
+	.short	-7615
 	.short	31533
 	.short	31671
 	.short	863
-	.short	-23710
+	.short	-23711
 	.short	-14586
 	.short	6860
-	.short	22750
+	.short	22494
 	.short	17119
 	.short	-10502
 	.short	-11823
@@ -17692,16 +17692,16 @@ GBFTiles:
 	.short	-9006
 	.short	6108
 	.short	-11745
-	.short	-6851
+	.short	-6595
 	.short	6098
 	.short	11051
 	.short	-8996
-	.short	-31378
+	.short	-31122
 	.short	-28669
 	.short	8412
 	.short	-26215
 	.short	791
-	.short	6117
+	.short	6118
 	.short	-8996
 	.short	886
 	.short	-12035
@@ -17709,8 +17709,8 @@ GBFTiles:
 	.short	12508
 	.short	-8682
 	.short	16112
-	.short	-31485
-	.short	25111
+	.short	-31229
+	.short	24855
 	.short	-13859
 	.short	1285
 	.short	-14034
@@ -17722,14 +17722,14 @@ GBFTiles:
 	.short	-29593
 	.short	-814
 	.short	-21886
-	.short	-6729
-	.short	-8731
-	.short	-23332
-	.short	-15395
+	.short	-6473
+	.short	-8730
+	.short	-23076
+	.short	-15139
 	.short	5427
 	.short	13235
 	.short	1742
-	.short	-5102
+	.short	-4846
 	.short	13107
 	.short	13107
 	.short	13074
@@ -17737,37 +17737,37 @@ GBFTiles:
 	.short	13107
 	.short	13107
 	.short	-9625
-	.short	13148
+	.short	13147
 	.short	13107
 	.short	1521
-	.short	2904
+	.short	2903
 	.short	13107
-	.short	-5069
+	.short	-4813
 	.short	26475
 	.short	26538
 	.short	-9549
-	.short	22631
+	.short	22375
 	.short	-16982
 	.short	-16963
 	.short	30141
-	.short	22768
+	.short	22512
 	.short	-16963
-	.short	15274
+	.short	15018
 	.short	24362
 	.short	-1938
-	.short	-16853
+	.short	-16597
 	.short	-19661
 	.short	-16931
-	.short	30775
+	.short	30519
 	.short	1674
 	.short	-1485
-	.short	-21416
+	.short	-21417
 	.short	32478
 	.short	-14526
 	.short	-29650
 	.short	-16963
 	.short	-21827
-	.short	-31011
+	.short	-30755
 	.short	-8820
 	.short	-16963
 	.short	-16963
@@ -17976,17 +17976,17 @@ GBFTiles:
 	.short	-28813
 	.short	-24973
 	.short	2959
-	.short	-6448
+	.short	-7472
 	.short	-19824
 	.short	-32590
 	.short	24430
 	.short	9587
 	.short	12330
 	.short	1788
-	.short	17528
+	.short	17527
 	.short	-28917
-	.short	-31117
-	.short	30919
+	.short	-30861
+	.short	30663
 	.short	2338
 	.short	-28785
 	.short	-27490
@@ -17994,7 +17994,7 @@ GBFTiles:
 	.short	-12361
 	.short	10639
 	.short	-10637
-	.short	-25804
+	.short	-26060
 	.short	10875
 	.short	-28273
 	.short	-28770
@@ -18003,19 +18003,19 @@ GBFTiles:
 	.short	-20266
 	.short	-28785
 	.short	29583
-	.short	14306
+	.short	14307
 	.short	-28783
 	.short	-28785
 	.short	-28785
 	.short	1950
 	.short	-18682
-	.short	15279
+	.short	15023
 	.short	-17664
 	.short	15698
 	.short	-20553
 	.short	32290
-	.short	-3941
-	.short	-4008
+	.short	-3942
+	.short	-4009
 	.short	2487
 	.short	32642
 	.short	-32043
@@ -18037,40 +18037,40 @@ GBFTiles:
 	.short	2487
 	.short	-20613
 	.short	7
-	.short	22528
+	.short	22272
 	.short	-1535
 	.short	31554
 	.short	16678
 	.short	1498
-	.short	-5074
+	.short	-4818
 	.short	-8443
 	.short	7530
 	.short	-2840
 	.short	13202
 	.short	26582
 	.short	21224
-	.short	-31045
-	.short	3052
+	.short	-30789
+	.short	3053
 	.short	27571
 	.short	-6038
-	.short	-20346
+	.short	-20345
 	.short	-2549
-	.short	22772
+	.short	22516
 	.short	13057
 	.short	12017
 	.short	-19536
-	.short	22635
+	.short	22379
 	.short	-3583
 	.short	26617
-	.short	344
+	.short	343
 	.short	-8280
 	.short	-3948
 	.short	-17657
-	.short	19590
-	.short	-25688
+	.short	19591
+	.short	-25944
 	.short	14203
 	.short	-17424
-	.short	19590
+	.short	19591
 	.short	27637
 	.short	-27757
 	.short	5911
@@ -18200,13 +18200,13 @@ GBFTiles:
 	.short	5911
 	.short	5911
 	.short	5911
-	.short	23785
-	.short	-28068
+	.short	23529
+	.short	-28069
 	.short	-22103
 	.short	19502
 	.short	-3342
 	.short	435
-	.short	-22180
+	.short	-22181
 	.short	-3408
 	.short	-5719
 	.short	-5655
@@ -18218,12 +18218,12 @@ GBFTiles:
 	.short	-22103
 	.short	-5719
 	.short	-5655
-	.short	-1188
+	.short	-1189
 	.short	-19587
 	.short	-22103
 	.short	-22103
-	.short	3052
-	.short	-22180
+	.short	3053
+	.short	-22181
 	.short	-10627
 	.short	277
 	.short	2961
@@ -18233,7 +18233,7 @@ GBFTiles:
 	.short	10537
 	.short	5387
 	.short	-21141
-	.short	23553
+	.short	23297
 	.short	-5655
 	.short	-2914
 	.short	32076
@@ -18246,8 +18246,8 @@ GBFTiles:
 	.short	-2435
 	.short	-22103
 	.short	-22103
-	.short	23721
-	.short	23802
+	.short	23465
+	.short	23546
 	.short	-22251
 	.short	-22103
 	.short	425
@@ -18257,45 +18257,45 @@ GBFTiles:
 	.short	-9805
 	.short	16752
 	.short	2992
-	.short	22742
+	.short	22486
 	.short	16662
 	.short	-32703
 	.short	-27398
-	.short	22337
-	.short	-9849
+	.short	24129
+	.short	-9848
 	.short	-24609
 	.short	-9973
 	.short	-3864
 	.short	-3856
-	.short	-2661
+	.short	-2662
 	.short	28752
-	.short	-14437
+	.short	-14438
 	.short	-12337
 	.short	-2571
 	.short	28830
 	.short	27444
 	.short	-20650
 	.short	-12337
-	.short	-7675
-	.short	482
+	.short	-7419
+	.short	483
 	.short	22192
 	.short	-12299
-	.short	492
+	.short	493
 	.short	13077
 	.short	22161
 	.short	-2571
 	.short	-1433
 	.short	2995
-	.short	24058
-	.short	-7232
-	.short	-10523
+	.short	23802
+	.short	-6976
+	.short	-10522
 	.short	-2858
 	.short	1968
 	.short	-8419
 	.short	-21996
 	.short	-3408
 	.short	2867
-	.short	22704
+	.short	22448
 	.short	22223
 	.short	-18240
 	.short	-24673
@@ -18303,15 +18303,15 @@ GBFTiles:
 	.short	-20529
 	.short	-3169
 	.short	22259
-	.short	-25827
+	.short	-26083
 	.short	-12299
-	.short	-15717
+	.short	-15462
 	.short	-18295
 	.short	22052
 	.short	-12337
 	.short	-12337
 	.short	-20491
-	.short	-15645
+	.short	-15388
 	.short	-12337
 	.short	-12337
 	.short	-12337
@@ -18327,12 +18327,12 @@ GBFTiles:
 	.short	13716
 	.short	-16177
 	.short	-10645
-	.short	-7664
+	.short	-7408
 	.short	9322
 	.short	9252
 	.short	9252
 	.short	187
-	.short	-15640
+	.short	-15384
 	.short	9252
 	.short	9252
 	.short	7460
@@ -18346,9 +18346,9 @@ GBFTiles:
 	.short	7656
 	.short	217
 	.short	106
-	.short	-15640
+	.short	-15384
 	.short	29
-	.short	3206
+	.short	3207
 	.short	16660
 	.short	7656
 	.short	-8342
@@ -18357,31 +18357,31 @@ GBFTiles:
 	.short	16660
 	.short	27165
 	.short	5661
-	.short	16738
-	.short	-31045
+	.short	16737
+	.short	-30789
 	.short	3108
-	.short	-15843
+	.short	-15587
 	.short	-32267
 	.short	-32383
 	.short	9269
 	.short	7530
-	.short	-32419
-	.short	-7295
-	.short	23264
+	.short	-32420
+	.short	-7039
+	.short	23008
 	.short	-17664
 	.short	-2629
 	.short	22145
-	.short	25827
+	.short	25828
 	.short	-5957
 	.short	18920
 	.short	22145
 	.short	25653
-	.short	-15766
+	.short	-15510
 	.short	-23011
-	.short	23894
+	.short	23638
 	.short	7155
-	.short	23963
-	.short	24048
+	.short	23706
+	.short	23792
 	.short	22128
 	.short	-3872
 	.short	13654
@@ -18398,30 +18398,30 @@ GBFTiles:
 	.short	9269
 	.short	-7968
 	.short	-32439
-	.short	24032
-	.short	23067
+	.short	23776
+	.short	22811
 	.short	-6091
 	.short	13621
-	.short	-32419
+	.short	-32420
 	.short	25700
-	.short	23130
-	.short	-8102
+	.short	22873
+	.short	-8103
 	.short	6941
-	.short	23140
-	.short	23140
+	.short	22884
+	.short	22884
 	.short	7136
 	.short	25700
 	.short	7012
 	.short	-17477
 	.short	-32505
 	.short	25700
-	.short	9306
+	.short	9305
 	.short	473
 	.short	-20492
-	.short	23140
+	.short	22884
 	.short	393
 	.short	-3760
-	.short	492
+	.short	493
 	.short	-19605
 	.short	-3589
 	.short	-27757
@@ -18452,7 +18452,7 @@ GBFTiles:
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	-27924
+	.short	-27923
 	.short	-27757
 	.short	-27757
 	.short	-27757
@@ -18483,7 +18483,7 @@ GBFTiles:
 	.short	-27757
 	.short	-27757
 	.short	-27757
-	.short	-15725
+	.short	-15469
 	.short	-27757
 	.short	-27757
 	.short	-27757
@@ -18500,17 +18500,17 @@ GBFTiles:
 	.short	-29042
 	.short	-29042
 	.short	1285
-	.short	23803
-	.short	23644
-	.short	1372
+	.short	23547
+	.short	23387
+	.short	1371
 	.short	-1707
 	.short	7453
 	.short	-5912
 	.short	27242
 	.short	7530
-	.short	9410
+	.short	9411
 	.short	9252
-	.short	-15843
+	.short	-15587
 	.short	9252
 	.short	9245
 	.short	-17628
@@ -18527,34 +18527,34 @@ GBFTiles:
 	.short	-13563
 	.short	-1518
 	.short	1498
-	.short	23557
+	.short	23301
 	.short	-29179
-	.short	1372
+	.short	1371
 	.short	-9519
 	.short	27571
 	.short	-8269
 	.short	-5957
 	.short	-17635
 	.short	3154
-	.short	9410
-	.short	-15678
-	.short	-15678
+	.short	9411
+	.short	-15421
+	.short	-15421
 	.short	9252
 	.short	9252
 	.short	9252
-	.short	-15836
+	.short	-15580
 	.short	9252
 	.short	9298
-	.short	7618
+	.short	7619
 	.short	7460
-	.short	7618
-	.short	9410
-	.short	27330
+	.short	7619
+	.short	9411
+	.short	27331
 	.short	-6108
-	.short	-17470
+	.short	-17469
 	.short	-21794
 	.short	-16963
-	.short	-31112
+	.short	-30857
 	.short	-21876
 	.short	-27402
 	.short	-4153
@@ -18563,17 +18563,17 @@ GBFTiles:
 	.short	2036
 	.short	-10645
 	.short	-3405
-	.short	-5099
+	.short	-4843
 	.short	7506
 	.short	-5644
-	.short	-9492
+	.short	-9491
 	.short	27495
 	.short	-17628
-	.short	23792
+	.short	23536
 	.short	-3599
 	.short	-1515
 	.short	9252
-	.short	-24894
+	.short	-24893
 	.short	-3789
 	.short	-3599
 	.short	9252
@@ -18585,9 +18585,9 @@ GBFTiles:
 	.short	3049
 	.short	302
 	.short	-16963
-	.short	30775
+	.short	30519
 	.short	26498
-	.short	-4870
+	.short	-4614
 	.short	-29593
 	.short	5394
 	.short	11856
@@ -18601,12 +18601,12 @@ GBFTiles:
 	.short	-20368
 	.short	-9740
 	.short	-19462
-	.short	-4944
-	.short	-5083
+	.short	-4688
+	.short	-4827
 	.short	-1456
 	.short	-3599
-	.short	-4879
-	.short	-28328
+	.short	-4623
+	.short	-28329
 	.short	-2555
 	.short	12022
 	.short	-3760
@@ -18735,7 +18735,7 @@ GBFTiles:
 	.short	-20335
 	.short	-10607
 	.short	17675
-	.short	-7680
+	.short	-7424
 	.short	29616
 	.short	10507
 	.short	214
@@ -18754,59 +18754,59 @@ GBFTiles:
 	.short	2043
 	.short	17733
 	.short	0
-	.short	23677
+	.short	23421
 	.short	179
 	.short	27205
 	.short	27242
-	.short	23677
+	.short	23421
 	.short	26547
 	.short	-22971
 	.short	-32267
 	.short	-10745
 	.short	26610
 	.short	-32344
-	.short	-15819
+	.short	-15563
 	.short	13485
-	.short	27224
+	.short	27223
 	.short	13813
 	.short	-17498
-	.short	-7587
+	.short	-7332
 	.short	-24973
 	.short	-25081
 	.short	-25047
 	.short	-23024
-	.short	3042
+	.short	3043
 	.short	31513
 	.short	-17538
 	.short	19463
-	.short	-19485
-	.short	-25649
+	.short	-19484
+	.short	-25905
 	.short	7453
-	.short	-22440
+	.short	-22441
 	.short	16491
 	.short	7656
 	.short	-6115
 	.short	27499
 	.short	16552
-	.short	-22302
-	.short	-7592
-	.short	-7616
+	.short	-22301
+	.short	-7337
+	.short	-7360
 	.short	16460
 	.short	16448
 	.short	19520
 	.short	-4010
 	.short	13736
-	.short	-7673
-	.short	-25763
+	.short	-7417
+	.short	-26020
 	.short	-8280
-	.short	27224
+	.short	27223
 	.short	-9839
 	.short	22239
-	.short	22557
-	.short	21085
+	.short	22301
+	.short	21084
 	.short	-20247
 	.short	9433
-	.short	-25669
+	.short	-25925
 	.short	9456
 	.short	-27757
 	.short	5911
@@ -18877,7 +18877,7 @@ GBFTiles:
 	.short	9714
 	.short	-9947
 	.short	-20365
-	.short	10588
+	.short	10587
 	.short	3049
 	.short	32242
 	.short	502
@@ -18885,7 +18885,7 @@ GBFTiles:
 	.short	2985
 	.short	-10645
 	.short	-3459
-	.short	23553
+	.short	23297
 	.short	-22039
 	.short	27625
 	.short	-5719
@@ -18904,30 +18904,30 @@ GBFTiles:
 	.short	-22103
 	.short	-22103
 	.short	-22103
-	.short	-31390
+	.short	-31135
 	.short	838
-	.short	-1402
-	.short	-5115
+	.short	-1401
+	.short	-4859
 	.short	9740
 	.short	5190
-	.short	15970
+	.short	15969
 	.short	-3626
 	.short	784
 	.short	17990
 	.short	24390
-	.short	-4874
-	.short	25200
+	.short	-4618
+	.short	24944
 	.short	7238
 	.short	28188
 	.short	82
-	.short	22742
-	.short	25162
-	.short	25091
+	.short	22486
+	.short	24906
+	.short	24835
 	.short	12
 	.short	2857
 	.short	5422
 	.short	1829
-	.short	7650
+	.short	7651
 	.short	-20311
 	.short	-2826
 	.short	-25077
@@ -18935,7 +18935,7 @@ GBFTiles:
 	.short	-22103
 	.short	-3351
 	.short	-5674
-	.short	-21156
+	.short	-21157
 	.short	28775
 	.short	-2914
 	.short	-3682
@@ -18943,45 +18943,45 @@ GBFTiles:
 	.short	-1134
 	.short	-20355
 	.short	-25036
-	.short	-4962
+	.short	-4706
 	.short	-3599
 	.short	-2445
 	.short	3062
-	.short	22707
+	.short	22451
 	.short	-25051
 	.short	29461
-	.short	22539
+	.short	22283
 	.short	506
 	.short	1821
 	.short	7453
 	.short	27165
 	.short	-17477
 	.short	-3577
-	.short	-7438
-	.short	7558
+	.short	-7182
+	.short	7559
 	.short	22052
 	.short	27468
 	.short	-24915
 	.short	-5335
 	.short	-2858
-	.short	32227
-	.short	-7604
+	.short	32228
+	.short	-7348
 	.short	-5763
 	.short	-5719
-	.short	22745
+	.short	22489
 	.short	-24715
 	.short	-28927
 	.short	1907
 	.short	13491
-	.short	-31139
+	.short	-30884
 	.short	-21136
-	.short	22535
-	.short	27618
+	.short	22279
+	.short	27619
 	.short	19532
-	.short	22604
+	.short	22348
 	.short	22142
 	.short	22184
-	.short	-15685
+	.short	-15429
 	.short	22256
 	.short	-16298
 	.short	22256
@@ -18997,20 +18997,20 @@ GBFTiles:
 	.short	22102
 	.short	21018
 	.short	1813
-	.short	22109
+	.short	22108
 	.short	22102
 	.short	15958
 	.short	17923
-	.short	22274
+	.short	24066
 	.short	-2433
 	.short	29492
 	.short	5158
 	.short	5181
-	.short	28770
+	.short	28769
 	.short	2961
-	.short	-4965
+	.short	-4710
 	.short	-28785
-	.short	-5040
+	.short	-4784
 	.short	6168
 	.short	12022
 	.short	6168
@@ -19028,14 +19028,14 @@ GBFTiles:
 	.short	9714
 	.short	6287
 	.short	6168
-	.short	-5099
+	.short	-4843
 	.short	10746
 	.short	6168
-	.short	-5096
-	.short	-7267
+	.short	-4840
+	.short	-7011
 	.short	5383
 	.short	-3789
-	.short	27628
+	.short	27629
 	.short	-24930
 	.short	-21002
 	.short	-3697
@@ -19045,7 +19045,7 @@ GBFTiles:
 	.short	-3598
 	.short	-3599
 	.short	29585
-	.short	-4962
+	.short	-4706
 	.short	28679
 	.short	12022
 	.short	-2445
@@ -19061,9 +19061,9 @@ GBFTiles:
 	.short	-28785
 	.short	-28273
 	.short	9718
-	.short	22544
-	.short	22616
-	.short	24031
+	.short	22288
+	.short	22359
+	.short	23775
 	.short	-3694
 	.short	-27919
 	.short	-3794
@@ -19074,9 +19074,9 @@ GBFTiles:
 	.short	-3599
 	.short	-19554
 	.short	-3835
-	.short	-4879
+	.short	-4623
 	.short	-3760
-	.short	13292
+	.short	13293
 	.short	-3599
 	.short	-3599
 	.short	13297
@@ -19085,24 +19085,24 @@ GBFTiles:
 	.short	-2342
 	.short	-1357
 	.short	1949
-	.short	22557
+	.short	22301
 	.short	-2310
-	.short	-5074
+	.short	-4818
 	.short	-8834
 	.short	-20515
-	.short	-25681
+	.short	-25937
 	.short	-16171
-	.short	-30992
-	.short	32390
+	.short	-30736
+	.short	32391
 	.short	32752
 	.short	-20544
-	.short	492
-	.short	-3748
+	.short	493
+	.short	-3749
 	.short	-3599
 	.short	-19691
-	.short	-4879
-	.short	-3604
-	.short	-4879
+	.short	-4623
+	.short	-3603
+	.short	-4623
 	.short	5397
 	.short	-3599
 	.short	-3599
@@ -19111,16 +19111,16 @@ GBFTiles:
 	.short	-3789
 	.short	-3599
 	.short	-10511
-	.short	-5796
+	.short	-5797
 	.short	1526
 	.short	11994
 	.short	-10701
 	.short	-3794
-	.short	-4884
+	.short	-4627
 	.short	-3694
 	.short	-27919
 	.short	-19494
-	.short	-7532
+	.short	-7276
 	.short	11955
 	.short	2962
 	.short	-2539
@@ -19136,13 +19136,13 @@ GBFTiles:
 	.short	-27981
 	.short	-3599
 	.short	29451
-	.short	-2324
+	.short	-2323
 	.short	-3626
 	.short	11856
 	.short	12022
 	.short	5626
 	.short	20560
-	.short	22778
+	.short	22522
 	.short	-25102
 	.short	11888
 	.short	11827
@@ -19150,7 +19150,7 @@ GBFTiles:
 	.short	-6032
 	.short	20726
 	.short	-2319
-	.short	-31232
+	.short	-30976
 	.short	-25238
 	.short	5397
 	.short	-3338
@@ -19161,16 +19161,16 @@ GBFTiles:
 	.short	-5927
 	.short	28709
 	.short	4133
-	.short	23923
+	.short	23667
 	.short	-12376
 	.short	-12337
 	.short	9714
-	.short	22673
-	.short	-22301
-	.short	23963
+	.short	22417
+	.short	-22300
+	.short	23706
 	.short	9513
 	.short	9629
-	.short	-2723
+	.short	-2724
 	.short	7590
 	.short	-25112
 	.short	2931
@@ -19178,7 +19178,7 @@ GBFTiles:
 	.short	27323
 	.short	-23024
 	.short	1808
-	.short	1885
+	.short	1884
 	.short	4328
 	.short	7431
 	.short	4125
@@ -19190,33 +19190,33 @@ GBFTiles:
 	.short	7590
 	.short	20730
 	.short	27281
-	.short	24040
+	.short	23784
 	.short	-22853
 	.short	13775
-	.short	31714
+	.short	31715
 	.short	26423
 	.short	31543
-	.short	-7269
-	.short	-25624
+	.short	-7014
+	.short	-25880
 	.short	6425
 	.short	32311
 	.short	-17657
 	.short	232
-	.short	-20581
-	.short	-31098
+	.short	-20582
+	.short	-30841
 	.short	-22874
 	.short	22102
 	.short	-14405
 	.short	6425
 	.short	-22874
-	.short	9309
+	.short	9308
 	.short	1979
 	.short	-20531
-	.short	-17470
+	.short	-17469
 	.short	-2763
 	.short	-2571
-	.short	-6051
-	.short	-32357
+	.short	-6052
+	.short	-32358
 	.short	-32383
 	.short	-20607
 	.short	-17477
@@ -19229,33 +19229,33 @@ GBFTiles:
 	.short	-5957
 	.short	7460
 	.short	-17432
-	.short	9410
+	.short	9411
 	.short	7656
-	.short	27330
-	.short	-7614
-	.short	-15843
+	.short	27331
+	.short	-7358
+	.short	-15587
 	.short	-17558
-	.short	27330
+	.short	27331
 	.short	32379
 	.short	21179
-	.short	-15766
-	.short	27330
+	.short	-15510
+	.short	27331
 	.short	-17558
 	.short	21028
-	.short	-15766
+	.short	-15510
 	.short	27172
-	.short	-15836
-	.short	-17470
+	.short	-15580
+	.short	-17469
 	.short	9322
 	.short	-6108
 	.short	1821
 	.short	-17558
-	.short	-15766
+	.short	-15510
 	.short	-17628
 	.short	22261
-	.short	-15843
-	.short	-15640
-	.short	-15836
+	.short	-15587
+	.short	-15384
+	.short	-15580
 	.short	9245
 	.short	-6108
 	.short	9403
@@ -19269,10 +19269,10 @@ GBFTiles:
 	.short	9448
 	.short	27323
 	.short	9252
-	.short	-15836
-	.short	-15766
+	.short	-15580
+	.short	-15510
 	.short	27165
-	.short	9410
+	.short	9411
 	.short	9252
 	.short	-17558
 	.short	27165
@@ -19284,13 +19284,13 @@ GBFTiles:
 	.short	9252
 	.short	-17432
 	.short	27323
-	.short	-15640
+	.short	-15384
 	.short	9252
 	.short	-17432
-	.short	27330
+	.short	27331
 	.short	9252
-	.short	-5950
-	.short	-5950
+	.short	-5949
+	.short	-5949
 	.short	9403
 	.short	9252
 	.short	7611
@@ -19298,7 +19298,7 @@ GBFTiles:
 	.short	9245
 	.short	9252
 	.short	7453
-	.short	-15836
+	.short	-15580
 	.short	9403
 	.short	9252
 	.short	7453
@@ -19309,56 +19309,56 @@ GBFTiles:
 	.short	9252
 	.short	9252
 	.short	9252
-	.short	27330
-	.short	9410
+	.short	27331
+	.short	9411
 	.short	9252
 	.short	9252
 	.short	7460
-	.short	-15640
+	.short	-15384
 	.short	21028
 	.short	9252
 	.short	9252
 	.short	7453
-	.short	-15836
-	.short	-15685
-	.short	27330
-	.short	22662
-	.short	22616
+	.short	-15580
+	.short	-15429
+	.short	27331
+	.short	22407
+	.short	22359
 	.short	9252
-	.short	-15836
+	.short	-15580
 	.short	-6144
-	.short	-30841
+	.short	-30584
 	.short	9252
 	.short	9252
-	.short	-5950
+	.short	-5949
 	.short	17942
 	.short	9252
 	.short	9252
 	.short	9252
 	.short	-6115
 	.short	9252
-	.short	7618
+	.short	7619
 	.short	7611
 	.short	21021
 	.short	9252
-	.short	27330
+	.short	27331
 	.short	-4184
 	.short	14285
-	.short	-15843
+	.short	-15587
 	.short	-17628
-	.short	-22394
+	.short	-22393
 	.short	14135
 	.short	0
 	.short	27242
 	.short	27136
-	.short	22616
-	.short	-8360
-	.short	22751
-	.short	22635
+	.short	22359
+	.short	-8361
+	.short	22495
+	.short	22379
 	.short	14248
 	.short	5706
 	.short	18966
-	.short	1671
+	.short	1672
 	.short	2313
 	.short	7196
 	.short	7196
@@ -19380,18 +19380,18 @@ GBFTiles:
 	.short	14135
 	.short	-12489
 	.short	-3921
-	.short	22616
-	.short	-4008
-	.short	-15738
+	.short	22359
+	.short	-4009
+	.short	-15481
 	.short	-16144
 	.short	-12489
 	.short	-12304
 	.short	-13001
 	.short	32717
 	.short	-20727
-	.short	-31414
+	.short	-31158
 	.short	7196
-	.short	22300
+	.short	24092
 	.short	15644
 	.short	-32703
 	.short	7312
@@ -19399,9 +19399,9 @@ GBFTiles:
 	.short	15644
 	.short	14210
 	.short	-20681
-	.short	3207
+	.short	3208
 	.short	15644
-	.short	-25790
+	.short	-26046
 	.short	-27461
 	.short	-12345
 	.short	32521
@@ -19413,10 +19413,10 @@ GBFTiles:
 	.short	-12337
 	.short	-12337
 	.short	-5985
-	.short	-20643
+	.short	-20644
 	.short	-12337
 	.short	-12337
-	.short	23794
+	.short	23538
 	.short	-9749
 	.short	29456
 	.short	9509
@@ -19424,11 +19424,11 @@ GBFTiles:
 	.short	-9859
 	.short	-2403
 	.short	-20304
-	.short	-9849
+	.short	-9848
 	.short	27143
 	.short	2024
 	.short	1799
-	.short	-22373
+	.short	-22374
 	.short	-12337
 	.short	-12337
 	.short	-12337
@@ -19457,7 +19457,7 @@ GBFTiles:
 	.short	-28291
 	.short	29686
 	.short	1799
-	.short	4184
+	.short	4183
 	.short	-3035
 	.short	-2508
 	.short	-12337
@@ -19490,11 +19490,11 @@ GBFTiles:
 	.short	29486
 	.short	11990
 	.short	-5877
-	.short	23632
+	.short	23376
 	.short	-25219
-	.short	-25635
+	.short	-25891
 	.short	2015
-	.short	-7673
+	.short	-7417
 	.short	9718
 	.short	-12337
 	.short	-12337
@@ -19528,12 +19528,12 @@ GBFTiles:
 	.short	20713
 	.short	29481
 	.short	17821
-	.short	-2938
+	.short	-2937
 	.short	20526
 	.short	10737
 	.short	52
 	.short	-8753
-	.short	-3941
+	.short	-3942
 	.short	32112
 	.short	27353
 	.short	-12337
@@ -19543,7 +19543,7 @@ GBFTiles:
 	.short	-12337
 	.short	-14385
 	.short	-12345
-	.short	-25611
+	.short	-25867
 	.short	17911
 	.short	-2304
 	.short	0
@@ -19570,7 +19570,7 @@ GBFTiles:
 	.short	9617
 	.short	3058
 	.short	-1391
-	.short	12012
+	.short	12013
 	.short	13323
 	.short	-25337
 	.short	20730
@@ -19608,66 +19608,66 @@ GBFTiles:
 	.short	37
 	.short	17664
 	.short	-2057
-	.short	-7673
+	.short	-7417
 	.short	2931
-	.short	-7588
-	.short	23896
-	.short	-12451
+	.short	-7333
+	.short	23639
+	.short	-12452
 	.short	29663
 	.short	-20429
-	.short	24034
+	.short	23779
 	.short	-2957
 	.short	-1379
 	.short	-22039
-	.short	-20388
+	.short	-20389
 	.short	-24973
 	.short	2827
 	.short	-5719
 	.short	-22103
-	.short	-7318
-	.short	349
-	.short	23785
+	.short	-7062
+	.short	348
+	.short	23529
 	.short	-3408
-	.short	-7424
-	.short	23976
+	.short	-7168
+	.short	23720
 	.short	32158
 	.short	-20266
-	.short	-25856
+	.short	-26112
 	.short	-5899
 	.short	2832
 	.short	-25087
-	.short	23914
-	.short	-15632
-	.short	4290
+	.short	23658
+	.short	-15376
+	.short	4291
 	.short	470
 	.short	-22127
 	.short	7666
 	.short	1979
-	.short	9410
+	.short	9411
 	.short	-5638
 	.short	-9749
-	.short	9410
+	.short	9411
 	.short	32292
-	.short	-5652
+	.short	-5651
 	.short	-2327
 	.short	9322
 	.short	-3397
-	.short	32092
-	.short	23644
-	.short	9309
+	.short	32091
+	.short	23387
+	.short	9308
 	.short	443
 	.short	-1623
 	.short	-3715
 	.short	7569
-	.short	-5044
-	.short	23725
+	.short	-4788
+	.short	23469
 	.short	-22037
-	.short	23593
+	.short	23337
 	.short	-20311
 	.short	-25042
 	.short	-22103
 	.short	2857
-	.short	-15765
+	.short	-15509
 	.short	-5877
 	.short	-22103
 	.short	13481
@@ -19688,22 +19688,22 @@ GBFTiles:
 	.short	-24796
 	.short	-24673
 	.short	-24673
-	.short	-7444
+	.short	-7187
 	.short	-24796
 	.short	-24673
 	.short	21151
-	.short	-15784
+	.short	-15529
 	.short	-24796
 	.short	-24673
 	.short	-1349
 	.short	-24796
 	.short	-24673
-	.short	-31196
-	.short	22772
+	.short	-30940
+	.short	22516
 	.short	-24796
 	.short	3231
 	.short	0
-	.short	-15640
+	.short	-15384
 	.short	-24673
 	.short	-24673
 	.short	-24673
@@ -19711,16 +19711,16 @@ GBFTiles:
 	.short	9252
 	.short	-24673
 	.short	-24673
-	.short	-31196
+	.short	-30940
 	.short	27172
 	.short	-24796
 	.short	9375
-	.short	11910
+	.short	11911
 	.short	27323
-	.short	-24638
+	.short	-24637
 	.short	-24673
 	.short	1979
-	.short	-9758
+	.short	-9757
 	.short	-24803
 	.short	-24673
 	.short	21028
@@ -19736,7 +19736,7 @@ GBFTiles:
 	.short	112
 	.short	-24600
 	.short	-24673
-	.short	23802
+	.short	23546
 	.short	-3469
 	.short	4208
 	.short	-5730
@@ -19746,37 +19746,37 @@ GBFTiles:
 	.short	32046
 	.short	-22039
 	.short	-5719
-	.short	29666
-	.short	-4878
+	.short	29667
+	.short	-4622
 	.short	-24838
 	.short	-5719
 	.short	-28304
 	.short	2961
 	.short	-6115
 	.short	29552
-	.short	344
-	.short	23721
+	.short	343
+	.short	23465
 	.short	-17628
-	.short	5510
-	.short	22580
+	.short	5511
+	.short	22324
 	.short	-5730
-	.short	-31196
+	.short	-30940
 	.short	-24963
 	.short	3060
 	.short	-20304
 	.short	-21061
-	.short	-10660
+	.short	-10661
 	.short	3051
-	.short	23553
+	.short	23297
 	.short	-20439
 	.short	-24838
-	.short	-22036
+	.short	-22035
 	.short	-22103
 	.short	2857
 	.short	32001
-	.short	-22180
+	.short	-22181
 	.short	-22103
-	.short	23593
+	.short	23337
 	.short	-1667
 	.short	-27927
 	.short	-22103
@@ -19790,7 +19790,7 @@ GBFTiles:
 	.short	-22096
 	.short	-22103
 	.short	-5719
-	.short	-3492
+	.short	-3493
 	.short	-22261
 	.short	-22039
 	.short	-20247
@@ -19798,23 +19798,23 @@ GBFTiles:
 	.short	-22039
 	.short	3049
 	.short	498
-	.short	-5796
+	.short	-5797
 	.short	-5719
 	.short	10665
 	.short	9473
-	.short	22707
-	.short	344
+	.short	22451
+	.short	343
 	.short	-22103
 	.short	-28183
-	.short	19544
-	.short	-7453
+	.short	19543
+	.short	-7196
 	.short	-22103
 	.short	-5719
 	.short	27634
 	.short	29608
 	.short	-22103
 	.short	-22103
-	.short	-2980
+	.short	-2981
 	.short	16460
 	.short	-22103
 	.short	-22103
@@ -19825,12 +19825,12 @@ GBFTiles:
 	.short	-24919
 	.short	16557
 	.short	-22103
-	.short	-22180
-	.short	23721
+	.short	-22181
+	.short	23465
 	.short	16557
 	.short	-3061
 	.short	27632
-	.short	2908
+	.short	2907
 	.short	16557
 	.short	-22103
 	.short	-22103
@@ -19849,8 +19849,8 @@ GBFTiles:
 	.short	-22126
 	.short	-22103
 	.short	-22464
-	.short	22621
-	.short	23778
+	.short	22364
+	.short	23523
 	.short	-22103
 	.short	19520
 	.short	-3577
@@ -19870,8 +19870,8 @@ GBFTiles:
 	.short	-22103
 	.short	-22103
 	.short	-5719
-	.short	-19620
-	.short	-22180
+	.short	-19621
+	.short	-22181
 	.short	-22103
 	.short	-27991
 	.short	-3438
@@ -19879,11 +19879,11 @@ GBFTiles:
 	.short	-22103
 	.short	-22103
 	.short	-20334
-	.short	23710
+	.short	23454
 	.short	-22103
 	.short	-22103
 	.short	-22103
-	.short	-25605
+	.short	-25861
 	.short	-22103
 	.short	-22103
 	.short	-22103
@@ -19898,27 +19898,27 @@ GBFTiles:
 	.short	-5719
 	.short	-21006
 	.short	16509
-	.short	32226
+	.short	32227
 	.short	-22103
-	.short	-21156
+	.short	-21157
 	.short	16626
-	.short	-7360
+	.short	-7104
 	.short	-22023
 	.short	-1111
 	.short	16491
 	.short	19520
-	.short	-5149
+	.short	-5148
 	.short	10665
 	.short	-22286
 	.short	16633
 	.short	9640
-	.short	-5796
-	.short	-7588
+	.short	-5797
+	.short	-7333
 	.short	-1550
-	.short	-7175
+	.short	-6919
 	.short	-5730
 	.short	-5143
-	.short	19682
+	.short	19683
 	.short	19520
 	.short	12020
 	.short	-5655
@@ -19948,16 +19948,16 @@ GBFTiles:
 	.short	-5207
 	.short	32496
 	.short	-16298
-	.short	-24862
+	.short	-24861
 	.short	-27991
-	.short	-21156
-	.short	22150
+	.short	-21157
+	.short	22151
 	.short	19629
 	.short	-27991
-	.short	23721
-	.short	-31053
+	.short	23465
+	.short	-30797
 	.short	27393
-	.short	-22180
+	.short	-22181
 	.short	-22103
-	.short	27628
+	.short	27629
 	.ident	"GCC: (devkitARM release 53) 9.1.0"
