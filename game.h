@@ -2,8 +2,6 @@
 typedef struct {
     int row;
     int col;
-    int width;
-    int height;
     int rdel;
     int cdel;
     int aniState;
@@ -19,33 +17,45 @@ typedef struct {
     int cdel;
     int active;
     int aniState;
-    int prevAniState; 
+    int prevAniState;
+    int fromRight;
+    int fromTop; 
 } GBF;
 
 // Coins Struct
 typedef struct {
     int row;
     int col;
+    int cdel;
     int active;
     int aniState;
     int prevAniState;
+    int high;
+    int low;
 } COIN;
 
-// Sword/attack "coin"?? Struct
+// Attack Struct
 typedef struct {
     int row;
     int col;
+    int cdel;
     int active;
     int aniState;
     int prevAniState;
-} SWORD;
+} ATTACK;
 
 // Mordecai sprite enum 
 enum {RUN, JUMP, CROUCH, THROW};
 
+
+// Constants
+#define ATTACKCOUNT 5
+
 MORDECAI mordecai;
 COIN coin;
 GBF gbf;
+ATTACK attack[ATTACKCOUNT];
+
 
 // Prototypes
 void initGame();
@@ -64,6 +74,8 @@ void initCoin();
 void updateCoin();
 void drawCoin();
 
-void initSword();
-void updateSword();
-void drawSword();
+void fireAttack();
+
+void initAttack();
+void updateAttack();
+void drawAttack();

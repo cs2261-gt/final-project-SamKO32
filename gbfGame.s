@@ -2367,7 +2367,7 @@ gbfGameTiles:
 	.short	257
 	.short	257
 	.short	257
-	.short	268
+	.short	257
 	.short	11051
 	.short	11051
 	.short	11051

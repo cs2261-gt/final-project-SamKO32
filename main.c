@@ -37,6 +37,7 @@ unsigned short oldButtons;
 int hOff;
 int vOff;
 OBJ_ATTR shadowOAM[128];
+extern int lives;
 
 enum {START, GAME, INSTR, CREDS, PAUSE, LOSE};
 int state;
@@ -168,6 +169,7 @@ void goToGame() {
 
 void game() {
 
+    updateGame();
     drawGame();
     waitForVBlank();
     DMANow(3, shadowOAM, OAM, 128 * 4);
@@ -176,6 +178,9 @@ void game() {
         goToPause();
     }
     if(BUTTON_PRESSED(BUTTON_SELECT)) {
+        goToLose();
+    }
+    if (lives == 0) {
         goToLose();
     }
     
